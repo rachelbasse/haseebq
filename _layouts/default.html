@@ -1,9 +1,30 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang }}">
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
   <head>
+    <meta charset="{{ site.encoding | default: "utf-8" }}">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>{{ site.title }}</title>
+    <meta name="HandheldFriendly" content="True">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=PT+Serif:400,700,400italic,700italic|Noto+Sans:400,700|Droid+Sans+Mono">
+    <link rel="stylesheet" type="text/css" href="{{ site.url }}/assets/semantic/semantic.css">
+    <link rel="stylesheet" type="text/css" href="{{ site.url }}/assets/css/haseebq.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <link rel="shortcut icon" href="{{ site.url }}/assets/favicons/favicon.ico">
+    <link rel="apple-touch-icon-precomposed" sizes="57x57" href="{{ site.url }}/assets/favicons/apple-touch-icon-57x57.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="{{ site.url }}/assets/favicons/apple-touch-icon-72x72.png">
+    <link rel="apple-touch-icon-precomposed" sizes="120x120" href="{{ site.url }}/assets/favicons/apple-touch-icon-120x120.png">
+    <link rel="apple-touch-icon-precomposed" sizes="152x152" href="{{ site.url }}/assets/favicons/apple-touch-icon-152x152.png">
+    <link rel="icon" type="image/png" sizes="196x196" href="{{ site.url }}/assets/favicons/favicon-196x196.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="{{ site.url }}/assets/favicons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="{{ site.url }}/assets/favicons/favicon-16x16.png">
+    {% feed_meta %}
+    {% seo %}
   </head>
   <body>
     {{ content }}
+    <script src="{{ site.url }}/assets/semantic/semantic.min.js"></script>
+    <script src="{{ site.url }}/assets/js/haseebq.js"></script>
+    <script id="dsq-count-scr" src="//xhaseebq.disqus.com/count.js" async></script>
   </body>
 </html>

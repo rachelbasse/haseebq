@@ -1,0 +1,542 @@
+/* =============================================================================
+================================================================================
+  Layout
+============================================================================= */
+/* =============================================================================
+  border
+============================================================================= */
+.site-header {
+  height: 140px;
+  margin: 0 auto 2em;
+  padding: 65px 30px 30px;
+}
+.dead-timer {
+  display: block;
+  background: rgb(255,255,255) bottom right no-repeat scroll;
+  height: 60px;
+  width: 100%;
+}
+
+html
+{ border-bottom: solid 1px transparent;
+  border-top: solid 1px transparent; } /* stop margin-collapse */
+blockquote, code, .framed, pre > code, .preview
+{ border: 1px solid rgb(210,210,210); }
+blockquote
+{ border-left-width: 8px; }
+hr
+{ border-top: 1px solid rgb(210,210,210); }
+@media all and (max-width: 800px)
+{.divider.item { border-top: solid 1px rgb(210,210,210); }}
+@media all and (min-width: 801px)
+{.divider.item { border-left: solid 1px rgb(210,210,210); }}
+.site-menu.trigger
+{ border-radius: 0 0 100% 100%; }
+/* =============================================================================
+  box-shadow
+============================================================================= */
+.ui.menu
+{ box-shadow: none; }
+.site-menu.trigger
+{ box-shadow: 0 0    1px 0 rgba(0,0,0,.3) inset,
+              0 1px  2px 0 rgba(0,0,0,.1),
+              0 3px 10px 0 rgba(0,0,0,.1); }
+.site-menu.trigger:hover
+{ box-shadow: 0 0    1px 0 rgba(0,0,0,.3) inset,
+              0 1px  2px 0 rgba(0,0,0,.1); }
+/* =============================================================================
+  box-sizing
+============================================================================= */
+.caption, .flexbox, .item, .site-header, .spacer
+{ -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box; }
+/* =============================================================================
+  columns
+============================================================================= */
+.menulist
+{   -webkit-columns: auto 2; /* Chrome, Safari, Opera */
+  -moz-column-count: 2; /* Firefox */
+  -moz-column-width: auto; /* Firefox */
+            columns: auto 2;
+ -webkit-column-gap: 16px; /* Chrome, Safari, Opera */
+    -moz-column-gap: 16px; /* Firefox */
+         column-gap: 16px; }
+.item
+{ -webkit-column-break-inside: avoid;
+            page-break-inside: avoid;
+                 break-inside: avoid; }
+/* =============================================================================
+  display
+============================================================================= */
+.aural, head, input[type=hidden], script
+{ display: none; }
+a, code
+{ display: inline; }
+blockquote, .caption, pre > code, form, p > img, .item, .line, .menulist, .poem, .spacer, .stanza
+{ display: block; }
+.flexbox, .site-header
+{ display: -webkit-flex; /* Safari */
+  display: flex; }
+/* =============================================================================
+  flex
+============================================================================= */
+.flexbox
+{ -webkit-flex-flow: row wrap; /* Safari */
+          flex-flow: row wrap;
+  -webkit-justify-content: space-between; /* Safari */
+          justify-content: space-between;
+  -webkit-align-items: flex-start; /* Safari */
+          align-items: flex-start;
+  -webkit-align-content: space-around; /* Safari */
+          align-content: space-around; }
+.site-header
+{ -webkit-flex-flow: row wrap; /* Safari */
+          flex-flow: row wrap;
+  -webkit-justify-content: flex-start; /* Safari */
+          justify-content: flex-start;
+  -webkit-align-items: flex-end; /* Safari */
+          align-items: flex-end;
+  -webkit-align-content: space-between; /* Safari */
+          align-content: space-between;  }
+.left.flexbox
+{ -webkit-justify-content: flex-start; /* Safari */
+  justify-content: flex-start; }
+.right.flexbox
+{ -webkit-justify-content: flex-end; /* Safari */
+  justify-content: flex-end; }
+.center.flexbox
+{ -webkit-justify-content: center; /* Safari */
+          justify-content: center; }
+.middle.flexbox
+{ -webkit-align-items: center; /* Safari */
+  align-items: center; }
+.bottom.flexbox
+{ -webkit-align-items: flex-end; /* Safari */
+  align-items: flex-end; }
+.stretch.flexbox
+{ -webkit-align-items: stretch; /* Safari */
+  align-items: stretch; }
+.flexbox > .item, .site-header > .ui.huge.header
+{ flex: 1 1 auto; }
+.flexbox > .icon.item, .flexbox > .frozen.item, .flexbox.frozen > .item
+{ flex: 0 0 auto; }
+.flexbox > .growing.item
+{ flex: 1 0 auto; }
+.flexbox > .shrinking.item
+{ flex: 0 1 auto; }
+/* =============================================================================
+  height
+============================================================================= */
+hr
+{ height: 0; }
+.twitter-timeline
+{ max-height: 600px; }
+/* =============================================================================
+  margin
+============================================================================= */
+.caption, .centered, .flexbox, p > img, .spacer
+{ margin-left: auto;
+  margin-right: auto; }
+blockquote, form, pre
+{ margin-left: 0;
+  margin-right: 0; }
+i.icon.rightside
+{ margin-left: .25rem;
+  margin-right: 0; }
+.menulist
+{ margin-left: .3em;
+  margin-right: .3em; }
+ol, .poem, ul
+{ margin-left: 1em;
+  margin-right: 1em; }
+.indented
+{ margin-left: 2em; }
+p + .caption, .embed + .caption
+{ margin-top: -1.5em; } /* fix for ghost markdown p */
+body, html
+{ margin-bottom: -1px;
+  margin-top: -1px; }
+.caption
+{ margin-bottom: 1.5em;
+  margin-top: .5em; }
+i.icon.comments, .site-header > .ui.huge.header
+{ margin-bottom: 0; } /* fix for conflict with .ui.comments */
+@media all and (max-width: 800px)
+{ .menulist > a.item { margin-bottom: 5px; }}
+li, .line, .menulist
+{ margin-bottom: .3em;
+  margin-top: .3em; }
+.tight, .ui.tight.header
+{ margin-bottom: .5em;
+  margin-top: .5em; }
+.signature
+{ margin-bottom: .8em;
+  margin-top: 1.8em; }
+h1, h2, h3, h4, h5, .ui.header, .ui .header
+{ margin-bottom: .3em;
+  margin-top: calc(1.1em + 1.1rem); }
+.stanza
+{ margin-bottom: 1.2em;
+  margin-top: 1.2em; }
+.ui.huge.header
+{ margin-bottom: 1.1em; }
+blockquote, form, .gist, hr, ol, .poem, pre, ul
+{ margin-bottom: 1.4em;
+  margin-top: 1.4em; }
+.spacer
+  { margin-bottom: 2em;
+    margin-top: 2em; }
+.spacer, .ui.embed
+{ margin-bottom: 2.4em;
+  margin-top: 2.4em; }
+p
+{ margin-bottom: 1.5em; }
+/* =============================================================================
+  padding
+============================================================================= */
+@media all and (max-width: 500px)
+{ .primary          { padding: 1.1em 1em 1.2em; }
+  .secondary.padded { padding: 1em; }
+  .tertiary.padded  { padding: 1em;}
+  .preview          { padding: 1.4em 1em 0; }}
+@media all and (min-width: 501px) and (max-width: 800px)
+{ .primary          { padding: 2em; }
+  .secondary.padded { padding: .8em .5em; }
+  .tertiary.padded  { padding: .6em;}
+  .preview          { padding: 1.6em 1.6em 0; }}
+@media all and (min-width: 801px)
+{ .primary          { padding: 3em 5em; }
+  .secondary.padded { padding: 1.4em 1em; }
+  .tertiary.padded  { padding: 1em;}
+  .preview          { padding: 2em 2em 0; }}
+.fitted, .fitted.item, .menulist > .item
+{ padding-left: 0;
+  padding-right: 0; }
+.item:first-child
+{ padding-left: 0; }
+.item:last-child
+{ padding-right: 0; }
+a, b, em, q, span, strong
+{ padding-left: .1em;
+  padding-right: .13em; } /* fix letter-spacing misalignment */
+code
+{ padding-left: .2em;
+  padding-right: .2em; }
+.icon.item
+{ padding-left: .3em;
+  padding-right: .3em; }
+.item, .padded
+{ padding-left: .5em;
+  padding-right: .5em; }
+blockquote, pre > code
+{ padding-left: 1em;
+  padding-right: 1em; }
+#site-menu
+{ padding-left: 75px; }
+.fitted, .fitted.item
+{ padding-bottom: 0;
+  padding-top: 0; }
+code
+{ padding-bottom: .1em;
+  padding-top: .1em; }
+.menulist > .item
+{ padding-bottom: .3em;
+  padding-top: .3em; }
+.padded
+{ padding-bottom: .5em;
+  padding-top: .5em; }
+.item
+{ padding-bottom: .8em; }
+blockquote, pre > code, p > img
+{ padding-bottom: 1em;
+  padding-top: 1em; }
+.ui.item.menu
+{ padding: 0; } /* fix conflict with .item */
+.site-menu.trigger
+{ padding: 1.1em .7em .84em .9em; }
+/* =============================================================================
+  position
+============================================================================= */
+body, .flexbox, html, .preview, .spacer
+{ position: relative; }
+.hint
+{ position: absolute; top: .5em; }
+.site-menu.trigger
+{ position: fixed;
+  left: 0;
+  top: 0; }
+/* =============================================================================
+  vertical-align
+============================================================================= */
+i.icon
+{ vertical-align: text-top; }
+/* =============================================================================
+  width
+============================================================================= */
+.menulist > .item
+{ min-width: 120px; }
+.menulist
+{ min-width: 200px; }
+.narrow.item
+{ max-width: 350px;
+  min-width: 190px;
+  width: 26%; }
+.half.item
+{ min-width: 200px;
+  width: 49.4%; }
+.author.item
+{ min-width: 200px;
+  width: 61%; }
+.wide.item
+{ min-width: 300px;
+  width: 73%; }
+.caption
+{ width: 88%; }
+.spacer
+{ max-width: 1000px;
+  width: 96%; }
+.site-header
+{ max-width: 1000px;
+  width: 100%; }
+img
+{ max-width: 100%; }
+hr
+{ width: 100%; }
+@media all and (max-width: 800px) {
+.divider.item { width: 100%; }}
+/* =============================================================================
+  z-index
+============================================================================= */
+.site-menu.trigger
+{ z-index: 999; }
+
+
+
+/* =============================================================================
+
+  Colors & Backgrounds
+============================================================================= */
+/* =============================================================================
+  background
+============================================================================= */
+.site-header
+{ background: transparent no-repeat top left scroll;
+  -webkit-background-size: auto;
+  -moz-background-size: auto;
+  background-size: auto; }
+body, #site-menu
+{ background-color: rgb(255,255,255); }
+.secondary.mat
+{ background-color: rgb(248,250,250); }
+.tertiary.mat
+{ background-color: rgb(236,238,238); }
+blockquote, code, pre > code
+{ background-color: rgb(242,246,248); }
+.site-menu.trigger
+{ background-color: rgb(40,140,210); }
+.ui.basic.buttons .button:hover, .ui.basic.button:hover, .site-menu.trigger:hover
+{ background-color: rgb(0,110,190) !important; }
+.menulist > .item:link:hover, .menulist > .item:link:active, .menulist > .item:link:active,
+.menulist > .item:visited:hover, .menulist > .item:visited:active, .menulist > .item:visited:active
+{ background-color: rgb(242,244,244); }
+/* =============================================================================
+  color
+============================================================================= */
+a, a.ui.header, .ui.header
+{ color: inherit; }
+body, pre > code, .primary
+{ color: rgb(58,60,60); }
+h1, h2, h3, h4, h5, h6, .ui.header, .ui .header
+{ color: rgb(58,60,60); }
+.site-header
+{ color: rgb(90,90,90); }
+.aside, .caption, .lighter, .ui.lighter, .note, .signature, .source, .secondary
+{ color: rgb(130,130,130); }
+code
+{ color: rgb(190,20,40); }
+.site-menu.trigger
+{ color: rgb(255,255,255); }
+.hint, .lightest, .tertiary, .menulist a:link, .menulist a:visited,
+.greyed a:link > i.icon, .greyed a:visited > i.icon
+{ color: rgb(170,170,170); }
+a:link, a:visited, a:link > i.icon, a:visited > i.icon
+{ color: rgb(40,140,210); }
+.primary a:link, .primary a:visited, a.ui.header:link, a.ui.header:visited
+{ color: rgb(0,120,200); }
+a:link:hover, a:link:active, a:link:focus, a:visited:hover, a:visited:active, a:visited:focus,
+a.ui.header:link:hover, a.ui.header:link:active, a.ui.header:link:focus, a.ui.header:visited:hover, a.ui.header:visited:active, a.ui.header:visited:focus,
+a:link:hover > i.icon, a:link:active > i.icon, a:link:focus > i.icon, a:visited:hover > i.icon, a:visited:active > i.icon, a:visited:focus > i.icon
+{ color: rgb(0,0,180); }
+/* =============================================================================
+================================================================================
+  Effects
+============================================================================= */
+/* =============================================================================
+  content
+============================================================================= */
+q:before
+{ content: '‘'; font-size: 1.1em; }
+q:after
+{ content: '’'; font-size: 1.1em; }
+.source:before
+{ content: '—'; }
+/* =============================================================================
+  cursor
+============================================================================= */
+a.item, .trigger
+{ cursor: pointer; }
+/* =============================================================================
+  transition
+============================================================================= */
+.spacer
+{ -webkit-transition: all .4s ease-in .07s; /* Safari */
+  transition: all .4s ease-in .07s; }
+
+
+/* =============================================================================
+
+  Typography
+============================================================================= */
+
+/* =============================================================================
+  font-family
+============================================================================= */
+body, .caption, .hint, h1, h2, h3, h4, h5, h6, html, .sans, .secondary, table, .tertiary, .ui.header, .ui .header
+{ font-family: 'Noto Sans', 'Source Sans Pro', 'Open Sans', 'Droid Sans', 'Helvetica', sans-serif !important; }
+.preview, .primary, .serif
+{ font-family: 'PT Serif', 'Noto Serif', 'Droid Serif', 'Georgia', serif; }
+code
+{ font-family: 'Droid Sans Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, Courier, monospace; }
+/* =============================================================================
+  font-size
+============================================================================= */
+pre > code, .tiny
+{ font-size: .74em; }
+code
+{ font-size: .8em; }
+blockquote, .hint, .smaller, .source
+{ font-size: .9em; }
+.tertiary
+{ font-size: 1rem; }
+h6, .secondary, .ui.tiny.header, .ui .tiny.header
+{ font-size: 1em; }
+h5, .larger, .preview
+{ font-size: 1.1em; }
+.primary
+{ font-size: 1.18em; }
+i.icon, i.icons, .item.icon > i.icon
+{ font-size: 1.18em; }
+h4, .ui.small.header, .ui .small.header
+{ font-size: 1.2em; }
+h3, .ui.medium.header, .ui .medium.header, .ui.header, .ui .header
+{ font-size: 1.56em; }
+h2, .ui.large.header, .ui .large.header
+{ font-size: 1.8em; }
+h1, .ui.huge.header, .ui .huge.header
+{ font-size: 2.6em; }
+.site-menu.trigger
+{ font-size: 15px; }
+@media all and (max-width: 500px) {
+body, html
+{ font-size: 14px; }
+a:not(.big-enough), a > i.icon
+{ font-size: 16px; }}
+@media all and (min-width: 501px) and (max-width: 800px) {
+body, html
+{ font-size: 15px; }
+a:not(.big-enough), a > i.icon
+{ font-size: 16px; }}
+@media all and (min-width: 801px) {
+body, html
+{ font-size: 16px; }}
+/* =============================================================================
+  font-smooth
+============================================================================= */
+body, html
+{  -webkit-font-smoothing: subpixel-antialiased;
+  -moz-osx-font-smoothing: auto;
+              font-smooth: always;
+           text-rendering: optimizeLegibility; }
+/* =============================================================================
+  font-style
+============================================================================= */
+em, .italic, q, .signature, .source
+{ font-style: italic; }
+/* =============================================================================
+  font-weight
+============================================================================= */
+body, html, .ui.header, .ui .header
+{ font-weight: 400; }
+b, .bold, h1, h2, h3, h4, h5, h6, strong, .primary .ui.header, .primary .ui .header, .site-header .ui.header, .site-header .ui .header
+{ font-weight: 700; }
+/* =============================================================================
+  letter-spacing
+============================================================================= */
+body, .caption, .hint, h1, h2, h3, h4, h5, h6, html, .sans, .secondary, table, .tertiary, .ui.header, .ui .header
+{ letter-spacing: -0.045em; }
+.preview, .primary, .serif
+{ letter-spacing: -0.011em; }
+/* =============================================================================
+  line-height
+============================================================================= */
+.site-menu.trigger
+{ line-height: 1em; }
+h1, h2, h3, h4, h5, h6, .ui.header, .ui .header
+{ line-height: 1.1em; }
+body, .line, .preview p
+{ line-height: 1.5em; }
+pre > code, p
+{ line-height: 1.66em; }
+/* =============================================================================
+  list-style
+============================================================================= */
+ul
+{ list-style: outside circle url(); }
+/* =============================================================================
+  quotes
+============================================================================= */
+q
+{ quotes: "“" "”"; }
+/* =============================================================================
+  text-align
+============================================================================= */
+.caption, .center-text, .site-menu.trigger
+{ text-align: center; }
+.left-text
+{ text-align: left; }
+.right-text
+{ text-align: right; }
+/* =============================================================================
+  text-decoration
+============================================================================= */
+del
+{ text-decoration: line-through; }
+/* =============================================================================
+  text-shadow
+============================================================================= */
+body, html
+{ text-shadow: .01em .01em 1px rgba(0,0,0,.1); }
+h1, h2, h3, h4, h5, h6, .ui.header, .ui .header
+{ text-shadow: 0 0 0 rgba(0,0,0,.06); }
+.site-header
+{ text-shadow: .14em .1em .2em rgb(255,255,255); }
+/* =============================================================================
+  white-space
+============================================================================= */
+.no-break
+{ white-space: nowrap; }
+pre
+{ white-space: pre; }
+/* =============================================================================
+  word-break
+============================================================================= */
+.no-break
+{ word-break: keep-all; }
+/* =============================================================================
+  word-spacing
+============================================================================= */
+.ui.large.header, .ui .large.header, .ui.huge.header, .ui .huge.header
+{ word-spacing: .1em; }
+body, html
+{ word-spacing: .14em; }
