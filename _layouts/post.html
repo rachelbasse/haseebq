@@ -25,7 +25,7 @@ layout: default
       {% include tags.html tags=page.tags %}
     </div>
     <div class="frozen item">
-      {{ page.date | "%B %d %Y" }}
+      {{ page.date | date: "%B %d %Y" }}
     </div>
   </div>
 
@@ -62,9 +62,9 @@ layout: default
                 <a title="Follow me!" href="https://twitter.com/{{ site.integrations.twitter }}"><i class="ui twitter icon"></i></a>
                 <a title="See my code!" href="https://github.com/{{ site.integrations.github }}"><i class="ui github icon"></i></a>
                 <a title="Follow me!" href="https://medium.com/@{{ site.integrations.medium }}"><i class="ui medium icon"></i></a>
+                <a title="Like me!"href="https://www.facebook.com/{{ site.integrations.facebook }}"><i class="ui facebook f icon"></i></a>
                 <a title="Watch me!" href="https://www.youtube.com/user/{{ site.integrations.youtube }}/videos"><i class="ui youtube play icon"></i></a>
                 <a title="Read me!" href="https://www.amazon.com/How-Be-Poker-Player-Philosophy-ebook/dp/B00HFDJU6A/"><i class="ui amazon icon"></i></a>
-                <a title="Like me!"href="https://www.facebook.com/{{ site.integrations.facebook }}"><i class="ui facebook f icon"></i></a>
               </div>
             </div>
           </div>

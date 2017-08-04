@@ -15,6 +15,11 @@ I waste a lot of time on Reddit. If I want to procrastinate on something, I'll o
 
 I needed an abstinence plan.
 
+```python
+def f(x, y):
+  return map(x, y)
+```
+
 So it occurred to me: how about I lock myself out of my account? 
 
 <div class="ui embed" data-url="https://www.youtube.com/embed/zI-riJZiY7s">[video]</div>
@@ -28,12 +33,6 @@ I set a random password on my account. Then I asked a friend to e-mail me this p
 This should have worked.
 
 Unfortunately it turns out, friends are very susceptible to social engineering. The technical terminology for this is that they are &ldquo;nice to you&rdquo; and will give you back your password if you &ldquo;beg them.&rdquo;
-
-![](https://media.giphy.com/media/uB6rsQFg5yPzW/giphy.gif)
-
-But that's not enough&mdash;most likely, there will be a prefix to the string that I missed, because I started in a random place. Easy enough: all I have to do is now repeat the process, except going backwards.
-
-![](https://cdn-images-1.medium.com/max/800/1*F_n0WGRP_8RJdFtR-v0b1g.png)
 
 Once the process terminates, I should be able to reconstruct the password. In total, I'll need to figure out `L` characters (where `L` is the length), and need to expend on average `A/2` guesses per character (where `A` is the alphabet size), so total guesses = `A/2 \* L`.
 
@@ -55,7 +54,7 @@ I'll start by making an API class.
 
 Of course, we don't expect this to work yet, as our script won't be authenticated into any account. As we can see, the response returns a 302 redirect with an error message provided in the cookie.
 
-``` ruby
+```ruby
 [10] pry(main)> Api.get("foo")
 => #<:response:0x007fc01a5716d8>
 ...
@@ -82,7 +81,7 @@ So I add these to the script. (This is a fake cookie, just for illustration.)
 
 <script src="https://gist.github.com/Haseeb-Qureshi/8eaaf329895f3dc64a069b7f2c0a0197.js"></script><noscript>View the code on [Gist](https://gist.github.com/Haseeb-Qureshi/8eaaf329895f3dc64a069b7f2c0a0197).</noscript>
 
-``` ruby
+```ruby
 [29] pry(main)> Api.get("foo")
 => "\n<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01//EN\"\"http://www.w3.org/TR/html4/strict.dtd\">\n<html>\n<head>\n\t<meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\" />\n\t<meta name=\"Description\" content=\"LetterMeLater.com allows you to send emails to anyone, with the ability to have them sent at any future date and time you choose.\" />\n\t<meta name=\"keywords\" content=\"schedule email, recurring, repeating, delayed, text messaging, delivery, later, future, reminder, date, time, capsule\" />\n\t<title>LetterMeLater.com — Account Information</title>…
 [30] pry(main)> _.include?("Haseeb")
@@ -99,7 +98,7 @@ We've got the scraping down, now we just have to parse the result. Luckily, this
 
 That's all we need for our API class. We can now do substring queries entirely in Ruby.
 
-``` ruby
+```ruby
 [31] pry(main)> Api.include?('password')
 => true
 [32] pry(main)> Api.include?('f')
