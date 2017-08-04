@@ -1,0 +1,12 @@
+title: haseeb qureshi
+title_separator: "-"
+url: https://rachelbasse.github.io
+permalink: /:title/
+layout: default
+encoding: "utf-8"
+markdown_ext: "md"
+timezone: UTC #America/Los_Angeles
+
+exclude:
+  - .gitignore
+  - README.md
