@@ -18,13 +18,15 @@ name: Haseeb Qureshi
 # site
 
 baseurl: ""
-cover: /assets/images/timers.jpg
+cover: images/timers.jpg
 domain: github.io
 encoding: utf-8
 lang: en
 layout: default
 markdown_ext: md
 permalink: /:title/
+placeholder: images/placeholder.jpg
+profile: images/haseeb-profile-pink.jpg
 timezone: UTC #America/Los_Angeles
 title: haseeb qureshi
 title_separator: "-"
