@@ -34,6 +34,7 @@ defaults:
     values:
       image: placeholder.jpg
       layout: post
+      permalink: /:title/
   -
     scope:
       path: _posts
@@ -50,7 +51,9 @@ defaults:
 domain: github.io
 encoding: utf-8
 excerpt_separator: "\n\n"
+highlighter: rogue
 lang: en
+markdown: kramdown
 markdown_ext: md
 permalink: /:title/
 placeholder: images/placeholder.jpg
