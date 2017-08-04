@@ -19,7 +19,19 @@ name: Haseeb Qureshi
 # site
 
 baseurl: ""
+collections:
+  tags:
+    output: true
+    permalink: /:collection/:path/
 cover: images/timers.jpg
+defaults:
+  -
+    scope:
+      path: _tags
+      type: tags
+    values:
+      layout: list
+      type: tags
 domain: github.io
 encoding: utf-8
 excerpt_separator: "\n\n"
