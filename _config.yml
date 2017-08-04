@@ -30,12 +30,10 @@ cover: images/timers.jpg
 defaults:
   -
     scope:
-      path: pages
-      type: pages
+      path: ""
     values:
       image: placeholder.jpg
       layout: post
-      permalink: /:title/
   -
     scope:
       path: _posts
