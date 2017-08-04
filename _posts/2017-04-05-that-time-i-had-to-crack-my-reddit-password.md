@@ -1,6 +1,6 @@
 ---
 date: 2017-04-05 11:11:11
-tags: programming, blockchain
+tags: [programming, blockchain]
 title: That Time I Had to Crack My Reddit Password
 ---
 

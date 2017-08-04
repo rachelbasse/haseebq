@@ -1,0 +1,5 @@
+{% for tag in include.tags %}
+<a href="{{ site.url }}/tag/{{ tag | slugify }}">
+  {{ tag }}
+</a>
+{% endfor %}
