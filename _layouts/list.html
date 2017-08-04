@@ -11,6 +11,8 @@ layout: default
 {% for page in site.posts %}
 <div class="spacer">
   <div class="preview">
+    {% include preview.html page=page %}
+    {% comment %}
     <div class="ui medium header">
       <a class="big-enough" href="{{ page.url }}">{{ page.title }}</a>
     </div>
@@ -32,6 +34,7 @@ layout: default
         <span class="disqus-comment-count" data-disqus-url="{{ site.url }}/{{ page.url }}"></span>
       </div>
     </div>
+    {% endcomment %}
   </div>
 </div>
 {% endfor %}
