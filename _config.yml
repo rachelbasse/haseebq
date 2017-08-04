@@ -59,6 +59,8 @@ highlighter: rouge
 lang: en
 markdown: kramdown
 markdown_ext: md
+paginate: 10
+paginate_path: "/page:num/"
 permalink: /:title/
 placeholder: images/placeholder.jpg
 profile: images/haseeb-profile-pink.jpg
