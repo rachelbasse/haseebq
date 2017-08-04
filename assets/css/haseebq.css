@@ -38,11 +38,11 @@ hr
 { box-shadow: none; }
 .site-menu.trigger
 { box-shadow: 0 0    1px 0 rgba(0,0,0,.3) inset,
-              0 1px  2px 0 rgba(0,0,0,.1),
-              0 3px 10px 0 rgba(0,0,0,.1); }
+              0 1px  2px 0 rgba(0,0,0,.15),
+              0 3px  5px 0 rgba(0,0,0,.1); }
 .site-menu.trigger:hover
 { box-shadow: 0 0    1px 0 rgba(0,0,0,.3) inset,
-              0 1px  2px 0 rgba(0,0,0,.1); }
+              0 1px  2px 0 rgba(0,0,0,.15); }
 /* =============================================================================
   box-sizing
 ============================================================================= */
@@ -253,7 +253,7 @@ blockquote, pre > code, p > img
 .ui.item.menu
 { padding: 0; } /* fix conflict with .item */
 .site-menu.trigger
-{ padding: 1.1em .7em 1.1em .9em; }
+{ padding: 1.1em .7em .9em .9em; }
 /* =============================================================================
   position
 ============================================================================= */
