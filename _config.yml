@@ -55,7 +55,7 @@ defaults:
 domain: github.io
 encoding: utf-8
 excerpt_separator: "\n\n"
-highlighter: rogue
+highlighter: rouge
 lang: en
 markdown: kramdown
 markdown_ext: md

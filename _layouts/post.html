@@ -123,8 +123,20 @@ layout: default
 
 <div class="ui divider"></div>
 
+{% if page.next %}
 <div class="spacer">
   <div class="preview">
+    {% include preview.html page=page.next %}
     <div class="hint">next</div>
   </div>
 </div>
+{% endif %}
+
+{% if page.previous %}
+<div class="spacer">
+  <div class="preview">
+    {% include preview.html page=page.previous %}
+    <div class="hint">prev</div>
+  </div>
+</div>
+{% endif %}

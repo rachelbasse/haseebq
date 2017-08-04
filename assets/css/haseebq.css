@@ -29,18 +29,18 @@ hr
 {.divider.item { border-top: solid 1px rgb(210,210,210); }}
 @media all and (min-width: 801px)
 {.divider.item { border-left: solid 1px rgb(210,210,210); }}
-.xsite-menu.trigger
-{ border-radius: 0 0 100% 100%; }
+.site-menu.trigger
+{ border-radius: 4px; }
 /* =============================================================================
   box-shadow
 ============================================================================= */
 .ui.menu
 { box-shadow: none; }
-.xsite-menu.trigger
+.site-menu.trigger
 { box-shadow: 0 0    1px 0 rgba(0,0,0,.3) inset,
               0 1px  2px 0 rgba(0,0,0,.1),
               0 3px 10px 0 rgba(0,0,0,.1); }
-.xsite-menu.trigger:hover
+.site-menu.trigger:hover
 { box-shadow: 0 0    1px 0 rgba(0,0,0,.3) inset,
               0 1px  2px 0 rgba(0,0,0,.1); }
 /* =============================================================================
@@ -253,7 +253,7 @@ blockquote, pre > code, p > img
 .ui.item.menu
 { padding: 0; } /* fix conflict with .item */
 .site-menu.trigger
-{ padding: 1.1em .7em .84em .9em; }
+{ padding: 1.1em .7em 1.1em .9em; }
 /* =============================================================================
   position
 ============================================================================= */
@@ -263,8 +263,8 @@ body, .flexbox, html, .preview, .spacer
 { position: absolute; top: .5em; }
 .site-menu.trigger
 { position: fixed;
-  left: 0;
-  top: 0; }
+  left: 6px;
+  top: 6px; }
 /* =============================================================================
   vertical-align
 ============================================================================= */
@@ -326,7 +326,7 @@ hr
   background-size: auto; }
 .dead-timer
 { background: transparent bottom right no-repeat scroll; }
-body, body.pushable > .pusher, #sbmarwbth, #site-menu
+body, body.pushable > .pusher, #sbmarwbth, #site-menu, .site-menu.trigger
 { background-color: rgb(250,253,254); }
 .secondary.mat
 { background-color: rgb(248,250,250); }
@@ -334,9 +334,7 @@ body, body.pushable > .pusher, #sbmarwbth, #site-menu
 { background-color: rgb(236,238,238); }
 blockquote, code, pre > code
 { background-color: rgb(242,246,248); }
-.xsite-menu.trigger
-{ background-color: rgb(40,140,210); }
-.ui.basic.buttons .button:hover, .ui.basic.button:hover, .xsite-menu.trigger:hover
+.ui.basic.buttons .button:hover, .ui.basic.button:hover
 { background-color: rgb(0,110,190) !important; }
 .menulist > .item:link:hover, .menulist > .item:link:active, .menulist > .item:link:active,
 .menulist > .item:visited:hover, .menulist > .item:visited:active, .menulist > .item:visited:active
@@ -346,18 +344,18 @@ blockquote, code, pre > code
 ============================================================================= */
 a, a.ui.header, .ui.header
 { color: inherit; }
-body, pre > code, .primary
+body, pre > code, .primary, .site-menu.trigger:hover, .site-menu.trigger:active, .site-menu.trigger:focus
 { color: rgb(58,60,60); }
 h1, h2, h3, h4, h5, h6, .ui.header, .ui .header
 { color: rgb(58,60,60); }
-.site-header, .site-menu.trigger
+.site-header
 { color: rgb(90,90,90); }
+.site-menu.trigger
+{ color: rgb(110,110,110); }
 .aside, .caption, .lighter, .ui.lighter, .note, .signature, .source, .secondary
 { color: rgb(130,130,130); }
 code
 { color: rgb(190,20,40); }
-.xsite-menu.trigger
-{ color: rgb(255,255,255); }
 .hint, .lightest, .tertiary, .menulist a:link, .menulist a:visited,
 .greyed a:link > i.icon, .greyed a:visited > i.icon
 { color: rgb(170,170,170); }
