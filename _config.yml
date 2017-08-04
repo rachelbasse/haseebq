@@ -13,6 +13,7 @@ integrations: # Values here will be instered as USERNAME
   rss: rss #
   twitter: hosseeb
   youtube: INTERNETPOKERS # https://www.youtube.com/user/USERNAME/videos
+location: San Francisco
 name: Haseeb Qureshi
 
 # site
