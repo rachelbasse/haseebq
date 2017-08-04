@@ -22,7 +22,7 @@
   </head>
   <body>
     <div id="site-menu" class="ui top sidebar">
-      <a href="/">/home</a>
+      {% include navigation.html %}
     </div>
     <a class="site-menu trigger"><i class="ui content icon"></i></a>
     <div class="pusher">
@@ -30,10 +30,11 @@
       <div class="ui divider"></div>
       <div class="secondary spacer">
         <div class="ui tight small header">Popular</div>
+        <a href="">TODO featured posts</a>
         <div class="ui divider"></div>
-        <a href="/">/home</a>
+        {% include navigation.html %}
       </div>
-      <div class="dead-timer" style="background-image: url({{ site.url }}/images/dead-timer.jpg}});"></div>
+      <div class="dead-timer" style="background-image: url({{ site.url }}/images/dead-timer.jpg);"></div>
     </div>
     <script src="{{ site.url }}/assets/semantic/semantic.min.js"></script>
     <script src="{{ site.url }}/assets/js/haseebq.js"></script>
