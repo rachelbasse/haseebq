@@ -12,7 +12,6 @@
 }
 .dead-timer {
   display: block;
-  background: rgb(255,255,255) bottom right no-repeat scroll;
   height: 60px;
   width: 100%;
 }
@@ -321,10 +320,12 @@ hr
   background
 ============================================================================= */
 .site-header
-{ background: transparent no-repeat top left scroll;
+{ background: transparent top left no-repeat scroll;
   -webkit-background-size: auto;
   -moz-background-size: auto;
   background-size: auto; }
+.dead-timer
+{ background: transparent bottom right no-repeat scroll; }
 body, body.pushable > .pusher, #sbmarwbth, #site-menu
 { background-color: rgb(250,253,254); }
 .secondary.mat
@@ -403,7 +404,7 @@ a.item, .trigger
   font-family
 ============================================================================= */
 body, .caption, .hint, h1, h2, h3, h4, h5, h6, html, .sans, .secondary, table, .tertiary, .ui.header, .ui .header
-{ font-family: 'Lato', 'Noto Sans', 'Source Sans Pro', 'Open Sans', 'Droid Sans', 'Helvetica', sans-serif !important; }
+{ font-family: 'PT Sans', 'Lato', 'Noto Sans', 'Source Sans Pro', 'Open Sans', 'Droid Sans', 'Helvetica', sans-serif !important; }
 .preview, .primary, .serif
 { font-family: 'PT Serif', 'Noto Serif', 'Droid Serif', 'Georgia', serif; }
 code

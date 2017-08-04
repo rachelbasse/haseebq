@@ -1,5 +1,5 @@
 #
-# Editing this file can easily break things. Be prepared for it.
+# Editing this file can easily break things. Be prepared.
 #
 
 # personal
@@ -30,7 +30,7 @@ cover: images/timers.jpg
 defaults:
   -
     scope:
-      path: ""
+      path: pages
     values:
       image: placeholder.jpg
       layout: post
