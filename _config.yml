@@ -28,14 +28,14 @@ collections:
     permalink: /:collection/:path/
 cover: images/timers.jpg
 defaults:
-#  -
-#      scope:
-#        path: pages
-#        type: pages
-#      values:
-#        image: placeholder.jpg
-#        layout: post
-#        permalink: /:title/
+  -
+      scope:
+        path: pages
+        type: pages
+      values:
+        image: placeholder.jpg
+        layout: post
+        permalink: /:title/
   -
     scope:
       path: _posts

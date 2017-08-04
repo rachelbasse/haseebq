@@ -403,7 +403,7 @@ a.item, .trigger
   font-family
 ============================================================================= */
 body, .caption, .hint, h1, h2, h3, h4, h5, h6, html, .sans, .secondary, table, .tertiary, .ui.header, .ui .header
-{ font-family: 'PT Sans', 'Noto Sans', 'Source Sans Pro', 'Open Sans', 'Droid Sans', 'Helvetica', sans-serif !important; }
+{ font-family: 'Lato', 'Noto Sans', 'Source Sans Pro', 'Open Sans', 'Droid Sans', 'Helvetica', sans-serif !important; }
 .preview, .primary, .serif
 { font-family: 'PT Serif', 'Noto Serif', 'Droid Serif', 'Georgia', serif; }
 code
@@ -434,7 +434,7 @@ h3, .ui.medium.header, .ui .medium.header, .ui.header, .ui .header
 h2, .ui.large.header, .ui .large.header
 { font-size: 1.8em; }
 h1, .ui.huge.header, .ui .huge.header
-{ font-size: 2.2em; }
+{ font-size: 2.4em; }
 .site-menu.trigger
 { font-size: 15px; }
 @media all and (max-width: 500px) {
