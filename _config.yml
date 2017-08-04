@@ -39,7 +39,7 @@ defaults:
   -
     scope:
       path: _posts
-    values:name
+    values:
       image: placeholder.jpg
       layout: post
   -
