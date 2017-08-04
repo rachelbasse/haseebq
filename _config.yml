@@ -1,3 +1,7 @@
+#
+# Editing this file can easily break things. Be prepared for it.
+#
+
 # personal
 
 author: Haseeb Qureshi
@@ -8,7 +12,6 @@ integrations: # Values here will be instered as USERNAME
   disqus: xhaseebq
   facebook: someguynamedhaseeb #
   github: haseeb-qureshi
-  mailchimp:
   medium: hosseeb # https://medium.com/@USERNAME
   rss: rss #
   twitter: hosseeb
@@ -27,6 +30,12 @@ cover: images/timers.jpg
 defaults:
   -
     scope:
+      path: ""
+    values:
+      image: images/placeholder.jpg
+      layout: post
+  -
+    scope:
       path: _tags
       type: tags
     values:
@@ -36,7 +45,6 @@ domain: github.io
 encoding: utf-8
 excerpt_separator: "\n\n"
 lang: en
-layout: post
 markdown_ext: md
 permalink: /:title/
 placeholder: images/placeholder.jpg

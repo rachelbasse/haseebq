@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
   <head>
+    <title>{{ page.title | default: "home" }} - {{ site.title }}</title>
     <meta charset="{{ site.encoding | default: "utf-8" }}">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="HandheldFriendly" content="True">
@@ -18,7 +19,7 @@
     <link rel="icon" type="image/png" sizes="32x32" href="{{ site.url }}/assets/favicons/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="{{ site.url }}/assets/favicons/favicon-16x16.png">
     {% feed_meta %}
-    {% seo %} <!-- also sets title element -->
+    {% seo title=false %} <!-- set title element? -->
   </head>
   <body>
     <div id="site-menu" class="ui top sidebar">
