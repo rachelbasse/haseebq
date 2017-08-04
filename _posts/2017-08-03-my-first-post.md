@@ -1,6 +1,8 @@
 ---
 date: 2017-08-03 11:11:11
+image: blockchain.png
 layout: post
+tags: programming
 title: My First Post
 ---
 

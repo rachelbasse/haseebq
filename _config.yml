@@ -18,6 +18,7 @@ name: Haseeb Qureshi
 # site
 
 baseurl: ""
+cover: /assets/images/timers.jpg
 domain: github.io
 encoding: utf-8
 lang: en

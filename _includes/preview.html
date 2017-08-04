@@ -1,0 +1,21 @@
+<div class="ui medium header">
+  <a class="big-enough" href="{{ page.url }}">{{ page.title }}</a>
+</div>
+<div class="ui divider"></div>
+<div class="flexbox">
+  <div class="narrow item">
+    <a class="ui fluid image" href="{{ page.url }}">
+      <img src="{{ site.url }}/images/{{ page.image }}"></a>
+  </div>
+  <div class="wide item">
+    <p>!!excerpt goes here!!&hellip;<br><a class="no-break" href="{{ page.url }}">read more <i class="ui caret right icon"></i></a></p>
+  </div>
+</div>
+<div class="tertiary tight middle flexbox">
+  <div class="item">{{ page.tags }}</div>
+  <div class="frozen item">{{ page.date }}</div>
+  <div class="frozen item">
+    <i class="ui comments outline icon"></i>
+    <span class="disqus-comment-count" data-disqus-url="https://haseebq.com{{ page.url }}"></span>
+  </div>
+</div>

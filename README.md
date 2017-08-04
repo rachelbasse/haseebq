@@ -5,17 +5,17 @@
 - [x] Make first stupid commit to test the things already!
 - [ ] Main files to edit
   - [ ] \_config.yml
-  - [ ] README
-  - [ ] .gitignore
+  - [ ] README.md
+  - [ ] .gitignore - ignore images or not?
   - [ ] CONTRIBUTING.md
   - [ ] ISSUE_TEMPLATE.md
   - [ ] 404.html/md
-- [ ] Edit hbd to liquid
+- [ ] Convert handlebars to liquid
 - [ ] Import posts from json
   - [ ] Replace cloudinary links
 - [ ] Change domain, CNAME file
 - [ ] Move cloudinary to /images, change links
-- [ ] Test emojithings. :muscle: :balloon: :punch:
+- [x] Test emojithings. :muscle: :balloon: :punch:
 - [ ] How do drafts work? Which way? my-post.draft.md?
 
 ## Put these somewhere else
