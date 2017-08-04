@@ -5,7 +5,7 @@
 <div class="flexbox">
   <div class="narrow item">
     <a class="ui fluid image" href="{{ page.url }}">
-      <img src="{{ site.url }}/images/{%- if page.image -%}{{ page.image }}{%- else -%}placeholder.jpg{%- endif -%}"></a>
+      <img src="{{ site.url }}/images/{% if page.image %}{{ page.image }}{% else %}placeholder.jpg{% endif %}"></a>
   </div>
   <div class="wide item">
     <p>{{ page.excerpt }}&hellip;<br><a class="no-break" href="{{ page.url }}">read more <i class="ui caret right icon"></i></a></p>
