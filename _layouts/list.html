@@ -12,29 +12,6 @@ layout: default
 <div class="spacer">
   <div class="preview">
     {% include preview.html page=page %}
-    {% comment %}
-    <div class="ui medium header">
-      <a class="big-enough" href="{{ page.url }}">{{ page.title }}</a>
-    </div>
-    <div class="ui divider"></div>
-    <div class="flexbox">
-      <div class="narrow item">
-        <a class="ui fluid image" href="{{ page.url }}">
-          <img src="{{ site.url }}/images/{% if page.image %}{{ page.image }}{% else %}placeholder.jpg{% endif %}"></a>
-      </div>
-      <div class="wide item">
-        <p>{{ page.excerpt }}&hellip;<br><a class="no-break" href="{{ page.url }}">read more <i class="ui caret right icon"></i></a></p>
-      </div>
-    </div>
-    <div class="tertiary tight middle flexbox">
-      <div class="item">{{ page.tags }}</div>
-      <div class="frozen item">{{ page.date }}</div>
-      <div class="frozen item">
-        <i class="ui comments outline icon"></i>
-        <span class="disqus-comment-count" data-disqus-url="{{ site.url }}/{{ page.url }}"></span>
-      </div>
-    </div>
-    {% endcomment %}
   </div>
 </div>
 {% endfor %}

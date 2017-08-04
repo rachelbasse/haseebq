@@ -8,14 +8,16 @@
       <img src="{{ site.url }}/images/{% if include.page.image %}{{ include.page.image }}{% else %}placeholder.jpg{% endif %}"></a>
   </div>
   <div class="wide item">
-    <p>{{ include.page.excerpt }}&hellip;<br><a class="no-break" href="{{ include.page.url }}">read more <i class="ui caret right icon"></i></a></p>
+    <p>{{ include.page.content | strip_html | truncate: 400 }}<br>
+      <a class="no-break" href="{{ include.page.url }}">read more <i class="ui caret right icon"></i></a>
+    </p>
   </div>
 </div>
 <div class="tertiary tight middle flexbox">
   <div class="item">{{ include.page.tags }}</div>
-  <div class="frozen item">{{ include.page.date | }}</div>
+  <div class="frozen item">{{ include.page.date | %b %Y }}</div>
   <div class="frozen item">
     <i class="ui comments outline icon"></i>
-    <span class="disqus-comment-count" data-disqus-url="{{ site.url }}/{{ include.url }}"></span>
+    <span class="disqus-comment-count" data-disqus-url="{{ site.url }}/{{ include.page.url }}"></span>
   </div>
 </div>

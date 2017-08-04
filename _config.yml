@@ -21,8 +21,9 @@ baseurl: ""
 cover: images/timers.jpg
 domain: github.io
 encoding: utf-8
+excerpt_separator: "\n\n"
 lang: en
-layout: default
+layout: post
 markdown_ext: md
 permalink: /:title/
 placeholder: images/placeholder.jpg
