@@ -219,7 +219,7 @@ p
 { padding-right: 0; }
 a, b, em, q, span, strong
 { padding-left: .1em;
-  padding-right: .13em; } /* fix letter-spacing misalignment */
+  padding-right: .1em; } /* fix letter-spacing misalignment */
 code
 { padding-left: .2em;
   padding-right: .2em; }
@@ -325,8 +325,8 @@ hr
   -webkit-background-size: auto;
   -moz-background-size: auto;
   background-size: auto; }
-body, #site-menu
-{ background-color: rgb(255,255,255); }
+body, #sbmarwbth, #site-menu
+{ background-color: rgb(250,253,254); }
 .secondary.mat
 { background-color: rgb(248,250,250); }
 .tertiary.mat
@@ -403,7 +403,7 @@ a.item, .trigger
   font-family
 ============================================================================= */
 body, .caption, .hint, h1, h2, h3, h4, h5, h6, html, .sans, .secondary, table, .tertiary, .ui.header, .ui .header
-{ font-family: 'Noto Sans', 'Source Sans Pro', 'Open Sans', 'Droid Sans', 'Helvetica', sans-serif !important; }
+{ font-family: 'PT Sans', Noto Sans', 'Source Sans Pro', 'Open Sans', 'Droid Sans', 'Helvetica', sans-serif !important; }
 .preview, .primary, .serif
 { font-family: 'PT Serif', 'Noto Serif', 'Droid Serif', 'Georgia', serif; }
 code
@@ -424,7 +424,7 @@ h6, .secondary, .ui.tiny.header, .ui .tiny.header
 h5, .larger, .preview
 { font-size: 1.1em; }
 .primary
-{ font-size: 1.18em; }
+{ font-size: 1.14em; }
 i.icon, i.icons, .item.icon > i.icon
 { font-size: 1.18em; }
 h4, .ui.small.header, .ui .small.header
@@ -434,7 +434,7 @@ h3, .ui.medium.header, .ui .medium.header, .ui.header, .ui .header
 h2, .ui.large.header, .ui .large.header
 { font-size: 1.8em; }
 h1, .ui.huge.header, .ui .huge.header
-{ font-size: 2.6em; }
+{ font-size: 2.2em; }
 .site-menu.trigger
 { font-size: 15px; }
 @media all and (max-width: 500px) {

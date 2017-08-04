@@ -32,7 +32,7 @@ defaults:
     scope:
       path: ""
     values:
-      image: images/placeholder.jpg
+      image: placeholder.jpg
       layout: post
   -
     scope:
