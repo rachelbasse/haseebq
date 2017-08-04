@@ -10,7 +10,7 @@
     <div class="ui small header">Topics</div>
     <div class="menulist">
       {% for tag in site.tags %}
-        <a class="item" href="{{ site.url }}/tags/{{ tag[0] | slugify }}">/{{ tag[0] }}</a>
+        <a class="item" href="{{ tag.url }}">/{{ tag.name }}</a>
       {% endfor %}
     </div>
   </div>
