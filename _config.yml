@@ -26,18 +26,22 @@ collections:
   tags:
     output: true
     permalink: /:collection/:path/
+  pages:
+    output: true
+    permalink: /:title/
 cover: images/timers.jpg
 defaults:
   -
     scope:
-      path: pages
+      path: _pages
+      type: pages
     values:
       image: placeholder.jpg
       layout: post
-      permalink: /:title/
   -
     scope:
       path: _posts
+      type: posts
     values:
       image: placeholder.jpg
       layout: post

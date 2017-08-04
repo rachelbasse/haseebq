@@ -20,3 +20,4 @@ Various authors/copyright holders, licenses.
 - https://help.github.com/articles/basic-writing-and-formatting-syntax/
 - https://pages.github.com/versions/
 - https://github.com/github/pages-gem
+- https://github.com/jneen/rouge/wiki/List-of-supported-languages-and-lexers
