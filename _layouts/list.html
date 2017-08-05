@@ -5,7 +5,7 @@ layout: default
 {% case page.type %}
   {% when 'home' %}
     {% assign title = site.title %}
-    {% assign pages = site.posts | pop: 10 %}
+    {% assign pages = site.posts[0..10] %}
   {% when 'tags' %}
     {% assign title = page.name %}
     {% assign pages = site.posts | where_exp: "post", "post.tags contains title" %}
