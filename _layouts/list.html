@@ -9,6 +9,9 @@ layout: default
   {% when 'tags' %}
     {% assign title = page.name %}
     {% assign pages = site.posts | where_exp: "post", "post.tags contains title"  %}
+  {% when 'years' %}
+    {% assign title = page.name %}
+    {% assign pages = site.posts | where_exp: "post", "post.date | date: %Y == title"  %}
   {% else %}
     {% assign title = 'results' %}
     {% assign pages = site.posts %}

@@ -11,6 +11,11 @@ def mmmap(func, lst):
   return map(func, lst)
 ```
 
+``` python
+def mmmap(func, lst):
+  return map(func, lst)
+```
+
 {% highlight python %}
 def mmmap(func, lst):
   return map(func, lst)

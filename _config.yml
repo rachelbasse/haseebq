@@ -23,12 +23,15 @@ name: Haseeb Qureshi
 
 baseurl: ""
 collections:
-  tags:
-    output: true
-    permalink: /:collection/:path/
   pages:
     output: true
     permalink: /:title/
+  tags:
+    output: true
+    permalink: /:collection/:path/
+  years:
+    output: true
+    permalink: /:collection/:path/
 cover: images/timers.jpg
 defaults:
   -
@@ -52,6 +55,13 @@ defaults:
     values:
       layout: list
       type: tags
+  -
+    scope:
+      path: _years
+      type: years
+    values:
+      layout: list
+      type: years
 domain: github.io
 encoding: utf-8
 excerpt_separator: "\n\n"
