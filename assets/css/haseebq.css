@@ -31,7 +31,7 @@ hr
 @media all and (min-width: 801px)
 {.divider.item { border-left: solid 1px rgb(210,210,210); }}
 .site-menu.trigger
-{ border-radius: 3px; }
+{ border-radius: 4px; }
 /* =============================================================================
   box-shadow
 ============================================================================= */
@@ -39,7 +39,7 @@ hr
 { box-shadow: none; }
 .site-menu.trigger
 { box-shadow: 0 0   1px 0 rgba(0,0,0,.4) inset,
-              0 1px 3px 0 rgba(0,0,0,.15); }
+              0 1px 2px 0 rgba(0,0,0,.12); }
 .site-menu.trigger:hover
 { box-shadow: 0 0 1px 0 rgba(0,0,0,.4) inset; }
 /* =============================================================================

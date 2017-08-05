@@ -18,7 +18,7 @@ What does it take to be a good negotiator?
 
 Most people think negotiating well is just looking the other person in the eye, appearing confident, and asking for tons of money. But being a good negotiator is a lot more subtle than that.
 
-<div class=\\\"ui embed\\\" data-url=\\\"https://www.youtube.com/embed/7hYKw-hL6OM/\\\">[video]</div>
+<div class="ui embed" data-url="https://www.youtube.com/embed/7hYKw-hL6OM/">[video]</div>
 
 ## What Good Negotiators Sound Like
 
@@ -151,7 +151,7 @@ First, we have to rewind and understand what brought us to this offer in the fir
 * About 30% pass through to an on-site, so roughly 3 onsites. These onsites require the coordination of 6-7 employees ($10800)
 * Finally, they make one offer. The recruiter (and potentially the executive staff) need to spend time on the phone with the offeree convincing and negotiating. ($900)
 
-<p class=\\\"note\\\">Numbers nabbed from <a href=\\\"https://www.quora.com/What-is-the-average-cost-of-recruiting-an-engineer-in-Silicon-Valley/answer/Rick-Brownlow?srid=tvlO\\\">here</a>.</p>
+<p class="note">Numbers nabbed from <a href="https://www.quora.com/What-is-the-average-cost-of-recruiting-an-engineer-in-Silicon-Valley/answer/Rick-Brownlow?srid=tvlO">here</a>.</p>
 
 All-in-all this process took about 45 days from start to finish.
 
