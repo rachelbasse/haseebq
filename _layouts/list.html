@@ -35,7 +35,6 @@ layout: default
     </div>
     {% for page in site.posts %}
       {% capture page_year %}{{ page.date | date: "%Y" }}{% endcapture %}
-      <p>page_year: {{ page_year }} year_name: {{ year_name }}</p>
       {% if page_year == year_name %}
         <div class="spacer">
           <div class="preview">
