@@ -7,7 +7,7 @@ layout: default
     <div class="site-header" style="background-image: url({{ site.url }}/{{ site.cover }})">
       <div class="ui huge header">{{ site.title }}</div>
     </div>
-    {% for page in site.posts limit:2 %}
+    {% for page in site.posts limit:10 %}
       <div class="spacer">
         <div class="preview">
           {% include preview.html page=page %}
@@ -29,21 +29,25 @@ layout: default
       {% endif %}
     {% endfor %}
   {% when 'years' %}
+    {% assign year_name = page.name %}
     <div class="site-header" style="background-image: url({{ site.url }}/{{ site.cover }})">
-      <div class="ui huge header">{{ page.name }}</div>
+      <div class="ui huge header">{{ year_name }}</div>
     </div>
     {% for page in site.posts %}
-      <div class="spacer">
-        <div class="preview">
-          {% include preview.html page=page %}
+      {% assign page_year = '2017' %}
+      {% if page_year contains year_name %}
+        <div class="spacer">
+          <div class="preview">
+            {% include preview.html page=page %}
+          </div>
         </div>
-      </div>
+      {% endif %}
     {% endfor %}
   {% else %}
     <div class="site-header" style="background-image: url({{ site.url }}/{{ site.cover }})">
       <div class="ui huge header">{{ 'results' }}</div>
     </div>
-    {% for page in site.posts %}
+    {% for page in site.posts limit:20 %}
       <div class="spacer">
         <div class="preview">
           {% include preview.html page=page %}
