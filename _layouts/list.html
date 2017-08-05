@@ -35,7 +35,7 @@ layout: default
     </div>
     {% for page in site.posts %}
       {% assign page_year = "2017" %}
-      {% if page_year == "2017" %}
+      {% if page_year == year_name %}
         <div class="spacer">
           <div class="preview">
             {% include preview.html page=page %}
