@@ -1,5 +1,5 @@
 ---
-image: blockchain.png
+image: hacker-dark.png
 tags: [personal, programming]
 title: My First Post
 ---
