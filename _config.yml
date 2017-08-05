@@ -28,10 +28,10 @@ collections:
     permalink: /:title/
   tags:
     output: true
-    permalink: /:collection/:path/
+    permalink: /:path/
   years:
     output: true
-    permalink: /:collection/:path/
+    permalink: /:path/
 cover: images/timers.jpg
 defaults:
   -
