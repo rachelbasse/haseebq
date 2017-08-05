@@ -59,8 +59,6 @@ highlighter: rouge
 lang: en
 markdown: kramdown
 markdown_ext: md
-paginate: 10
-paginate_path: "/page:num/"
 permalink: /:title/
 placeholder: images/placeholder.jpg
 profile: images/haseeb-profile-pink.jpg
@@ -79,14 +77,12 @@ exclude:
   - Gemfile.lock
   - README.md
 gems:
-  #- jekyll-archives
   - jekyll-avatar
   - jekyll-feed
   - jekyll-gist
   - jekyll-mentions
-  - jekyll-paginate
   - jekyll-redirect-from
-  #- jekyll-relative-links
+  - jekyll-relative-links
   - jekyll-seo-tag
   - jekyll-sitemap
   - jemoji

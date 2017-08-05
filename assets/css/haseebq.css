@@ -30,7 +30,7 @@ hr
 @media all and (min-width: 801px)
 {.divider.item { border-left: solid 1px rgb(210,210,210); }}
 .site-menu.trigger
-{ border-radius: 4px; }
+{ border-radius: 3px; }
 /* =============================================================================
   box-shadow
 ============================================================================= */
@@ -39,7 +39,7 @@ hr
 .site-menu.trigger
 { box-shadow: 0 0    1px 0 rgba(0,0,0,.3) inset,
               0 1px  2px 0 rgba(0,0,0,.15),
-              0 3px  5px 0 rgba(0,0,0,.1); }
+              0 3px  4px 0 rgba(0,0,0,.1); }
 .site-menu.trigger:hover
 { box-shadow: 0 0    1px 0 rgba(0,0,0,.3) inset,
               0 1px  2px 0 rgba(0,0,0,.15); }
@@ -435,7 +435,7 @@ h2, .ui.large.header, .ui .large.header
 h1, .ui.huge.header, .ui .huge.header
 { font-size: 2.4em; }
 .site-menu.trigger
-{ font-size: 15px; }
+{ font-size: 14px; }
 @media all and (max-width: 500px) {
 body, html
 { font-size: 14px; }
