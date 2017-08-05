@@ -60,6 +60,11 @@ hr
  -webkit-column-gap: 16px; /* Chrome, Safari, Opera */
     -moz-column-gap: 16px; /* Firefox */
          column-gap: 16px; }
+.menulist
+{   -webkit-columns: auto 4; /* Chrome, Safari, Opera */
+ -moz-column-count: 4; /* Firefox */
+ -moz-column-width: auto; /* Firefox */
+           columns: auto 4; }
 .item
 { -webkit-column-break-inside: avoid;
             page-break-inside: avoid;
