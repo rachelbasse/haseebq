@@ -29,14 +29,14 @@ layout: default
       {% endif %}
     {% endfor %}
   {% when 'years' %}
-    {% assign year_name = page.name %}
+    {% capture year_name %}{{ page.name }}{% endcapture %}
     <div class="site-header" style="background-image: url({{ site.url }}/{{ site.cover }})">
       <div class="ui huge header">{{ year_name }}</div>
     </div>
     {% for page in site.posts %}
-      {% capture page_year %}{{page.date | date: "%Y" }}{% endcapture %}
-      <p>page_year:{{ page_year }} year_name: {{ year_name }}</p>
-      {% if page_year contains year_name %}
+      {% capture page_year %}{{ page.date | date: "%Y" }}{% endcapture %}
+      <p>page_year: {{ page_year }} year_name: {{ year_name }}</p>
+      {% if page_year == year_name %}
         <div class="spacer">
           <div class="preview">
             {% include preview.html page=page %}
