@@ -16,7 +16,7 @@ def mmmap(func, lst):
   return map(func, lst)
 ```
 
-{% highlight python %}
+{% highlight python linenos %}
 def mmmap(func, lst):
   return map(func, lst)
 {% endhighlight %}
