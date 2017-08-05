@@ -4,27 +4,48 @@ layout: default
 
 {% case page.type %}
   {% when 'home' %}
-    {% assign title = site.title %}
-    {% assign pages = site.posts[0..10] %}
+    <div class="site-header" style="background-image: url({{ site.url }}/{{ site.cover }})">
+      <div class="ui huge header">{{ site.title }}</div>
+    </div>
+    {% for page in site.posts limit: 2 %}
+      <div class="spacer">
+        <div class="preview">
+          {% include preview.html page=page %}
+        </div>
+      </div>
+    {% endfor %}
   {% when 'tags' %}
-    {% assign title = page.name %}
     {% assign pages = site.posts | where_exp: "post", "post.tags contains title" %}
+    <div class="site-header" style="background-image: url({{ site.url }}/{{ site.cover }})">
+      <div class="ui huge header">{{ page.name }}</div>
+    </div>
+    {% for page in pages %}
+      <div class="spacer">
+        <div class="preview">
+          {% include preview.html page=page %}
+        </div>
+      </div>
+    {% endfor %}
   {% when 'years' %}
-    {% assign title = page.name %}
-    {% assign pages = site.posts %}
+    <div class="site-header" style="background-image: url({{ site.url }}/{{ site.cover }})">
+      <div class="ui huge header">{{ page.name }}</div>
+    </div>
+    {% for page in site.posts %}
+      <div class="spacer">
+        <div class="preview">
+          {% include preview.html page=page %}
+        </div>
+      </div>
+    {% endfor %}
   {% else %}
-    {% assign title = 'results' %}
-    {% assign pages = site.posts %}
+    <div class="site-header" style="background-image: url({{ site.url }}/{{ site.cover }})">
+      <div class="ui huge header">{{ 'results' }}</div>
+    </div>
+    {% for page in site.posts %}
+      <div class="spacer">
+        <div class="preview">
+          {% include preview.html page=page %}
+        </div>
+      </div>
+    {% endfor %}
 {% endcase %}
-
-<div class="site-header" style="background-image: url({{ site.url }}/{{ site.cover }})">
-  <div class="ui huge header">{{ title }}</div>
-</div>
-
-{% for page in pages %}
-<div class="spacer">
-  <div class="preview">
-    {% include preview.html page=page %}
-  </div>
-</div>
-{% endfor %}
