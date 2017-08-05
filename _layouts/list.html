@@ -34,7 +34,7 @@ layout: default
       <div class="ui huge header">{{ year_name }}</div>
     </div>
     {% for page in site.posts %}
-      {% assign page_year = "2017" %}
+      {% assign page_year = page.date | date: "%Y" %}
       {% if page_year == year_name %}
         <div class="spacer">
           <div class="preview">
