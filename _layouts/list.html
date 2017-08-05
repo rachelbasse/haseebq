@@ -34,7 +34,7 @@ layout: default
       <div class="ui huge header">{{ year_name }}</div>
     </div>
     {% for page in site.posts %}
-      {% capture page_year %}{{page.date | date: "%Y"}}{% endcapture %}
+      {% capture page_year %}{{page.date | date: "%Y" | strip }}{% endcapture %}
       {% if page_year == year_name %}
         <div class="spacer">
           <div class="preview">
