@@ -7,7 +7,7 @@ layout: default
     <div class="site-header" style="background-image: url({{ site.url }}/{{ site.cover }})">
       <div class="ui huge header">{{ site.title }}</div>
     </div>
-    {% for page in site.posts limit: 2 %}
+    {% for page in site.posts limit:2 %}
       <div class="spacer">
         <div class="preview">
           {% include preview.html page=page %}
@@ -15,11 +15,12 @@ layout: default
       </div>
     {% endfor %}
   {% when 'tags' %}
-    {% assign pages = site.posts | where_exp: "post", "post.tags contains title" %}
+    {% assign tag = page.name %}
     <div class="site-header" style="background-image: url({{ site.url }}/{{ site.cover }})">
-      <div class="ui huge header">{{ page.name }}</div>
+      <div class="ui huge header">{{ tag }}</div>
     </div>
-    {% for page in pages %}
+    {% for page in site.posts %}
+      {% if page.tags contains tag %}
       <div class="spacer">
         <div class="preview">
           {% include preview.html page=page %}

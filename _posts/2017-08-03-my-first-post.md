@@ -1,5 +1,5 @@
 ---
-image: hacker-dark.png
+image: hacker.png
 tags: [personal, programming]
 title: My First Post
 ---
