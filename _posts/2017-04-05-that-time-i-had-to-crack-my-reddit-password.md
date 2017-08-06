@@ -15,8 +15,29 @@ I waste a lot of time on Reddit. If I want to procrastinate on something, I'll o
 I needed an abstinence plan.
 
 ```python
-def f(x, y):
-  return map(x, y)
+# (and parallelized) by an external test driver.
+
+class Driver:
+
+    def __init__(self, *, whitelist: List[str], blacklist: List[str],
+            lf: bool, ff: bool,
+            arglist: List[str], pyt_arglist: List[str],
+            verbosity: int, parallel_limit: int,
+            xfail: List[str], coverage: bool) -> None:
+        self.whitelist = whitelist
+        self.blacklist = blacklist
+        self.arglist = arglist
+        self.pyt_arglist = pyt_arglist
+        self.verbosity = verbosity
+        self.waiter = Waiter(verbosity=verbosity, limit=parallel_limit, xfail=xfail, lf=lf, ff=ff)
+```
+
+```html
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+  <head>thing&amp;</head>
+  <body class="this">some text</body>
+</html>
 ```
 
 So it occurred to me: how about I lock myself out of my account? 
