@@ -39,7 +39,7 @@ defaults:
       path: _pages
       type: pages
     values:
-      date: 'now'
+      date: 2017-08-01
       image: placeholder.jpg
       layout: post
   -
