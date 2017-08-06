@@ -1,5 +1,5 @@
 ---
-title: The Philosophy of Poker, Chapter 3: Psychology and the Art of Randomness
+title: "The Philosophy of Poker, Chapter 3: Psychology and the Art of Randomness"
 tags: [poker]
 image: book-cover_nigrpq.jpg
 ---

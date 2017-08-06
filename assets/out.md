@@ -1,1331 +1,5 @@
----2012-06-30-the-philosophy-of-poker-chapter-4-opponent-modeling-and-the-adjustment-game.md
-title: The Philosophy of Poker, Chapter 4: Opponent Modeling and the Adjustment Game
-tags: [poker]
-image: book-cover_nigrpq.jpg
 ---
-
-Hey guys,
-
-Sorry for missing my update last week. Finals caught me off guard, and it's been tough to keep up writing consistently. I'm taking a full summer term as you guys know, so there's a lot of schoolwork to keep up with&mdash;5 days a week, with lots of homework. Once this semester is over, I'll have a four day break and then onto my next term of classes, haha. But I've finally finished this chapter, so gave it a once-over and now posting it today.
-
-In the rest of my life I've kept myself challenged, and alongside my JKD and boxing training, I've started taking up weightlifting again to round out my physique. For a long time while I was traveling, I got really used to just doing body weight exercises. Whenever I was in a new city, I would go out one day into a park or some sparsely populated field, and just do pushups, sit-ups, squats, and dips. I'd gotten so used to that since living on the road, that it's been over a year now probably that I've used any weights. But it's hard to develop a ton of strength off of just body weight exercises, so I'll see where this takes me. Luckily it allows me to eat a lot more food, which is always a bonus, haha. I've kept up paleo pretty well so far now too, which is kind of a surprise to me, since cutting out all grains really excludes most of the standard American diet. That's okay though. I feel pretty good about it.
-
-Mental coaching has been going well and I've been getting really good feedback from clients. I've decided to raise my rate to **$150/hr**. Probably once my summer term is finished, I'll write up something more comprehensive about mental coaching (and I'll have more time then to devote to it), but for now, if you're curious feel free to shoot me an e-mail at [haseebcoach at gmail dot com](mailto:haseebcoach@gmail.com).
-
-Anyway, without further ado, here is Chapter 4. Hope you guys enjoy.
-
-<div class="ui embed" data-url="https://www.youtube.com/embed/aKUNa7G7tXM">[video]</div>
-
-#### I
-
-In poker, it is not our opponents against whom we make our decisions.
-
-What do I mean by this? Of course, there is a sense in which we make our decisions against our actual opponents. But that sense is the same sense in which poker is a chess match&mdash;our opponent is, in a profound way, inaccessible to us. All we have access to is the shadow he throws against us, the schema we can construct of him. When we play poker, we make plays and adjustments not on our opponents, but on our mental models of them.
-
-The process of creating predictive mental models is called **opponent modeling**.
-
-The models that we develop in a poker match are fluid and constantly changing. But as we improve as poker players, one of the chief ways in which we develop is being able to construct better and more accurate models of our opponents.
-
-I am going to lead you through a step-by-step examination of every aspect of developing a mental model of your opponent, and the common pitfalls that might hinder us along the way. But we must, as always, begin our exploration from the solid, from the real. We must start this exploration at the experience of a poker match itself.
-
-#### II
-
-You sit down at a table. There's your opponent. You've never seen him before. Here's your first hand. The action's on you.
-
-Of course, we've been in this situation thousands of times. But we fail to notice how special this first hand is. The first hand is not only where you have to make an initial read on your opponent, but it's also the only point in the match that is completely *tabula rasa*&mdash;where you know absolutely nothing about your opponent. So what do you do?
-
-Well, you obviously act on something. You don't simply throw your arms up in the air and surrender to your ignorance, and you don't just throw a dart on the wall and guess wildly what kind of a player you think he'll be. What you act upon is your **standard model**. The standard model is basically the mental model you've created of the *average* poker player.
-
-In observing all of the poker players you've ever played, you slowly accrue and shape your standard model, conditioning it bit by bit over time by all the things you see people do, all the ways they seem to think, until you have in your mind a pretty firm idea of what the average player looks like. Of course, the more experienced and the more observant you are of your opponents, the more accurate this standard model is likely to be as the average opponent.
-
-In a way, the moment you sit down at a new table with someone you don't know, what you face across from you is not your opponent as he truly is. What you are looking at is your standard model of an opponent. It is against this standard model against which you are reacting, upon which you ascribe intentions, and whose hand you are trying to read.
-
-Consider this. Imagine you see someone 3-bet the first hand in a match, and you fold. What can you infer about this opponent?
-
-If you were looking solely at his stats, you'd see that his 3-bet frequency was 100%. So are you going to play him assuming that he's literally 3-betting 100% of hands? Technically, in a vacuum, it's not an irrational conclusion. It seems silly to us of course, but *why* is it silly? What makes it silly?
-
-The reason why it's silly is because we know that *no one* 3-bets 100%. 100% 3-bettors do not exist within the population of poker players. Note then, we are not simply using his actions to determine his behavior, otherwise it *would* be correct to assume he's 3-betting 100%. Instead, interpret his actions in light of how we know frequencies to be distributed *over the entire population*. In other words, we are already thinking about the wider population of poker players, and using that as a basis to build our model of our opponent.
-
-In statistics, this problem is known as *Bayesian updating*. Using the average 3-betting frequency, the standard deviation (how wide the distribution of 3-betting frequencies is in the population), and the piece of evidence we're presented with (our opponent's 3-bet), we could use Bayesian equations to compute his average 3-betting frequency given the evidence of one 3-bet. To throw out a number off the top of my head, chances are it'd be something about 2% or 3% higher than the average based on this one event.
-
-Now, how to play against someone in your first hand might seem like a trivial problem, but this is the origination of how all reads on our opponents work. From the first hand of every match, we begin with another instance of our standard model, like a ready-made figure of clay. With every subsequent decision that we observe in our opponent, we begin to sculpt this figure, departing from this standard model bit by bit&mdash;never abandoning it, but only transforming it. Over time enough time and information, this model starts to develop its own distinct personality. We start to see the color of its eyes, the shape of its jaw, and all the various irregularity of detail that makes a real person.
-
-It is clearly important then to have an accurate standard model, since the more accurate your standard model is, the better you are able to initially predict your opponent's play on average. This is the first skill in opponent modeling&mdash;before you can model any particular opponent, you must have a clear idea of what the average opponent looks like. First rate players are highly knowledgeable of *common* leaks, *common* weaknesses, which they will infer upon and attack in players they don't know. This is part of what makes them so strong. In order to develop this standard model, you must play a lot of players, and pay close attention to what they do. Over time, you will begin to recognize common patterns, faults, presumptions, and states of mind in your opponents that will inform your standard model.
-
-I mentioned the projection bias in the previous chapter&mdash;the tendency to impute one's own perceptions and tendencies on other people. Of course, you are no exception to this bias. Every standard model that you produce will be biased to be more like yourself. Where you don't clearly and distinctly see otherwise, you will tend to think that people make the same sorts of mistakes that you do, think about spots the same way you do, process gameflow the same way that you do, and so on. Every standard model that a player produces will be, in some way, in his own image. In spots that are highly non-central, this bias is amplified, since in non-central and rare spots you don't have a wealth of empirical data to counteract this bias. The only real way to fight this bias is to be aware of it, and to remain open to the idea that your opponents don't always see poker the way that you do.
-
-I said before that the standard model is never completely abandoned. But you could also argue that any player has multiple standard models. That is, once you use the standard model after some hands, and notice that your opponent is fairly aggressive or fairly passive, you might swap out your standard model of the *average *player for your standard model of the aggressive player, or passive player, and so on, continually swapping models as your read becomes more and more nuanced, until you finally have a truly individual model of your opponent. Of course, each of these readymade models would still be subject to projection biases; so which metaphor you choose is mostly a matter of preference. The important point is that deconstructing and analyzing your opponent always begins from the standard model you've assigned for him, derived from your experience of the average player.
-
-#### III
-
-To make a significant departure from our standard model and deconstruct our opponent, we must develop a robust theory of mind. We must learn to put ourselves in our opponent's perspective, and to deduce how he sees the world. The first level of deconstructing our opponent begins with a **psychological profile**. A psychological profile is essentially a generalization about our opponent's psychological tendencies. It points not to particular instances, but to overall patterns in his thinking and perception.
-
-For example, let's say that your opponent, who you've been playing for a while, is raising the river in some spot where he can only represent a runner-runner straight. Say that we've never gotten into this spot with our opponent before, so we don't have any hard data on what he'd do here. Because of that, are we forced to resort to our standard model here?
-
-Not at all&mdash;as poker players, we are able to make psychological inferences into spots we've never seen before (and we naturally do in a match). There are very tenuous profiles that more basic players use, like &ldquo;he's aggressive&rdquo; or &ldquo;he's tight,&rdquo; but we want to develop a more nuanced psychological profile.
-
-There are four main dimensions over which a psychological profile generally spans:
-
-1. Risk-taking behavior
-2. Attitude toward complexity
-3. Image/momentum sensitivity
-4. Attachment to investment
-
-**Risk-taking behavior** is your opponent's willingness to make plays that may fail. It can be generalized especially from your opponent's likelihood to make risky bluffs. There are some bluffs which are universal and don't particularly reflect on this dimension (such as 4-bet bluffing preflop, 3-barreling in obvious spots where you can't have anything etc.). To discern this dimension, focus on spots where a bluff is not mandatory and is high-risk. If your opponent is consistently choosing to take risky bluff spots, or if he is consistently averse to them and most of his bluffs seem to have a pretty low risk threshold, then you can generalize this behavior to many kinds of risk-taking. You can also generalize this from risky, heroic, or creative plays in general. Players who are high on this dimension tend to make more &ldquo;heroic&rdquo; plays, riskier bluffs, FPSy plays, and at times, can care more about making &ldquo;cool&rdquo; plays than optimizing $EV. To extend to the mentions of tilt we discussed before, a player on hot tilt will tend to have increased risk-taking behavior, whereas a player on cold tilt will tend to have depressed risk-taking behavior. Also, players who are playing above their rolls will tend to have lower risk-taking behavior, which is why you are able to generally lean on and steal lots of pots from them, unless they are also concurrently on hot tilt.
-
-The second dimension, **attitude toward complexity**, is how your opponent perceives, and plays with **complex lines** in his game. By complex line, I mean a line that *implies either a trap, or a hand that is not at the top of one's range*. The first type of complex line is one that for the hand you're repping to make sense, you would've had to do something non-straightforward at some point in the hand, such as checking back in a weird place or betting smaller than expected. The other kind of complex line is when you take an intentionally weaker line to rep a medium or low strength hand, as we discussed briefly in Chapter Two.
-
-Attitude toward complexity then, is a measure of how your opponent perceives those complex lines. Most medium-level players tend to over-believe complex lines, precisely because they do not appear as obviously as straightforward bluff lines, and are scarcely practiced at lower stakes. In higher level games, interspersing lines of various complexity becomes much more common, and the dynamic of varying line complexity becomes dense, mature, and nuanced. At lower stakes, however, generally you will find that opponents tend to either over-believe or under-believe lines of high complexity&mdash;a psychological tendency which can be generalized to the rest of their game.
-
-Also note that over-believing or under-believing lines of high complexity tends to be correlated with the belief that people are generally intelligent (under-believers), or that people are not very intelligent (over-believers). The former is likely the kind of player who is going to level himself frequently, convincing himself that people are doing all sorts of things that they aren't. We'll discuss leveling in the next section.
-
-**Image and momentum sensitivity** is, just as it sounds, how aware and how reactive that person is of their image and of the momentum of the match. For example, somebody who is highly sensitive to image will tighten up significantly after losing a big pot (since he thinks you will infer that he's likely to start tilting and trying to get even). Somebody who is less sensitive to image and momentum will be more likely to continue to play aggressively after losing a big pot, either because he's unaware or not paying attention to his image, or because he thinks that you know he's aware of his own image and therefore does not need to react naïvely to it.
-
-Finally, **attachment to investment** is a measure of how much he gets attached to investments he's already made. Somebody who has a high attachment toward investment is going to have trouble folding strong hands even when the board changes; is going to pre-decide whether he's going to bluff in spots, and is less reactive of discouraging information; and is more likely to engage in loss-chasing behavior over a match. This person will often get attached to the belief that &ldquo;they deserve&rdquo; a pot, and will end up making questionable plays to try to claim it. Generally speaking, this is a dimension upon which better and more emotionally robust players will be low, and bad and tilty players will be high. As a note, players who are playing above their rolls will tend to have high attachment to investment, even though they have low risk-taking behavior. That is, even though they will be overly cautious among the spots they choose, when they do choose a spot they will overcommit to pots they invest in, due to how valuable each individual pot becomes to them. This means that generally, once an under-rolled player shows interest in a pot, you should be much more cautious to bluff.
-
-By observing each of these psychological dimensions in your opponent, you can more effectively generalize to a spot that you have never seen before.
-
-For example, say you know your opponent is risk-prone, over-believes complexity, is insensitive to image, and highly attached to investments. If you see him shoves a river trying to represent a runner runner straight after losing a big pot, then you can make a few inferences. First, he's willing to try risky plays, second, that he likely doesn't think you're terribly intelligent, third, that he's not likely to tighten up or react appropriately immediately after losing a big pot, and fourth, that he gets attached to pots and doesn't give them up easily. Even though this shove might be an abnormal bluffing spot for your standard model, the inferences from our psychological profile suggest to us that this is a spot where we can reasonably make a call against such an opponent.
-
-#### IV
-
-Before we can go any further in our analysis of mental models, however, there is one important concept that we have to explore&mdash;and that is **leveling**.
-
-There is probably no word in the poker vocabulary that is more misused, misappropriated, and misunderstood than leveling. People use &ldquo;leveling&rdquo; to justify all sorts of plays, and to explain away all sorts of phenomena. In poker culture, it has effectively evolved into a colloquialism for &ldquo;playing a trick.&rdquo; The word has become so widely used and distorted, that in order to make sense of leveling, we must define it and its limitations very clearly.
-
-Part of the reason why leveling is so misunderstood is because of the linguistic implications of the word. When we talk about &ldquo;levels,&rdquo; as someone being on a &ldquo;higher&rdquo; or &ldquo;lower level,&rdquo; the concept has a distinct verticality to it. You might imagine that someone who's on a lower level as being on the ground, someone on a higher level as being in the sky, and even higher than that, a level above the clouds, and so on and on, like the rising layers of the atmosphere. It's not explicitly stated this way, but this is the metaphorical implication from way the word is used. We imagine great poker players as playing on such fantastically &ldquo;high levels&rdquo; that it would be impossible for us to fathom what was going on between them so high up.
-
-But what is a level exactly? Let's be obvious here. When we choose one &ldquo;level,&rdquo; what we're really choosing is one action, or strategy. When our opponent tries to counter our strategy, the level &ldquo;above that&rdquo; is what counters their counterstrategy. The level &ldquo;above that&rdquo; is the strategy that counters their counterstrategy against our counterstrategy. And above that?
-
-Actually, there is nothing above that.
-
-Let's take an example. Say a drawy board runs out flat, like 4h9h7c2c 2d. There were tons of draws on this board, but they've now missed. Now, if our opponent has the initiative and has been betting every street, and he's shown us that he's fairly risk-prone and investment-attached opponent, then we can say level 1 is for us to call our bluffcatchers, since we expect him to bet here. If our opponent is aware of our perception, he may think we're going to make that inference, so he might counter what he expects our adjustment to be by not bluffing at all. If we preempt this counter by instead calling none of our bluffcatchers, then we can call that level 2. Now, say that he expects us to make this high-level counter, so he switches back to the original strategy to counter this change. That's his level 3, and our level 3 would be to revert back to calling all of our bluffcatchers as well.
-
-You can see here that level 3 and level 1 are actually identical strategies. But what's the difference?
-
-The difference is in terms of ability. It is generally the case that players who play on level 1 will rarely deviate from their level, or play the leveling game with any frequency at all.  Level 1 play is also typified by the fact that it is the play that most bad players make, and requires the least amount of awareness. Level 2 play is of course defined as a counterstrategy to the level 1 play, which makes it the first level adjustment (i.e., the level 2 play exploits a static standard model opponent), but using a level 2 play doesn't necessarily imply a flexibility of switching between levels. A level 2 player will often stay on level 2, consistently exploiting a level 1 player.
-
-So when we say a play is level 3, really what we mean is that it's a *self-aware* level 1, or a masterful level 1. It is someone resorting to the level 1 play, but with the flexibility and knowledge to be able to switch between different levels as the adjustment game requires. And above that?
-
-It makes no sense to talk about a level above level 3. This is a silly idea invented by people who don't understand how adjustment games work. As you can see, theoretically speaking there are only two levels, but we choose arbitrarily to define a first level as the level for people who cannot participate in the leveling game. But to say that somebody is making a &ldquo;level 5&rdquo; play is meaningless. You see, as level 3 is simply a repetition of a level 1 strategy, level 4 is a repetition of level 2 strategy, level 5 is another level 1, and so on.
-
-What really happens at level 3 is that begins a free-flow of gameplay through the level 1 and level 2 adjustment. A &ldquo;level 1 player&rdquo; might never or rarely adjust, and a level 2 player might be said to exploit a level 1 player, and perhaps make a few jerky adjustments, but a level 3 player is fluid, aware, and masterful of how to detect and transition in and out of levels as necessary. In a high-level match, what you will see is interplay between these two levels.
-
-Above all, it is important to know that the leveling game ends. It does not rise into the air, ascending into infinitely higher and higher levels, forever unattainable. It is limited, conquerable, a small arena when you see it clearly. There is nothing special about a high level player such that you are unable to play the leveling game with him, on his &ldquo;level.&rdquo; Once you attain a basic level of mastery, and the arena will be open to you, the very same as it is to the strongest of players.
-
-In essence, the leveling game is a guessing game, like rock-paper-scissors. One guesses what level one's opponent will choose, and makes the proper adjustment to that guess. Thus, it is very similar to gameflow. If we define gameflow as the pattern of different plays, and skill in gameflow to be able to read and predict that pattern, then we can call leveling the pattern of counterstrategies, and skill in leveling to be the ability to predict what pattern of counterstrategies your opponent will choose over time.
-
-But there are only some spots that we call &ldquo;leveling spots.&rdquo; Note that we don't talk about getting leveled in every spot where we make a losing play. We say &ldquo;he leveled me&rdquo; only in certain situations. Why is this?
-
-Generally speaking, there are two kinds of mistakes in poker. **Mistakes of valuation** and **mistakes of psychology**. Valuation is your ability to evaluate the optimal play from a static structure. Mistakes of valuation are therefore choosing suboptimal strategies despite already having all the information. Mistakes of psychology on the other hand are mistakes of incorrectly predicting information which is not already available.
-
-A mistake of valuation is generally a failure of your poker theory. You have not accurately evaluated the ranges, combinatorials, odds, or whatever in making your decision&mdash;but importantly, all of the information is available to make the correct decision. A mistake of psychology on the other hand is one in which we need to infer more information to make a decision against our opponent, and our inference is poor. This is generally characteristic of a &ldquo;leveling&rdquo; spot.
-
-So if you end up 4-bet/calling off ATo against somebody who's not shoving that wide, then we would call that a mistake of valuation. But if someone shoves a river on a dry board when your hand is fairly obvious, and you call and he has it, we would call that a mistake of psychology, or getting leveled.
-
-When we make a claim of an FPSy player that he &ldquo;leveled himself,&rdquo; we now have a vocabulary to state more exactly what that means. To level yourself is to mistake a leveling situation for a non-leveling situation, or to mistake a properly valuational spot for a psychological spot. I.e., usually what you mean when you say &ldquo;you leveled yourself&rdquo; is that the right play was obvious, but you somehow convinced yourself to do the opposite, more psychologically complex play. The correct way to view and solve the situation was using valuational analysis and frequencies (&ldquo;his bluffing frequency is high in this spot, so I'll call&rdquo;), but you incorrectly tried to splice the hand into a singular leveling moment, and face it with your psychological brunt, resulting in an incorrect play.
-
-In essence, a leveling spot must not only be psychological&mdash;it must be binary. You don't say his frequency leveled you, or how his overall strategy leveled you. When we talk about leveling, we are necessarily taking a reductionistic view of poker. We frame the hand as atomic and momentary, and his decision as either X or Y. I will explore this in more detail at the end of this chapter.
-
-For now, let us take leveling for what it is, and use it to probe the next stage of player psychology, which is modeling our opponent's strategic perception.
-
-#### V
-
-So we've developed a psychological profile of our opponent, indicating some of the big patterns in his thinking, and we've looked at how leveling works. But to really be able to predict someone's behavior, we need to really be able to put ourselves into his head, and to see poker through his eyes. This takes more than understanding his large-scale patterns or biases. We need to reconstitute his perception as well, which means we need to know all of the idiosyncrasies of the way he sees the world. This leads us to the next element of opponent modeling, which is modeling our opponent's **strategic perception**.
-
-Strategic perception is simply the sum total of how your opponent evaluates various boards, situations, and so on for their strategic potential. You need to figure out&mdash;where does your opponent think are good spots to bluff? To valuebet? To raise, to fold, and so on? This is different from a psychological profile, which functions using generalizations; we want instead to use very precise empirical methods in reconstituting our opponent's strategic perceptions. This is where observation skills become chiefly important, to ensure that no valuable information is thrown away unwittingly.
-
-There are two main elements of strategic perception: **board texture perception** and **game flow perception**.
-
- Board texture perception is how your opponent perceives board textures, and the relative weight of each new card to that board. For example, how bad does he think c-betting air is on Js9s5c? Js8s2c? 9s5s2c? How good of a barreling turn card on Qc8s4d does he think Kd is? Ace? Ten? Four?
-
-In reality, there is an objective value to each of these cards and each of these boards in their viability for bluffs or semibluffs. By doing enough math, you could rank each of these in terms of how good they are to bluff in a vacuum. The problem is that everybody learns poker in a different way, and nobody's poker perception is ever perfectly calibrated with mathematics or objective reality. Some people put more or less weight on certain cards, some people are more likely to think they have more fold equity on certain sorts of turns than others, and other people think they always get called in certain spots so they won't bluff. In order to reconstruct your opponent's board texture perception, you must pay close attention to which sorts of flops, turns, and rivers he likes to attack, and how perceptive he is (or how much faith he has) in various bluffing and semibluffing situations.
-
-Moreover, more basic players tend to have what we might call primitive board texture perception. They tend to be unaware of implied semibluffing or bluffing opportunities in repping hands that they don't have, and will overvalue boards of the highcard-flat-flat nature, such as A58r or K55r. They will very rarely consider the possibility of repping turned flush draws or straight draws, or the viability of their hand to turn semibluffing opportunities, and so on.
-
-Of course, in every aspect of evaluating your opponent's strategic perception, you have to think about the second level&mdash;how he perceives your perception. In order to be attuned to this you must always pay attention to what hands have been shown down, what sort of turns you've attacked thus far against your opponent, and which ones you've given up on. This is never a fully precise art, but a good player will always have some idea of what sort of boards he's been attacking and what sorts of boards he's been going easy on. As a match progresses and history builds up, it's essential that you engage in adjustment games on these grounds&mdash;on cards where you think that your image thus far is that you are unlikely to bluff, you must raise your bluffing frequency, and on cards where you've been getting called down often or have shown frequent bluffs or semibluffs, you must slow down and lower your bluffing frequency. Adjustments like these go a long way toward creating edges in a match.
-
-The third level then, is thinking about how your opponent thinks about how you perceive *his* strategic perception. That's a mouthful, but it simply means that he's going to be adjusting based on his own image&mdash;that is, to think on the third level is to track your opponent's adjustments to his board texture tendencies. You should be thinking about what boards you've called down on, where he's failed the most often in bluffing you out of the pot and so is most likely to adjust down, and where you've folded in a lot of spots and so where he is most likely to adjust up. It's important to evaluate all of these with respect to what we might call the **equilibrium of semibluffs**, which simply means to think about how a person's frequency is adjusting relative to a standard frequency of semibluffs, against which one need not make any big adjustments or stray from a likewise equilibrium of standard calldowns. The difficulty in poker is being able to identify these true adjustments and spots where your opponent is likely to adjust, and delineating them from the chaos of poker&mdash;that is, randomness. Your opponent will sometimes get a lot of hands on certain board textures and when you assume he's adjusting positively, instead he is just lucky and getting a lot of hands. Being able to identify these is a difficult art, and overadjusting or underadjusting to these incorrectly perceived adjustments is probably the most common sort of mistake that great players will make. But on the whole, a big part of being able to read an opponent's likeliness of adjustment goes back to the theory of mind&mdash;being able to see how mature and intelligent a player is, how perceptive his mind is in other spots throughout his game, and his overall psychological tendencies, will give you some idea of how likely he is to actually perceive a spot as a point of gameplay and make a good adjustment or never adjust at all.
-
-So the second aspect of strategic perception is **game flow perception**, which simply refers to his perception of various game flow variations. I.e., how does he tend to interpret two bluffs in a row? How does he think you'll interpret two bluffs in a row? After you make a big bluff, does he tend to perceive the next big pot as less likely to be bluff? Again, this boils down in large part to your opponent's standard model of poker players, and also to his own projection bias&mdash;however he tends to perceive those game flow variations, he will often expect other people to perceive them as well.
-
-One must pay attention to both of these elements of one's opponent, and over enough time and with close analysis, you will ideally be able to reconstitute how he perceives poker, and use it to predict his strategic decisions.
-
-#### VI
-
-So we've looked now at a number of levels at which we can analyze our opponent's poker mind, but there is one last concept that I consider of some importance, which is not analyzed much. It's known most commonly as **comfort zone**.
-
-Delineating a player's comfort zone, unlike the empirical analysis of his frequencies, or overall psychological generalizations about his thinking&mdash;figuring out a player's comfort zone is more of an artistic task. To figure out a player's poker comfort zone is to figure out what a player *feels* about certain situations, or what they *like to do* within the field of poker. That is to say, there are certain bluffs that simply feel* wrong *to your opponent, and others that feel *right*. There are certain styles, strategies, or situations that your opponent *enjoys* and others that he does not. Trying to reconstruct how your opponent feels about various bluffing and valuebetting situations is intricately nuanced, and oftentimes difficult to communicate exactly.
-
-As you explore the psychology of a player and start to really understand him, you are likely to see that there are certain bluffing situations which he consistently won't take, even if it seems that with his understanding of poker he should know that's a good spot to bluff. This is an instance of comfort zone getting in the way of a player's strategy.
-
-Comfort zone of course is inversely correlated with centrality&mdash;the more non-central something is for a player, the more it's likely to be outside of his comfort zone. But comfort zones tend to have more to do with certain moves of logic or ways of conceiving of a hand that a player is resistant to. For example, some players will be mentally resistant to certain kinds of thin value bets, to bluffing with certain kinds of hands, to trying to bluff their opponents off hands of a certain strength, or even to make a certain sequence of bluffs in a game flow sequence, and so on. Even if the situation calls for it, and they would be an otherwise capable enough player to determine those things, a small comfort zone may cause a competent player to forego making the optimal play. It is thus essential to see if you can see any patterns in specific bluffs (generally, basic ones) that seem to either give your opponent trouble, or which he resists making. From this, you can derive an idea of what sorts of plays or theoretical moves with which he feels uncomfortable.
-
-For now it will do to mention comfort zones for other players, but in the chapter on creativity and fear we will explore this phenomenon internally, and examine how to deal with it on an individual basis.
-
-There can be said to be three kinds of bluffs in poker&mdash;**fundamentally strong bluffs**, **gameflow bluffs**, and **comfort zone bluffs**. A fundamentally strong bluff is to bluff somewhere where your opponent doesn't have a lot of hands and you do, and therefore can't do much with his range, even if he knows you're bluffing sometimes. A gameflow bluff is a bluff based on your perception that, at this time in gameflow, your opponent wouldn't put you on a bluff (such as perhaps betting twice in a row, he might usually assume your second bet is incidental value). A comfort zone bluff is a bluff where your opponent might have the hands with which to make a call, and gameflow might not be in your favor, but you have the read that your opponent's un-comfortableness will impede him from making such a call. By having a good idea of what makes our opponent uncomfortable, we can better choose spots and bluff more effectively.
-
-Of course, in reality, bluffs aren't neatly divided between these three categories. Most real bluffs will work on multiple levels, or may work well on a couple levels and not as well on the third, and so on. These are merely, in a sense, the three primary modes for where the strength of bluffs are derived.
-
-From here we can arrive at a final maxim of bluffing. *Bluffing is the science of knowing where to bluff, and the art of knowing when your opponent likes to fold*. The science of knowing where to bluff is what we discussed in Chapter Two&mdash;attacking the structurally weaker parts of your opponent's game, i.e. making fundamentally strong bluffs. It is the strategist in you, who studies a blueprint of a fort and plans your assault. The art of knowing when he likes to fold is the psychological game&mdash;knowing his mental tendencies, his comfort zone, and a grasp on the rhythm of gameflow, which allows you to time your bluff when he is likely to believe it and fold to you; i.e., gameflow and comfort zone bluffs. This is the matador in you, the deadly artist, attuned to your senses and the rhythm of action, pulling back the cape at the precise moment. Any excellent bluffer is therefore effective in both the science and the art of bluffing.
-
-#### VII
-
-We have spoken much of mental models and tools of psychology, but so far we haven't mentioned *how* we acquire information to begin with. That might seem like a simplistic question, but there's more to the matter than first appears. Not only do we need to gather information, but we need to sift the noise out of the information we receive, and then interpret that information by integrating it into our mental models.
-
-The process begins with the gathering of information. When I speak of gathering information of course, I mean something more active than merely playing poker and letting stuff happen for you to react to. Think of information gathering as the art of selective attention. Human beings, by our imperfect nature, will always miss things; some information will always slip through the cracks of our fingers. Our attention and perception are limited. Because of that, we must make a decision as to which elements of a poker match to perceive and focus on, and which to cull from our awareness. Information gathering, then, is also the process of filtering what's important and significant out of all the events in a poker match.
-
-We will speak of stats and their great importance shortly, which play a big role in information gathering and processing.
-
-People are often inclined to believe that there's something special about high level players that makes them especially able to notice, interpret, and utilize the information available to them. That their eyes are somehow more vigilant, more piercing, that perhaps they have some congenital ability to survey and catalogue the details of a poker match better than the rest of us. This is nonsense. If there's one thing I want to do through this book, it is to dispel any idea in your head that there's something &ldquo;special&rdquo; about high level players. There's nothing of the sort.
-
-If high level players can notice tendencies quicker, more accurately, and interpret them better into usable models, it is for two main reasons: first, because of the enormous amount of experience they have had in the realm of psychological model-building, which has optimized their usage and updating of mental models; second and importantly, because they have had so much experience, much of the surface-level phenomena of a poker game are relegated to their unconscious mind, leaving their conscious mind free (and some of their unconscious mind as well) to focus on the psychological game. In other words, it's not that expert poker players &ldquo;are able to focus on more&rdquo; or &ldquo;have more focus,&rdquo; but simply that because they have had so much experience, they are able to spend their conscious focus on other problems. This opens up their conscious attention to pick up on subtle tells, patterns, and valuable pieces of information that a weaker player might never be able to notice.
-
-But I hear you insist, other than gain more experience, what actionable things can you do to actually improve your observation skills? Though skills of observation are largely contingent on brute experience, there are a few things you can do actively to try to improve.
-
-The first thing you can do to improve your observational skill is to focus. This might seem too obvious to be worth stating, but remember, that being focused can be something you can *do*, not simply something you *are*. Certainly, sometimes you will be playing especially focused without having to think about it, or making any conscious effort to be focused. But if I were you, I would not be satisfied with letting my focus as a poker player be decided merely by my internal mental weather. By reminding yourself to focus on your opponent, where your conscious mind might be either inactive (in auto-pilot), or thinking about something else, you will call back yourself back to your opponent. Focus! Remember to focus, and remember that focusing can be something you *do*, and not something you *are*.
-
-When you are observing your opponent, try to pay attention to every spot, and consciously try to generalize what that spot tells you about his play in general. That is, look at specifics, and try to see how they fit into the overall pattern of his strategy or tendencies. Again, this does not happen automatically&mdash;or if it does, it does so very weakly. Force yourself to actively and thoroughly process all of the information you're receiving&mdash;to notice it, interpret it, and update your mental model of your opponent.
-
-One of the best ways to do this is by talking through it (either aloud, or in your head). For example, if you see someone is checking back lots of draws on the turn, tell yourself &ldquo;he is checking back lots of draws on this turn, which means he's fairly risk-averse, he's not semi-bluffing much, his range is strongly weighted toward value, I should be willing to put him on draws by the river,&rdquo; and so on. By doing this consciously, you are imprinting each of these ideas more powerfully on your mind, making it more likely that you will notice, remember, and act in accordance with these observations.
-
-After a certain point&mdash;or rather, continually&mdash;you should be mentally trying to re-figure your perception of your opponent's psychological profile. The more conscious and evidence-based this is, the more you will be able you will be to overcome natural cognitive biases, such as the projection bias, the strength of first impressions, and so on. Rather than &ldquo;I think he's risk-prone,&rdquo; think instead &ldquo;I think he's risk prone because he did X, Y, Z.&rdquo; By engaging in this process continually, your psychological profiling will become more accurate and objective. I will discuss self-talk in more detail in a later chapter, as it's a very important part of the experience of playing poker well and thoughtfully.
-
-Another important element of observation when playing online is note-taking. The art of note-taking is highly subjective, and different things work for different people. For the most part, it doesn't matter *how* you note-take. But what is important is that you take notes consistently, often, and that you use your notes effectively. Ideally, your notes should be doing one of these three things: 1) noting a significant event in your history, such as &ldquo;he called down XYZ with bottom pair&rdquo;, 2) note a psychological read, such as &ldquo;likes to bluff twice in a row,&rdquo; or 3) a note to yourself on how you want to adjust against him, such as &ldquo;next time you get a flush, bet small because he likes to raise small bets.&rdquo; Remember, the value of notes is *not* just in pulling them up and reading them when you feel lost or have forgotten your reads during a big hand. A large part of the reason why note-taking is so valuable is because it strengthens our mental impressions in the first place and makes them easier to remember. It doesn't matter if you never check your notes; the process of continually taking notes will make you remember your reads better, longer, more subconsciously, and the mere *habit* of note-taking will make your conscious mind more engaged and attentive to things worth taking notes on.
-
-Perhaps you've noticed that many great players seem to have tremendous observational skills, but often are unable to articulate &ldquo;how they know&rdquo; what they know about their opponent. If you press them&mdash;how did you make that read? How were you able to so pre-empt his moves? How did you know how this guy thinks? They will shrug their shoulders, and say that they just do. Again, there is nothing special about these players&mdash;nor are they idiot-savants. They simply have relegated most of their observation skills to their subconscious mind rather than their conscious mind. Their automatic brain has been trained into evaluating, synthesizing, and reconstructing their opponents, continuously and very accurately.
-
-I will have more to say on this in the chapter on cognition and self-awareness, but as respectable as it is to be able to have excellent subconscious observation skills, it's not something that you can actively improve or rely upon. You have no control over your subconscious conception of your opponent, other than by focusing your attention upon him. Beyond that, you must use all of the conscious skills at your disposal to break down your opponent&mdash;by self-talk, actively exploring and reformulating his theory of mind, taking notes actively, deliberately working through your sequence of thoughts. If you do this often and consistently enough, slowly over time this process will become automated in your unconscious mind as well.
-
-Make poker, then, about your opponent. Be subsumed in him. Be present alongside him. Watch him, learn from him, prod him and interrogate him for his every strength and weakness, his beliefs and his loves and his fears&mdash;and soon you will be able to predict his thoughts, his actions, and then, with a bit of luck, to rise one step above him. In the end, there is no greater feeling in poker than mastery over an opponent.
-
-#### VIII
-
-One of the biggest revolutions in the theory and understanding of poker has come from the introduction of HUDs and comprehensive stats into online poker. Whether you think on the whole they are good or bad for poker, the fact remains that they have changed the way that we conceptualize and interact with the game. If you are playing online, HUDs are an indispensable tool. Let us look then at stats, how to utilize them in exploiting our opponents, and in playing the adjustment game.
-
-Of course, though I speak as though HUDs and stats are synonymous&mdash;they aren't. Stats are the concrete, mathematical way of representing frequencies and tendencies in poker; HUDS are merely the common way to display them. Although stats were never explicitly accessible in the days before HUDs existed, stats always nevertheless existed. Without HUDs they were simply apprehended less accurately, subject to more potential sway by cognitive biases, with more chance for losing or warping information due to inattention or failure of memory. This is not to mention that bare perception is inherently inaccurate at perceiving frequencies (the mind is not very good at dealing with large numbers, or precise ratios, so somebody with a 7% and a 10% frequency might seem the same to your bare intuition, they actually may mean markedly different things about somebody's range). When we don't have stats, the only way you can perceive anything like frequencies, opening ranges, and so is through your intuitive impressions, along with a few showdowns. One of the great powers then of stats is that they allow us to overcome inherent cognitive biases when it comes to perceiving our opponents. We have been trained through our experience in poker that even if we think somebody is really aggressive or loose, if his stats say he is not, then we trust the stats over our own intuition (since single, salient events tend to influence our intuition more than they should).
-
-In live poker, intuition and observation is the only way to gather information with which to play the adjustment game. But again, even in live poker, stats exist; they are simply not explicitly accessible. It is unimportant whether your conception of stats comes from a HUD or your intuition about how aggressive somebody's been at a live table&mdash;adjustments based on stats are effective due to the structure of poker itself.
-
-First, a word regarding **adjustment schemas**&mdash;adjustment schemas are codified ways in which a player exploits or reacts to certain stats. Each person can have a different adjustment schema that he uses, and there is often more than one way to exploit something, but *our* adjustment schema is *our*system of exploiting and making sense of stats that we employ. I will be showing you in this section a basic adjustment schema for some of the most vital stats, but how you construct your own adjustment schema may depend on your particular style, or preferences.
-
-We always want to conceptualize the adjustment game as beginning from preflop, and moving forward street by street. Preflop, there are a few main stats of importance&mdash;VPIP (voluntarily put money in the pot), PFR (preflop raise), 3-bet, fold to 3-bet, and 4-bet. Note, all of these stats should be interpreted with respect to your standard model, which is generally going to be around the average. Slight deviations from the standard model are mostly irrelevant, so when I say somebody is &ldquo;too loose&rdquo; or &ldquo;too tight,&rdquo; what I mean is that they deviate *significantly* from your standard model (technically, it should mean they're deviating from optimal frequencies, but due to the evolutionary principle, they are effectively going to be centered near to your standard model).
-
-***If somebody is too loose preflop with VPIP and PFR***: in a shorthanded game, there are a few ways we can exploit this. We can either 3-bet him frequently, or call him more in position and put pressure on him postflop, or both. In heads up, an opponent having a high VPIP or PFR on the button is normal and not particularly exploitable, but if they have a high VPIP from out of position, then you can exploit this by simply betting a lot on flops and turns (chances are, there is little you need to do to exploit them if they're doing this, since they'll be hemorrhaging money to you by folding too many flops). If they are loose and attacking lots of flops, then it may be better for you to tighten up your open range, but you must always apply pressure on flops and turns.
-
-***If somebody is too tight preflop with VPIP and PFR***: generally speaking, this is beaten more passively. Against somebody who's very tight, you're simply winning more pots than he is, and that will show up in the long run. In the meanwhile, just play accordingly tight, fold more of the hands you'd call to looser raisers, and respect his flop bets more.
-
-***If somebody has too high of a 3-bet***: in a shorthanded game, again, we can either 4-bet him more liberally, or start calling him more often in position, or both. Note, however, that 4-betting him more often is an **inherent** counter, but calling him is an **implied** counter, meaning that it's possible that if you do not follow through on a proper exploitative strategy, calling him a lot in position will just lose you more money if you play passively. In order for an implied counter to be effective, you must incorporate every element of the counter, which in the case of calling 3-bets, involves floating bets in position, raising flops, and calling down more medium strength hands. In heads up the answer is essentially the same, but with the caveat that this specific adjustment game is much more important in heads up games, since 3-bet pots are a much bigger proportion of the hands played in a heads up match.
-
-***If somebody has too low of a 3-bet***: against this case, simply fold to their 3-bets and give them more respect. By playing a normal strategy where you are 3-betting often, you're simply accruing edges that he isn't.
-
-***If somebody has too high of a fold to 3-bet***: of course, 3-bet this person often.
-
-***If somebody has too low of a fold to 3-bet***: the best adjustment to this tends to be contingent on how passive this person is postflop. If they are highly capable, floaty, and aggressive postflop, then it is often best simply to tighten up 3-bets. But if they are more passive, then it is fine to continue to 3-bet a normal or even wider than normal range against this person, and simply take down lots of pots with flop c-bets. Against weak or passive players who fold too little to 3-bets, taking down undue 3-bet pots is one of the biggest edges you are going to have in a match.
-
-***If somebody 4-bets too much***: the adjustment to this is contingent on whether or not he's actually 4-bet/calling a wider range. Some players will simply 4-bet a higher frequency without widening their 4-bet/calling range to include weaker hands like AJ or AT, medium pairs, etc&mdash;if this is the case, then simply 5-betting wider is the ideal adjustment. If your opponent is widening his 4-bet/calling range, then calling more 4-bets and facing off postflop becomes a better adjustment. 5-betting is the inherent adjustment, and calling 4-bets is an implied adjustment. And of course, if somebody is 4-betting you a great deal then it's best to depress your 3-betting frequency until he relents.
-
-***If somebody 4-bets too little***: 3-bet to your heart's content.
-
-Next, let's look at primary flop stats&mdash;continuation bet, checkraise, and fold to checkraise, and fold to bet (OOP).
-
-***If somebody c-bets too frequently***: against a frequent c-bettor, the first adjustment is to checkraise more often, the second adjustment is to call them with weaker hands (ace highs, low pairs, etc.), and the third adjustment is to float them more often. Obviously, floating is always an implied adjustment, and must be done intelligently for it to be effective. However, unlike what some players seem to believe, leading a wider range OOP is not a counter to a high c-betting frequency. An OOP leading range does not actually counter anything, other than somebody who is really bad at dealing with OOP leads (which is great, but is more along the lines of experimentation than adjustment games), it simply circumvents the c-betting game by creating a different dynamic. While I have nothing against OOP leading, if you are OOP leading in response to frequent c-bettors, then you are mistaking an adjustment for circumvention, and there is a good chance you might increase your EV by simply letting him c-bet, and exploiting it.
-
-***If somebody c-bets too infrequently***: this can be tricky. In some cases, if the player is very good, then there's not a lot that you can do to exploit this, since he will be well balanced and intelligent in the way he arranges and uses his handrange on the flop and turn. But against a weaker player, you will automatically exploit his passivity by simply winning far more pots than him in position. Respect this player's c-bets and checkraise him less. Against this kind of player, I more strongly encourage OOP leading&mdash;note, not because it exploits infrequent c-betting, but because his passive strategy indicates a risk-averse psychological profile. Therefore, if you're pumping up pots and implying that he'll have to face more aggression against you, it is possible that he may play very poorly and not put enough pressure on OOP leads.
-
-***If somebody checkraises too frequently***: against a frequent checkraiser, you're going to want to lower your flop c-bet frequency by checking back more weak hands (both air and vulnerable pair type hands), 3-betting his checkraises more often with both value and bluffs, and floating some of his checkraises. Floating is the implied counter, so you must play aggressively on the turn as well, or double float if necessary.
-
-***If somebody checkraises too infrequently***: this can be tricky&mdash;you have to see what particular style this is paired with. If somebody is checkraising infrequently and calling a lot, that means that he is floating you a lot out of position, and calling lots of high card hands. Against this, you can simply increase your turn and river barreling frequency. If he is checkraising infrequently but simply folding a normal or slightly less than normal amount, then it's likely that he's slowplaying more strong hands that most players would be checkraising with, so be wary of that on the turn. If he's checkraising infrequently and folding often, then he's just burning his own money, so you don't need to do anything other than keep c-betting a lot.
-
-***If somebody folds to checkraises too frequently***: Checkraise him a lot. Easy.
-
-***If somebody folds to checkraises too infrequently***: Checkraise him tighter, weight your range with value hands, and barrel more turns and rivers, since he's going to be floating you more or simply calling you down lighter. Against a passive player who is going to fold flimsy hands under pressure easily, you may even keep an elevated checkraising range if he's simply spewing money by folding lots of turns with bottom pairs or things like that.
-
-***If somebody folds to bets OOP too frequently***: Bet a lot OOP with bluffs.
-
-***If somebody folds to bets OOP too infrequently***: Don't bet much OOP without hands.
-
-Now, as hands move into the turn and river, they get more complex, and more interconnections develop between different stages of a hand (i.e., how is he playing his draws to get here? What sorts of hands was he using to bluff with on the flop? Where is he allocating most of his value hands?). In short, one must use a holistic analysis of handranges, and figuring out what hands your opponent can and can't have based on the overall structure of his game. But the principles as suggested in preflop and flop play, remain largely the same.
-
-#### IX
-
-I've outlined a basic hierarchy of important stats by which to interpret the adjustment game, but before we move on, let us meditate briefly on the adjustment game and its implications.
-
-What, after all, is the adjustment game?
-
-If you think about it, the adjustment game is simply the name we give to the shifting of frequencies, the way that strategies ebb and flow, wax and wane in reaction to one another. It is the strategic weather, the continually changing winds of exploitation.
-
-But there is an element of poker that escapes the adjustment game. Recall how in the discussion about holism and reductionism in gameflow, we talked about how a frequency could be understood as one whole large-scale strategy, but also could be atomized, sub-divided into infinitesimal, discrete parts. Can we say the same of the adjustment game?
-
-The adjustment game works a little differently. There are certainly some parts of the adjustment game which hinge solely on stats, and on large-scale strategy. That is, there are certain spots where we feel like we can say for sure that we are making a **range-based decision**. A range-based decision is one that is justified solely by large-scale reasoning. For example, say that after c-betting, you pick up a flush draw on the turn. This is a spot where semibluffing the turn is not a complex decision that hinges on psychology, or getting into your opponent's head, or trying to outthink him. This bet is relegated to purely stats-based, or range-based justification. You simply bet here because he'll fold enough, and you'll make enough hands on the river, and so on. Psychology never comes into it.
-
-When you start looking for such spots, you might find that the vast majority of poker is comprised of them. There are even some spots where to make a big call on the river, or to make a big bluff doesn't really ever congeal into a &ldquo;psychological moment,&rdquo; but you merely make them because you can mathematically justify it.
-
-But what happens when you cannot? What of the times when your range-based abstractions aren't enough? When you truly don't know what's going to happen?
-
-Recall the diagram of the circle of centrality. 
-
-![](http://3.bp.blogspot.com/-aXB6gLdLdg4/T9MDy50gofI/AAAAAAAABQ8/NwZmE3OCyJo/s1600/central.png)
-
-Instead of thinking of this as the circle of centrality, the same metaphor applies to a circle of comfort. If the field of all possible moves is the rectangle, then we can also say that the circle in the middle of contains all of the lines, actions, and betsizes that your opponent is comfortable with, which he believes are &ldquo;good&rdquo; and &ldquo;solid&rdquo; plays. That is the domain of poker moves that is available to him; that he feels are &ldquo;right.&rdquo;
-
-Part of your job as a poker player is to figure out the circle he has drawn, and then to step outside of it. Encircle him, such that the only way he can adjust to your strategy, the only way he can make the right play, is by doing something that he doesn't think he can do. To break the circle of his understanding, his skill, his comfort.
-
-After all, another way of saying that certain plays are outside of your opponent's comfort zone, is to say that they are plays that he genuinely doesn't see as options. His schema of poker precludes him from doing those things. Figuring out, then, how your opponent's poker schema is limiting him is integral to maximally exploiting him in the psychological game.
-
-In short, if you push him somewhere where he's not willing to go, he will not follow you.
-
-I call this **momentous aggression**. Momentous aggression is not merely being aggressive, or raising and betting a lot. It is not a matter of frequency. It is more than that.
-
-A range-based decision is fighting with your range, constructing an optimal frequency, finding a holistic solution to the problem you face. But a momentous decision is a fixed, reductionistic event. It is to decide that your opponent has one hand. One state of mind. It is to try to completely, in this hand, outplay him. Where range-based decision says his bluffing frequency is high enough that I can justify a call, a momentous decision says&mdash;my opponent is choosing either level 2 or level 3, and I choose 2, because I think that's the right one.
-
-The further out of the circle of centrality you push your opponent, the more momentous your aggression is likely to become. Where non-central spots require reductionistic thinking, spots with high centrality are more likely to recruit holistic thinking. This is in part because non-central spots are processed more slowly and deliberately, and therefore require more conscious thought, and there is much less empirical data to begin with regarding non-central spots, with which to make logical inferences.
-
-You could say that the reductionistic approach is thinking from hand-to-hand, but that's something of an oversimplification. To play a hand reductionistically is in a more philosophical sense, to face the moment as singular, rather than merely a cog in a larger system. It is to stop everything else, to arrest the gears of the mind, and to resolve the problem in one fell motion. You must think reductionistically when the spot you face is big enough, deep enough, and non-central enough. It is no longer enough to say &ldquo;this is exploitable,&rdquo; or &ldquo;I can choose a better spot,&rdquo; or &ldquo;I have some better hands here so I don't have to do anything with a hand this weak.&rdquo; Excuses fall short. Your opponent has forced you to a decision from which you cannot step aside. Of course, it may be a decision for all your chips, but it's more than that. It's creating a situation where your decision cannot be relegated to range-based justifications.
-
-Aggressive players may force you to play lots of large pots, but a great player will force you to make decisions with the full resolve of your mind. He will put the force of your poker game behind every big call and big fold that you make. When you play a great player, you will feel as though you're not allowed to make a mistake. You're not allowed to run or turn away from a decision. Every clash is a test. Every punch must either be absorbed or countered. There is no room to run.
-
-It is a species of aggression that is more ferocious than trying to win a lot of pots. Some aggressive low or mid-stakes players may be annoyingly tenacious, but this can be dispatched easily with some large-scale adjustments. Momentous aggression is different. The aggression you see at high stakes is aggression that plants seeds of fear into your mind.
-
-What does he have? What does he think I'm going to do? The world telescopes into one ponderous moment, and the action is on you. This is why I call it momentous aggression&mdash;momentous aggression culminates in those big, time-frozen, everything-happening-at-once moments. This is the nature of aggressive high level play.
-
-This concludes of our analysis of our opponents' psychology. But in continuing our exploration of the philosophy of poker, psychology must now turn inwards, to analyzing ourselves and the way our own minds function. Next, we will look at cognition and self-awareness as it relates to the experience of thinking about, and playing poker, and understanding the way our own minds function.
-
-Thanks for reading! Leave a comment, and let me know what you thought, or if you have any criticisms, suggestions, and so on.
-
-<div class="note">Note: this is from the rough draft of my first book, <em>How to Be a Poker Player: The Philosophy of Poker</em>. If you like what you read, consider buying the <a href="https://www.amazon.com/dp/B00HFDJU6A">completed book</a>&mdash;it's tightly edited and contains new material! Hope you enjoyed. :)</div>
-
-
----2012-07-21-the-philosophy-of-poker-chapter-5-cognition-self-awareness.md
-title: The Philosophy of Poker, Chapter 5: Cognition & Self-Awareness
-tags: [poker]
-image: book-cover_nigrpq.jpg
----
-
-Hey all,
- Looks like I was late on my update again, haha. Sorry.
-
-A week per chapter, it turns out, is pretty brutal when you're taking full time classes five days a week with lots of reading and essays to do. This chapter also required research in order to write and structure it effectively, but I think I can stand by it pretty confidently. If I had to say, I think this is perhaps one of the most valuable chapters in the book.
-
-Mental coaching is going along well. I've recently started reading through the *Routledge Handbook of Applied Sport Psychology*, which occupies an interesting space in its application to poker theory. A lot of the methods and techniques discussed therein I was already aware of, but there are some really interesting insights and experiments. I'm going to try to apply some this stuff to my mental coaching where I can as well. [Once again, you can contact me at [haseebcoach@gmail.com](mailto:haseebcoach@gmail.com)if you're interested in mental coaching.]
-
-Life is chugging along. Right now I'm taking a class on fiction writing and on the art of the short story, which are both endlessly fascinating. But it'll be nice when the summer term ends. In the fall semester my load will be a lot lighter, so I'll have more time to devote to other pursuits, especially to physical training and writing projects. But I want to try to get all the chapters of this book finished ideally before the end of September. I don't know how feasible that is, but I'm going to do my best. Feel free to push and prod me however you can! I respond well to guilting, haha.
-
-<div class="ui embed" data-url="https://www.youtube.com/embed/q2RlV6cteiA">[video]</div>
-
-#### I
-
-In Plato's *Phaedrus*, Socrates accounts his infamous allegory of the charioteer. According to his allegory, man's soul is seated at the head of a chariot, driven by two winged horses. The first is a white horse, &ldquo;whose breed and character are noble,&rdquo; while the second, a black horse, is the opposite&mdash;brash and temperamental. These two are portrayed as locked in an eternal struggle, like good and evil, pulling the chariot each in their own direction, perpetually thwarting one another forever. The noble horse, of course, is Reason, or Rationality. The ignoble horse is Passion, or Emotion. The idea predates even Plato&mdash;it has long been believed that that reason and emotion are fundamentally opposed.
-
-Is that right? Is emotion the opposite of reason? What is the relationship of poker to emotion?
-
-It turns out that the common dichotomy between reason and emotion is the wrong one to make. The relationship is more complex than one of diametric opposition.
-
-But what we can say is that, at least in poker, reason *is* the goal. We do want to follow the horse of rationality, to give it as much control over our chariot as we can. But what deters against that path is not emotion, but rather *irrationality*.
-
-It is misguided to frame the struggle chiefly against emotion. I say instead, *poker is the battle against human irrationality.*
-
-What do I mean by this? Hopefully this will begin to make sense over the following two chapters.
-
-But first, one cannot wage a war without knowing one's enemy. In order to understand irrationality and its sources, we must delve into the way our own minds work, and how our mental processes operate within the context of poker.
-
-#### II
-
-Let us begin by framing the way the brain functions. This is not going to be a rigorous explanation of neuroscience&mdash;although that is an interesting and important topic, a thorough study of it would be unnecessary for our purposes. Instead, I will provide a very cursory framework for how the brain works.
-
-The basic unit of the brain is the **neuron**. Each neuron is connected to other neurons through large networks, known as **neuronal networks**. These networks are formed by many individual neurons forging inter-connections, each of which can be either strengthened or inhibited by how often they signal to other nearby neurons. Two neurons will be strongly connected if they signal one another repeatedly. It is on this basis that neuronal networks of increasing complexity are formed.
-
-This strengthening and inhibition of neuronal connections emerges in higher-level behavior as the concept in classical psychology known as **conditioning**. There are two main forms of conditioning&mdash;**classical conditioning**, when two stimuli are mentally associated with another, creating an expectation or reflex, and **operant conditioning**, when the behavior's consequence, either positive or negative, reinforces or inhibits that behavior accordingly. Conditioning is one of the basic ways in which we learn high-level behaviors.
-
-Not all neuronal networks or systems of behavior are created or learned from scratch, however. There are many functions which exist in pre-programmed **modules** of the brain. For example, the regulation of your internal organs, your sensory perception, and your survival instincts all come without having to be learned. But there are other parts of our brain which are highly **plastic**, and therefore are very changeable in structure.
-
-Let's zoom out and look at **cognition**&mdash;that is, thinking. For our purposes, there are two main forms of cognitive errors we must aware of: **learned errors**, and pre-cognitive or **inherent errors**. Learned errors are generally easier to correct, having been learned, they can be un-learned by the very same neuronal mechanisms of reinforcement and inhibition&mdash;but inherent errors are more tricky. They are often embedded deep into the structure of our cognitive modules. We generally call these inherent, usually universal cognitive errors **cognitive biases**.
-
-Don't worry, we're going to end it there. (I could feel you starting to sweat.)
-
-It is vitally important to understand the nature of how the brain functions, or at the very least to keep these structural blueprints in mind. Although the brain is vastly more complex, and is composed of many more components than the aforementioned, it is nevertheless the case that almost all of the vastness of human experience, intelligence, and action comes just from neurons firing, signaling each other, simply from strengthening and inhibiting their mutual interconnections. It is magnificent, mysterious, and mesmerizing to consider.
-
-This is also where all of poker comes from. The game of poker, after all, is not simply a game played with 52 cards on a board and so on&mdash;it is a game played among humans. That is, we are part of the game of poker as it is actually played. And so the game does not end with the cards. The game lifts off the table, and continues on into our brains. To understand poker, you must understand the way *we*operate, the way that we think, reason, bargain, and occasionally fail.
-
-So, as we move forward, when we think about learning, about cognition, about emotion, about strengthening and extinguishing habits, I encourage you to keep this framework in mind. Of course, it is impossible for us (not to mention for neuroscientists) to intelligibly reduce cognition to a mere network of neurons, but nevertheless, these concepts will help you to make sense of the patterns and logic that underlies the way that cognition functions. What is after all composed of neurons must be understood and treated with respect to that composition.
-
-#### III
-
-The term &ldquo;the unconscious mind&rdquo; has acquired unfortunate connotations in intellectual history. It is almost impossible to talk about the unconscious mind, so phrased, without thinking about Freud. The term has become loaded with notions of repression, secret motivations, sexual obsessions for family members, castration complexes, and a host of other pseudoscientific sensationalisms. Freud of course has long since been repudiated as scientifically unsound, to say the least. But the unconscious mind that he proposed is nevertheless very real, albeit in a different way than he originally imagined it.
-
-I want you to think of the unconscious mind then, not as some repressed, angst-ridden alter ego that wants to eat junk food and have sex with your mother. As charming as that idea is, there's little evidence that something of that sort actually exists.
-
-What we want to do instead is draw a distinction between the **conscious mind** and **unconscious mind**. Defining consciousness is notoriously difficult, and there's no need to get lost in the bogs of language and philosophy here. Let us simply say that the conscious mind is the part of your mind that *you are aware of*, and *over which you have direct control*. The unconscious mind then is the part of your mind of which you are not aware, over which you have no control, which governs automatic processes, actions, and thoughts.
-
-The way that most people conceive of their own minds and the way they work (often termed &ldquo;pop psychology&rdquo;) is, by and large, misguided and erroneous. Admittedly, for most people, it's fine to be somewhat wrong about the way your brain functions; there are worse things to be ignorant of. But if you want to be a first-rate poker player, it is essential that you understand the way your brain works, since it is the final interface between yourself and the game.
-
-The first major point is this: the mind is not one continuous thing. It is disparate, composed of many different parts, separated not just in space but in circuitry. Your conscious mind, along with its constructs, is only one element out of many that compose your mental circuitboard.
-
-There are many classical psychological experiments to demonstrate the disparateness of the brain. The classic example, which was once the treatment for intractable epilepsy, is that if you sever the corpus callosum in a patient (the bridge between the two hemispheres of the brain) you see very dramatic effects. In these &ldquo;split-brain&rdquo; experiments, if an image is shown to the left eye only, the subject is unable to vocally name what he or she is seeing. This is because the speech-control center is generally located in the left hemisphere of the brain (the left visual field is sent to the right side of the brain; the opposite side). Because severing the corpus callosum has cut off communication between the two sides of the brain is inhibited, the patient is unable to name what he is seeing&mdash;but he seems to still recognize the object. If asked to pick up and grasp it, he will be able to do so. So he can touch and manipulate the object, but cannot access its name if it's located in its left visual field&mdash;but once the object moves to his right visual field, he has no problem.
-
-This is of course only the tip of the iceberg. Although direct experimentation on functioning human brains is impossible (that is, unethical), we have learned a great deal about the way the brain functions through incidental experiments&mdash;i.e., due to the accumulation of information through accidents and injuries, there has been at least one patient at some point in medical literature who has had their brain damaged in every imaginably specific way. By seeing how somebody who has had only one segment, or another segment of their brain damaged, and then seeing how it in turn affects their behavior, we have gained great insights into how the brain functions, and how modular it is (that is, how different parts control different highly specialized functions).
-
-Other telling examples can be seen in aphasias (impairments in language processing)&mdash;for example, Broca's aphasia, in which a subject becomes unable to form and comprehend sentences, although they can still understand the meaning of individual words. Or on the other hand, Wernicke's aphasia, in which the subject can speak perfectly, but becomes unable to make sense of any language he perceives, whether heard or read. These phenomena show that there are very specialized modules of the brain that pertain to highly specific elements of language function.
-
-The more we learn about the brain, the more we see how fragmented it is. Evolutionary biology sheds even more light on this, as we see how our brains developed out of reptilian and neo-mammalian brain architecture. The neo-cortex, the seat of consciousness, cognition, and &ldquo;rationality,&rdquo; is the newest addition to our brain structure, but much of our movement, behavior, and so on is already regulated by non-conscious structures of our brain. Consciousness is, in a sense, a late-comer. For pre-human mammals and proto-humans, chances are, consciousness was very much an epiphenomenal byproduct that played a smaller role in their brain processes than it does for us *Homo sapiens sapiens*.
-
-Another telling example is the phenomenon known as blindsight. Blindsight is a rare neurological phenomenon that occurs in subjects who have had damage to their primary visual cortex, such that they believe they are blind and claim to have no conscious experience of vision. However, when presented with visual stimuli and forced to *guess* the location, or movement of a visual stimulus (such as a red square on a screen), even though they will insist that they have no awareness of any visual perception, they will wind up making very accurate guesses. This is a striking finding. It demonstrates that these subjects they have severed the connection between their consciousness and their visual apparatus, nevertheless their unconscious brain is still processing and responding to visual information&mdash;even to the extent that they can competently manipulate and grab objects that they claim to have no visual awareness of.
-
-So what is consciousness? I want you to seriously imagine this now. Consciousness is this newly arisen faculty in your mammalian brain. Centralized in your neo-cortex, it is continuously synthesizing your sense perceptions, your emotions, your memory and your cognition into one seamless experience. But as effective of a flashlight (and abacus) as consciousness proves to be for the outside world, why should you assume it would be one for your interiority as well? Why should you assume that consciousness is designed to perceive the vast unconscious circuitry of your brain? In fact, what little of the rest of your brain it perceives, the conscious mind filters through its own concepts and frameworks. Evolutionarily, there is little need for more than that. And as your consciousness is busily chugging away, the rest of your brain is involved in all manner of other neuronal activity, in the hurried business of keeping you alive and functioning.
-
-Here is the second important conclusion: the conscious mind, then, is separated from the other vital elements of the brain not because of some failure on our own part, ignorance, lack of self-reflection, or anything of the sort. In reality, we are not aware of the rest of our brain *by virtue of the architecture of the brain itself*. It is not our &ldquo;fault.&rdquo; It simply is the way it is. Our conscious experiences are negotiated primarily through our neo-cortex, yet we feel like our conscious selves must be &ldquo;who we are.&rdquo; But in fact, our brain is comprised of many more elements than the conscious part, and by extension, we are ourselves much more than our conscious minds.
-
-#### IV
-
-One of the greatest mistakes that a thinker can make is what I call **the conscious fallacy**. The conscious fallacy is the mistake of equating oneself with one's conscious mind, and assuming that as long as one is fully oneself, that one will retain the level of consciousness that one has when one formulates the intention to do something. In other words, to commit the conscious fallacy is to misunderstand the role of consciousness in our mental life. The reality is, most of our lives are navigated unconsciously.
-
-What do I mean by this?
-
-It might sound like I'm suggesting that we spend our lives in a walking daze, unaware of the truth of what's going on around us. Perhaps the sort of thing you'd expect to hear from a conspiracy theorist.
-
-Actually, in a profound sense, it's true.
-
-Most people still believe in what's called the &ldquo;mind-body&rdquo; divide (even if they don't believe it explicitly, this is subconsciously the theory they operating with). They believe that they are a mind (or a soul) inhabiting and controlling a body&mdash;the &ldquo;ghost in the shell.&rdquo; This idea would give you the impression that you are continuously in control of yourself, and therefore any mental failing would be attributable to your conscious agency. Well, if you want to identify &ldquo;self&rdquo; as your *conscious* self, then in a very real way, in biological terms &ldquo;you&rdquo; are only one among numerous participants in your mental life.
-
-In other words, to take full account of &ldquo;yourself,&rdquo; you must also consider the unconscious elements of your mind as part of that equation.
-
-Have you ever told yourself you were going to do something in the future, and felt completely sure you were going to do it&mdash;yet when the moment came, you ended up not following through? Here's an obvious example. Say you tilted off a lot of money, and in the aftermath of your session, you tell yourself: &ldquo;the next time that I'm down 4 buyins, I'm going to quit my session immediately. No ifs, ands, or buts.&rdquo; You feel completely sure, with all the resolve of your mind, that you will do this next time. After all, you are in control of yourself, and you *want* to do it. Why wouldn't you? But when the moment comes, you keep playing past four buyins, and tilt again.
-
-This is the conscious fallacy. You presume, because in that moment your conscious mind is dominating your mental life, that in future points in time it will also dominate. Of course, there's no reason for that to be the case, especially so in situations like tilt, when your limbic (emotional, unconscious) brain is agitated. In order to overcome the conscious fallacy, you must recognize that full conscious command of your faculties is not the norm, but the *exception*in human life, and to *plan* for that.
-
-This sort of thing happens not just in poker. It occurs in every facet of your life. Again and again, you expect things of yourself, believing deep down in some kind of continuous agency, some deep belief that &ldquo;you&rdquo; are really in control. But the truth (and hopefully you have probably learned this by now) is that your conscious mind is not enough. Not in the sense that *your* conscious mind isn't strong enough; but more specifically, that the conscious mind *itself*is not strong enough. Nor is it a matter of willpower, or &ldquo;mind over matter.&rdquo; You are logistically, biologically, neuronally constrained. Your conscious mind is not running the show, although it is naturally convinced that it is.
-
-This sounds pretty pessimistic, doesn't it? Perhaps it sounds like there's nothing we can do. How can we progress from such a fatalistic premise?
-
-Despite all of this, you are not willing to cede control. Do you want to improve at poker? Do you want to be the best? Then you must then take hold of the mantle, in spite of these facts. Abandon, as much as you can, your sense of association with your purely conscious mind. You are not just your conscious mind. You are *your entire mind*&mdash;your conscious mind is only your most active and fluid negotiator. Your goal then, is to condition your unconscious mind by training it through whatever means available to you, in order to cultivate the abilities you need as a poker player.
-
-This conditioning and shaping is *led* by the conscious mind. After all, it is the only part of yourself over which you have meaningful control. But ironically, although it is very good at helping you to change your external environment*, your conscious mind is not very effective at altering your unconscious mind*. Having hopes, desires, and expectations is all well and good&mdash;but your unconscious mind doesn't care, or is often oblivious&mdash;that neuronal network is going to sit there and keep doing its own thing, largely un-phased by your desires. This puts us in something of a catch-22. Our conscious mind wants us to change, but our conscious mind alone can't change us; it's only good at changing external things.
-
-This is the essence of the conscious fallacy. It is mistaking the conscious mind's ability to act on external objects as an ability to affect the unconscious mind&mdash;at which it's pretty poor.
-
-So in a sense, we cannot affect ourselves directly. But we still want to be our own masters. So what do we do? Well, we must be a little sneaky.
-
-Instead of expecting your conscious thoughts to change your unconscious mind, you must be circuitous. By co-opting your *environment*, which you *can* change, you can use the environment to train your unconscious mind in the direction of how you want to alter it. Thus, the goal in conscious self-development, in poker as in everything else, is mediated through the environment. We create the *environment* that cultivates our growth, more than merely trying to consciously strong-arm that growth ourselves.
-
-The &ldquo;ghost in the shell&rdquo; metaphor is not a bad one. But like all ghosts, consciousness is not visible all the time&mdash;it only comes out at odd hours, when the conditions are just right. What do we do the rest of the time, when our conscious mind, with its desires, intentions, its &ldquo;rationality,&rdquo; has dissipated? Well, by creating an environment that mirrors its desires, intentions, and expectations, we create an emissary for it&mdash;the ghost of the ghost, which lives on when our conscious mind disappears, continuing to influence and change the animal mind of our unconscious.
-
-So the first goal is to create the conditions for growth by consciously changing one's environment. The second is to understand your entire mind-system; not merely your conscious mind (which is immediately and easily accessible through introspection), but your unconscious mind as well. Survey honestly your unconscious habits, tendencies, and proclivities, and only then will you be able to work to overcome your weaknesses.
-
-#### V
-
-You may have noticed the suspicion with which I use terms like &ldquo;rationality&rdquo; and &ldquo;reason.&rdquo; There is an old idea that we as human beings are the exemplars of Rationality, the stewards of Reason&mdash;a notion that can be traced back chiefly to the Enlightenment. By now, those ideas have become outdated. The accumulation of psychological research over the last 150 years has shown us more and more how truly far from rational we humans are, by our very nature.
-
-Again, the most fruitful perspective to take is one of evolutionary psychology. Instead of taking the brain as a perfected tool for instantiating our rationality, let us instead think of the brain and its functions as having evolved to fulfill some evolutionary need. Therefore, what we should expect is *not*rationality in and of itself, but whatever it is that would help us best survive. If the brain simply evolved to help us survive (in the environments in which primitive humans and proto-humans would've inhabited), then it should come as no surprise that there are many finer aspects of rationality and logical thinking for which the brain is not intrinsically attuned.
-
-Of course, we must take our brains for what they are. They are all we have. But as tools for thinking, *they are inherently flawed.* Our brains tend toward errors&mdash;errors that may have served some purpose (or may have been inconsequential) in their times, and may even serve some purpose now. But in more intellectually rigorous contexts such as poker, these errors are detrimental to us. The only way to avoid these is to inform ourselves of them, to be aware of them, and to try to overcome them through the conscious oversight of our mental life.
-
-There are two main notions we want to consider here. The first is **bounded rationality**. Bounded rationality is the idea that rationality, as it's available to humans, is bounded by three factors: the information available to a person, the cognitive limitations of their mind, and the amount of time available to them in making a decision. Although we might desire some theoretical ideal of &ldquo;perfect Rationality,&rdquo; which takes into account all of the possible factors, weights them perfectly, and indifferently applies inferences to choose the best option&mdash;human beings do not and cannot do that. It's simply not how we make decisions. Therefore, the best version of rationality *to which we can realistically aspire* is a boundedly rational one. &ldquo;True&rdquo; rationality is a fantasy; it doesn't exist. The best we can do is only a partial version of rationality, as approximated by our mental apparatus, and time constraints.
-
-The second notion, one we've already encountered, is what's come to be known as the **cognitive bias**. Cognitive biases are consistent patterns of widespread cognitive errors which occur in specific situations for most human beings. Again, cognitive biases are best interpreted as evolved mental behaviors. We would do well to assume there is some discernible advantage as to why these biases manifest in our cognition in the way that they do.  For example, it may be that they are beneficial to cultural or emotional well-being (such as the in-group bias or the egocentric bias), or because they function as heuristics, allowing us to make ordinary decisions much faster and more efficiently.
-
-There are many values which evolution seems to have privileged over rational integrity, such as speed, efficiency, and obviously survival. This has the result that our evolutionary evolved cognition sometimes prefers convenient delusions over reality. But we are poker players, and the values for which evolution selects, and the values for which poker selects, are different.  Poker values indifference and cold rationality. There is no space for delusion in poker&mdash;the closer we get to reality, the closer we get to true and objective renditions of the external world and of ourselves, the better we can become as poker players. This is the irrationality we must fight against. So in order to approach that level of reasoning, we must resist some of the natural inclinations of our faulty cognition. Let us then analyze cognitive biases with respect to that.
-
-There are several major cognitive biases that every poker player should be wary of. The first bias is the **anchoring bias**. The anchoring bias simply states that if an idea is presented to your mind, *even in a totally irrelevant context,* it will &ldquo;anchor&rdquo; your subsequent cognition near the vicinity of that idea.
-
-For example, say we take two test groups, and we make the first test group write down the number *1000* on a piece of paper, and ask the second test group to write the number *10*&mdash;noting to each that the number they've written is completely arbitrary and irrelevant&mdash;and then we ask them each to guess how much the average guided tour of London costs. The first group will consistently *guess a significantly higher number than the latter group*, simply because they wrote a larger number *in a completely irrelevant context*. In other words, their later cognition was, unbeknownst to them, &ldquo;anchored&rdquo; around the number they had previously encountered, and the number that they guessed was swayed in that direction. If you think about the structure of the brain, perhaps this makes a bit of sense&mdash;when neurons become activated, nearby neurons are more likely to be activated as well, and the neurons which go into thinking up larger numbers are nearer to one another than those for smaller numbers. This bias shows us that the order and way in which your neurons are activated *profoundly* affect the way you think.
-
-You might ask, what does this have to do with poker? A lot, actually&mdash;the anchoring effect manifests in poker talk, as well as in gameplay. Of the former, I will discuss later, in the chapter on the poker community. As for the latter, let me provide an obvious example. Say that you are playing a player who's tilting badly, who constantly makes suicide bluffs, and who's just throwing his stack into the most unorthodox spots where no one else bets, and you're calling him down easily. You stack him, he leaves, and some other regular joins, and let's say you get to a similar river spot as one in which the tilter made a ridiculous suicide bluff. Guess what the anchoring bias would predict?
-
-Of course&mdash;and you can probably intuit this. You're more likely to call, even though what happened with a *previous opponent* is completely and utterly irrelevant to how this opponent plays; for some reason you're just more able to imagine him as bluffing in this spot. It's simply easier to call. This is the anchoring bias in effect. There are many other ways to get yourself into such a mental space&mdash;analyzing a hand, talking about poker, imagining a hand, reviewing an old session, watching a video, or even engaging in something away from the poker table that makes you think about &ldquo;aggression&rdquo; or &ldquo;passivity&rdquo; or whatever&mdash;all of it has the potential to irrationally affect your decisions.
-
-Of course, we can't sanitize our minds from everything. To a certain degree, we must simply accept this bias, as we must with many of these biases&mdash;they are inherent to our mental architecture, and we must learn to live with them. But being aware of them, especially in obvious cases as in the example I showed you, we can try to consciously counteract them somewhat, and try to force ourselves into a more objective frame of mind.
-
-We've already discussed the **projection bias** (see [chapter 3, section IX](https://haseebq.com/the-philosophy-of-poker-chapter-3-psychology-and-the-art-of-randomness/)).
-
-Another bias of note is the **innumeracy bias**. The innumeracy bias refers to our inability to accurately process very large or very small numbers using our intuition, or to effectively compute cumulative probabilities in our heads. In poker, this can be a fatal mistake. The most obvious example is when it comes to exploitation. People tend to overvalue winning or losing big pots, and tend to assume that if they are winning or losing the big pots, that determines if how much they're exploiting their opponents. The swings immediately after big pots are very salient, of course. But first-rate players know that often times, your biggest edge comes from taking down lots of small and medium sized pots, which over a few hundred hands, often comes to equal more than what you're winning or losing in big pots. This is simply by slow accrual, which your brain is *not* intuitively designed to perceive.
-
-The brain is also very bad at grasping risk/reward situations which rely on close margins. For example, in a spot where you're bluffing 3/5 pot on the river with a missed draw and he's bluffcatching you 60% of the time on the river, *your brain is likely to intuitively make you feel like this is a bad play*. This is in no small part because you are losing more than half of the time, which means more than half the time your brain experiences a negative event. As it happens, your brain is pretty bad at &ldquo;grading&rdquo; these negative events&mdash;meaning, you don't feel appropriately better or worse depending on what odds you were given on your negative event or what margin of EV you were capturing. The brain is not *designed* to deal in terms of such numbers&mdash;but that is precisely what poker requires of us. The reality is, of course, that for a 3/5 pot bet, you need 37.5% fold equity to break even, so if he's folding 40% of the time you're netting EV. In order to be able to routinely capture such close (or deceptive) margins of EV, you have to try to train your intuitive, unconscious mind to become more in line with your conscious understanding of odds and probabilities. If you force yourself into more situations where you're capturing a close margin of EV, yet losing more than half the time, your unconscious mind will gradually start to catch up. (This bias becomes even more pronounced when it comes to something like having a 10% chance to win 15x your investment and 90% chance to lose it, but this is less of an issue in poker.)
-
-A closely related cognitive bias is the **loss aversion bias**. Simply stated, the loss aversion bias points toward people being inherently irrational with regards to taking risks&mdash;they overvalue averting losses, and undervalue new gains. For example, if you're in a 300bb pot, and you have 200bb behind with which to bluff shove the river, and you think that he's folding 50% of the time&mdash;what do you think you'd do here? Turns out, the majority of people check back, even with that assumption, because their mind is inherently biasing them toward keeping what money they have. The 200bb they already have feels more valuable than the 300bb in the middle. Another way of saying this is that losing 200bb hurts more than winning the 300bb in the middle feels good. Losing feels worse than winning feels good.
-
-The reality of course is that, in most cases, every dollar should be equal to every other dollar. A dollar gained should be equally as good as a dollar lost is bad.
-
-This bias is one of the most difficult to overcome, because ultimately, emotion plays a huge role in how we make internal decisions in poker&mdash;not simply in terms of strategy, but also in terms of how we play, when we play, and who we play. But to combat this bias, you must force your rational mental processes to overcome and influence your unconscious mind. If you tell yourself&mdash;it's okay that I lost two buyins, because I had a good shot at three buyins that was hugely +EV&mdash;and *learn to accept this as a valid justification*, you will counteract the natural impulse of your mind to inhibit whatever behavior led to the loss.
-
-The **overconfidence bias** and the **superiority bias** are also closely related to one another. The overconfidence bias refers to the bias of assuming an overly high degree of confidence and accuracy in one's own judgments. One study showed that when given tests of commonly misspelled words, when subjects wrote that they were 99% sure that a certain spelling was correct, they were wrong a whopping 40% of the time. This manifests in poker as the tendency to be overly confident in your own reads, your own assignments of probabilities, and the robustness of your strategies.
-
-The superiority bias is the bias of overestimating one's skill at things one excels at, and exaggerating weakness at things one is bad at. As you can imagine, it's quite a widespread bias&mdash;the vast majority of people think of themselves as being &ldquo;above average&rdquo; at most things, while obviously only half of everyone can be above average. But notably, when it comes to skills at which people are poor, they tend to think they are *terrible*. In poker, this can manifest in different ways, depending on a player's conditioning history. Most mid to high stakes players tend to have a vastly overinflated sense of their own skill. This is because, if you take their personal conditioning history&mdash;objectively speaking, they have managed to become very good (within the top .001%) of players at this difficult game called poker. They have also managed to, with time and putting in hard work, overcome all of the players in the past whom they are now better than. In a way, it is not unreasonable for them to think that they have unlimited potential. But as a result, many of these players tend to think they are better than they really are, and think that out of the well of their creativity, they can pull something out that is going to beat a much stronger opponent. This results in an undue sense of superiority, an unchecked ego, and a warped sense of their relative skill level, which often gets these players into trouble. The other kind of player is one who has faced more hardships in their career&mdash;perhaps they play lower stakes after playing for many years (and maybe they played higher in the past, but can no longer hold their own at such stakes), or perhaps they are bumhunters. Because of these players' conditioning histories, they are much more likely to undervalue their own skill level. They will assume that most other regulars are better than them, and the ones who are, they will assume are *much* better than them. Both of these types of players have inaccurate perceptions of their own skill levels. Perceiving your own skill level is very difficult of course, but it is an essential part of the journey of being a poker player.
-
-You can see in the aforementioned example how players who have done historically well tend to think that they are really great and capable, whereas players who have historically struggled tend to think that they are very limited. These are, of course, learned self-perceptions, and they are reinforced in large part by the **confirmation bias**. The confirmation bias is the tendency to search for and pay extra attention to information that confirms one's own prior beliefs. For example, the player who thinks he is really great will see every won match as evidence of the fact that he must be really great, and the player who thinks that he is mediocre will take every losing session as evidence that he needs to tone it down and bumhunt harder&mdash;but it may well be that both of these players are winning and losing the exact same percentage of their sessions. What matters much more is *how much cognitive weight* they are giving to each of these events. People are much more likely to give cognitive weight to information that affirms their own beliefs, presuppositions, and worldviews.
-
-Confirmation bias crops up all over the place in poker talk and theory discussions, but I will explore that topic, along other errors of cognition such as **illusory correlations**, in more detail in the chapter on the poker community and poker language.
-
-Finally, the last cognitive bias we will note here is the **hindsight bias**. The hindsight bias is the tendency to see past events are more predictable than they really were at the time they happened&mdash;the &ldquo;I knew it all along&rdquo; effect. The most salient examples of this tend to be in gameflow. If someone bets twice in a row in back to back big pots, it is often the case that if you end up calling the second time and he has the nuts, you think to yourself &ldquo;God, that was so obvious, nobody ever bluffs twice in a row like that&rdquo; but if you fold and he shows a bluff, you think to yourself &ldquo;Oh man, I knew it, that's such a good bluffing spot, my gut was telling me to call, too.&rdquo;
-
-As a word of advice regarding this bias&mdash;go easy on yourself. Things and people are often not as predictable as you think they are. Ultimately this bias is very difficult to overcome, because poker is a game of hypothesis-generating and testing, and of course, it is hard to play poker without the (perhaps somewhat delusional) underlying belief that people and events are predictable if you look hard enough. Perhaps then, this is just one of those things that we must temper as best we can, but learn to accept as part of our cognitive inheritance. Perhaps we were simply not meant to be all that reasonable.
-
-#### VI
-
-The journey of a poker player centers on the process of improving, gradually getting better little by little, until one reaches a level of mastery. The ultimate goal, of course, is scaling the mountain of poker. But how does one reach that peak? How is mastery acquired?
-
-Mastery is endlessly fascinating to us. From Wolfgang Mozart to Albert Einstein, Gary Kasparov to Michael Jordan, masters have always intrigued and captivated the human spirit. Given how much they inspire us, it should be no surprise that social scientists have intensely studied mastery over the last 100 years. Compared to the old vague and aristocratic notions of inborn genius, we now have a much better idea of how mastery is cultivated. Scholars have posited a four stage process for attaining mastery of any subject.
-
-The **four stages of mastery** are as follows:
-
-1. Unconscious incompetence
-2. Conscious incompetence
-3. Conscious competence
-4. Unconscious competence
-
-**Unconscious incompetence** is how one begins in any new activity. It is the *tabula rasa*&mdash;the blank slate. To be unconsciously incompetent means that one is bad, and does not know that one is bad, how one is bad, or why one is bad.
-
-For example, imagine the first time you sat down at a poker game. You probably were playing hands like Q6 and A3 and 45o, minbetting or overshoving into tiny pots, not knowing whether any of those things were good or bad. This is unconscious incompetence.
-
-In neuronal terms, unconscious incompetence is when your brain is dealing with a new external system, and has not yet built a complex internal network corresponding to each state of the external system. For example, the first time you come to your poker game, your brain has not built up mental associations with Q6o yet to know whether it's good or bad. It is only through the accrual of information and *feedback* that one passes beyond this stage, and the brain starts building up distinct and meaningful categories relating to each external state (such as each poker hand you can be dealt).
-
-The next stage is **conscious incompetence**. Conscious incompetence is when one begins to be aware of one's own incompetence. It is, in a sense, to know just enough to know just how bad you are.
-
-One example might be in speaking a foreign language. Imagine a foreign language which you can somewhat speak, but are far from fluent in. Chances are, you are consciously incompetent in this language. You know you are not getting the accent right, not pronouncing everything correctly, speaking too slowly, and perhaps your grammar or diction is slightly off. You are not oblivious to these things, which means you're past the stage of unconscious incompetence, but you are still nevertheless incapable of changing them. Your brain has not yet conditioned your vocal cords into the sweet spot of nailing that accent, your vocabulary is still disparate and disorganized within in your brain so it takes a long time to retrieve the right word, and so on. One passes through this stage just the same in speaking a language, in playing piano, sculpting marble, and playing poker.
-
-The third stage is **conscious competence**. Conscious competence is the first stage of competence. In this stage, if you think about it, you'll know what to do. You are now making the right play in a poker match&mdash;you're no longer calling that flush on the river when the board double pairs; you no longer make plays that you &ldquo;knew you shouldn't make.&rdquo;
-
-You are aware now of all of the elements that are going on in a poker match, the nuances of betsizing, betting patterns, timing tells, and so on. But these things are all processed consciously. You have to actively think about all of these things. When you are playing well, all of your mental processes are engaged. Neuronally speaking, your conscious centers (the neo-cortex) are actively engaged in retrieving and organizing the information you've accrued. In this stage, if you slip out of conscious focus&mdash;if you start zoning out, or auto-piloting, your play will deteriorate considerably from when you're fully conscious.
-
-The final and ideal stage is **unconscious competence**. Unconscious competence is when you are unconsciously doing the right play, without really having to &ldquo;think&rdquo; about it.
-
-The most obvious example of this is in driving a car (or if you can't drive, substitute riding a bike). Most people who have been driving a car have been doing it for many years, such that they are by now in a stage of unconscious competence. While driving, they never have to consciously think about changing gears, which pedal to push and how hard to push it, how to maneuver or effectively signal their lane changes, and so on. They can do things like carry on conversations, actively think about something, or pay attention to an audio lecture while still carrying on the activity effectively. This is a signature of unconscious competence.
-
-In poker, the stage of unconscious competence is usually when you immediately know what you're going to do. You don't sit and think, try to think about board texture or how he'd perceive your bets, or anything like that&mdash;you simply immediately click your buttons, without giving it any thought. Almost always, this is a sign of an unconsciously competent behavior.
-
-Moreover, there are two other major elements researchers have found when it comes to attaining mastery. They are, famously, 10,000 hours of *deliberate practice*, and an experienced mentor. We will look at both of these elements in closer depth in the chapter on learning.
-
-#### VII
-
-Now, you might say&mdash;okay, so there are these four stages of mastery. So what? How does that help me?
-
-Well, there is a profound relationship between the stages of mastery and the process of learning poker, and understanding this relationship will help you to guide your own learning and improvement. First, let us try to understand the differences between conscious and unconscious thinking.
-
-Let's begin with the obvious. In your conscious thinking, you are aware of everything that you are processing, and you experience all of it. In unconscious thinking, you are *not* aware of everything that you're processing, and you experience only a fraction of the data that your brain is working through. For example, you might have some vague awareness of yourself as &ldquo;playing poker,&rdquo; but if you're using your unconscious mind, you're not actively thinking about every bet size, every card on the board, and so on. Things become vastly condensed, the same way they do when you're driving a car and not needing to think about how to steer, or use your turn signals, etc.
-
-Most importantly, conscious thinking tends to be discursive. It is process-oriented, and is often mediated through language. If you are consciously thinking out how to play a hand, there's a good chance that you're thinking in a step-by-step process: &ldquo;okay, he raised here, so that means he can only have X, Y, Z hands, but he bet this much on the turn so he can't have Z, and if he had Y then he'd probably have 3-bet preflop,&rdquo; and so on. Unconscious thinking, on the other hand, tends to be more instant. It is intuitive, and does not generally rely on such step-by-step processes to derive the answer; the unconscious mind directly connects the stimulus to its appropriate response. If you see a J98 flop, your unconscious mind immediately decides what to do; it has one response to that problem, which it applies without needing to derive it.
-
-The implication of this is a very important one&mdash;because of this discursive, step-by-step process, conscious thinking is *slow*, and unconscious thinking is *fast*. I'll repeat this again, because it's vitally important: conscious thinking is *slower*, while unconscious thinking is *faster*. This may make some sense&mdash;your unconscious mind is what controls your most basic motor skills, internal organs, and so on. It needs to be fast, and needs to know exactly what it needs to do at any given moment, so once your unconscious mind is trained in any task, it operates with similar speed and certainty. Your conscious mind, on the other hand, can take some time. It can dally a bit, question itself, and be more process-oriented.
-
-So to determine if a spot is being negotiated by your conscious mind, there are several key signs: if you are experiencing every element of its process, if it is being mediated through language (usually in your head), if it is taking place step-by-step, and if it is *slow*, then it is probably your conscious mind dealing with a spot. If, on the other hand, your experience feels very condensed, if you seem to automatically know the answer, and if it is *fast*, then it is probably your unconscious mind dealing with a spot.
-
-One interesting experiment you can do to elucidate this is through self-talk (which we will discuss in more detail in the chapter on learning). If you make a conscious effort to say everything that you are thinking out loud and trace your thoughts verbally, most preferably to somebody else who's also proficient in poker&mdash;what you'll notice is that the majority of what you say will be related to the conscious spots you're facing. You are likely to pass over the unconscious parts of your poker thinking, such as interpreting (what to you are) obvious board textures and betting patterns, or making obvious plays. Those tend to be relegated to your unconscious mind and *aren't* rendered in language. Your conscious mind, because of its tendency toward being discursive and negotiated through language, will tend to bubble up, will be easily accessible to your verbal centers, and will wind up being most of what comes out of your mouth.
-
-You will also notice this phenomenon in poker videos&mdash;oftentimes, when great players try to talk about poker and strategy, all that they will talk about is the processes of which *they* are conscious. As it happens, first rate poker players tend to have a *huge* part of their game relegated to unconscious competence, since they have played so many hours of poker, and are already situated in extremely effective unconscious habits. So perhaps you've noticed sometimes that really genius players, when they talk about their play, seem to say nothing that you actually want to know&mdash;this is the reason. It is easy and intuitive when engaging in self-talk (in this case, when narrating on a video) to say whatever is on the cusp of the conscious mind. But there is another skillset required to be a great teacher, video-maker, or coach of poker&mdash;one must also be able to probe one's own unconscious processes, to pay attention to not just one's own perception, but how a situation would be rendered through the eyes of a student's perception, and to try to see what a student would not understand. This is why the best poker players are oftentimes not the best teachers for low, medium, or even certain high level players.
-
-So this analysis of the speed of conscious and unconscious processing gives us a new way to interpret timing in poker. Think about it&mdash;what does it mean when someone calls time to make a decision? Really what it means is that they are re-running their conscious discursive process on the same hand (sometimes repeatedly, when they are taking an extra-long amount of time)&mdash;they are repeatedly running their internal &ldquo;poker theory program&rdquo; to see what results it gets. This means that either their unconscious mind doesn't know what to do, or that they don't have confidence in their unconscious decisions for spots of a certain nature (such as big pots, or strange pots), and so they want to &ldquo;double check&rdquo; their unconscious reaction against their conscious, discursive processes.
-
-It also gives us a new way of thinking about timing tells. Why is it that in certain spots, people act really quickly, but in others they slow down? This is exactly why. Because conscious thinking is slower than unconscious thinking, spots where people are forced to take time are spots where they are forced to recruit their conscious mind to figure out a spot. This also ties us back to the circle of centrality&mdash;the more central a spot is, the more it can be dealt with by the unconscious mind, which is fast and self-assured. The more non-central a spot is, the more it is dealt by the conscious mind&mdash;and once one leaves the circle of centrality, you can instantly notice a difference in your opponent's gameplay and thinking&mdash;this is the difference between his conscious and unconscious mind.
-
-But how different exactly are the conscious and unconscious mind when it comes to the same activity? Is it really possible that your conscious mind would tell you to do one thing, and your unconscious mind tell you to do another?
-
-In fact, as we have already learned, the two systems are *structurally separated*. Imagine them as two separate networks in your brain, separated in space and neuronal circuitry&mdash;though there is certainly interplay between them, they are architecturally distinct. In a very real sense, there are two poker players inside you&mdash;your conscious mind, and your unconscious mind, and they each would have different tendencies, frequencies, and habits if they were exclusively called upon to play poker.
-
-#### VIII
-
-There is an old debate as to whether or not poker should be considered a sport. Personally I think the whole question is tired and immaterial, but nevertheless, I do believe there is a certain insight that can be gained by classifying poker as a sport. If we say that poker is *not* a sport, then we run the risk of thinking of poker as a &ldquo;purely mental&rdquo; game. It vaguely implies that since you are not constrained by physical limitations in such a game, &ldquo;you can do whatever you want.&rdquo;
-
-In reality, this is not the case at all. True, unlike a traditional sport, in poker you are not limited by your muscularity, your height, and so on. But you *are*constrained by the physical limitations *in your brain*. If your brain structures have not been properly attuned and calibrated by thousands and thousands of hours at the poker table, then you are, in a literal sense, physically incapable of making the right plays. Remember, making the right plays means to have the right neurons fire in the right order&mdash;which you cannot do unless you've already built a calibrated and complex neuronal network.
-
-Neurologically speaking, there are two very different sorts of &ldquo;knowledge&rdquo; encoded in our neuronal networks. The first is what we traditionally think of as knowledge: fact-based or **propositional knowledge**. The second type is **know-how** (also known as *non-declarative knowledge*). Propositional knowledge is knowledge of a proposition, like &ldquo;I should 3-bet KK preflop.&rdquo; Know-how, on the other hand, is your brain's knowledge of how to *internally execute* a behavior. Rather than a proposition stored inside your brain to be recalled, know-how contains all of the information about how to coordinate from your perceptual cues, how to send the right signals to motor neurons and muscle fibers, how to calibrate your movement and balance, and so on, in the process of performing an action. For example, how to properly throw a Frisbee is a matter of know-how. You don't need to know anything propositional about how to throw a Frisbee&mdash;you don't need to know that you should hold it with one grip or another, or some rule of thumb about how to adjust according to wind speed and direction&mdash;your body learns this automatically, without your conscious mind ever formulating it into propositional knowledge.
-
-The crucial insight is that actually playing poker largely *is a matter of know-how*, not of merely of propositional knowledge. When you learn poker and become good at it, your brain is building internal structures of know-how that are unconsciously coordinating your perception with your motor reactions. This is not obvious, because we don't think of poker as a physical game, but the way you *learn* poker is nevertheless the same as with any sport.
-
-If you are a football player, it is certainly helpful to learn football theory, but the only way you get good is by developing your know-how, your body's internal awareness of the game, your muscle memory and calibration, by playing a lot football and being out on the field. Though the systems can affect one another, football theory and football play are not the same. This is the same within poker. In other words, *the system in your brain that contains poker theory is structurally separate from the system that governs your play*.
-
-Let us draw then the distinction between **poker theory** and **poker know-how** (or &ldquo;poker play&rdquo;).
-
-Poker theory is a conscious network that you have in your mind. You train and deepen this network by talking about poker, by studying poker videos, by going over other people's hands, by reading poker books, by doing poker math simulations, and so on.
-
-Imagine it as a computer program that you've built in your mental circuitry. This program started off quite shoddy (since we all start with a weak grasp of poker theory), but it's gotten more and more complex the more you've learned about poker. If you input all of the variables of a hand into your poker theory program, it takes it all in, crunches it, and then spits out an answer as to what you should do. This program is slow, as we discussed before, since it is discursive and has to run through many lines of code, and so it's unlikely that you'll use this program for every hand you play&mdash;but in the really tough hands, you almost always consult it. So what you are really doing when you call time in a hand is to run this program, sometimes more than once, to try to ascertain whether you're making the right play according to your version of poker theory.
-
-We can say then that your poker theory system is trained by taking poker hands and deriving their solutions. We practice this over and over again&mdash;through videos, forum hands, looking at hand histories we and our friends have played, arguing over poker theory&mdash;and gradually building up the accuracy of this internal program, and its correlation with *true* poker theory (which presumably exists somewhere out there in poker, and is embedded in the feedback we get).
-
-On the other hand, when we actually *play* poker, we are engaged in something different. We are not calling upon the propositional knowledge or discursive processes that are contained in the poker theory part of our brain. What we are executing is our poker know-how&mdash;our unconscious mind's &ldquo;muscle memory&rdquo; system that gives us immediate reactions, gut feelings, intuitions about what the right play is, about what a bet size means, about whether this hand is strong enough to call in this spot. It's what tells us what to do, and instantly moves our fingers toward clicking a button, or folding on a turn card, or going all-in.
-
-Our poker know-how is what actually constitutes our poker perception. That is, the way we see a Js9s8s flop or the hand AJo is *created* by our poker know-how. In a very real sense, you perceive a hand like AJo pre-rationally&mdash;mathematics, hand charts, and your conscious mind never come into it. You have a &ldquo;sense&rdquo; of how strong this hand is, of how it works, of how it should be played, and so on. Of course, you can try to *reconstitute* this perception, by running through your internal poker theory program, perhaps trying to figure out how AJo does against a certain range that you put him on using his preflop stats&mdash;but the vast majority of time, you simply function with whatever perception your poker know-how seeds you.
-
-Poker know-how is trained primarily by playing. As with any other physical activity, like swimming or riding a bike, you cannot learn poker know-how by reading a book or by watching somebody else do it. Poker know-how and unconscious reactions are learned chiefly by direct experiential feedback. Your unconscious mind responds and calibrates itself according to reward and punishment. Now, this reward and punishment can be administered in many ways&mdash;it can come from making a failed or successful play, obviously; but it can also come from criticizing yourself on a play that you think was bad, from getting criticized from someone else who is looking over a hand you played, from watching a video in which the chosen play differs from what you'd do, and so on. But with each of these three latter examples, *the further you get away from the actual experience of poker play, the more you are engaging your conscious mind, and the less you are developing your know-how*.
-
-In other words, the further a source of feedback is from the native context in which you are going to use it, the less effectively that feedback is going to influence your behavior in that context. We will discuss these ideas in more detail and many more in the chapter on learning, so we will leave it at that for now.
-
-To sum up, we can see how there are two very distinct poker systems that exist within our mind&mdash;the conscious system, which contains all of our poker theory, and which is related to our propositional knowledge of poker; and the unconscious system, which contains our poker know-how, and is what we are doing most of the time we actually play poker. They are two distinct systems, separated in our brains, and most significantly, they are learned and cultivated differently.
-
-The next time you play, pay attention to these differences. See if you can spot what sort of situations your conscious mind is consistently being engaged, and which parts of your game are being relegated to your unconscious mind. You might be surprised.
-
-#### IX
-
-Distance yourself, then, from your conscious mind. Step off from the throne, and inspect the entire system with objectivity. Look here. This is who you are. This is how you think. Not just the surface, but beneath it as well.
-
-You must become your own psychonaut, exploring the landscape of your inner psyche. After all, your brain was not designed to play poker. Your brain resists poker. Probabilities, uncertainties, cognitive biases, illusory correlations, and the ever-present hailstorm of stress and downswings thwart your desire to wrap your mind around this complex, beautiful, infuriating game. To make poker fit into your brain is to shove a square peg in a round hole.
-
-But you are okay with that. You accept it. You will do what it takes.
-
-Poker is, in the end, the battle against human irrationality. To master poker is to master the brain&mdash;to master the human apparatus. This is also the journey.
-
-And perhaps if it weren't so hard, if it were easy for you to learn poker, then poker wouldn't be such a dynamic, lucrative, and vibrant world. Perhaps you should be grateful that it is the way it is.
-
-So you must face the challenge. Survey yourself, and let your eyes tell you the truth, like the eyes of a beginner, as though seeing yourself for the first time.
-
-Tell the whole, the ugly truth. What do you want? What are you good at, what are you bad at? What are your failings, your successes? What are you lying to yourself about? Nobody will answer these questions for you. You are alone. You are free to lie to yourself of course; no one will stop you. There are no shortcuts; there are no secrets.
-
-Do you know what you tend to assume about others? What you're afraid of? What you want most? What is it like to play against you? If you can't find these things, ask those close to you. And if they don't know, ask your enemies. Somewhere in the middle of all their perceptions and your own, is the reality of who you are&mdash;and it is that reality you are tasked with understanding.
-
-The question demands itself. Who are you? Poker will ask you this many times over your career. But it is up to you whether you are willing to truly answer it.
-
-#### X
-
- You may have noticed a continuing theme throughout this exploration of cognition: it would appear we are not quite in as much control over ourselves as we'd like to believe.
-
-This is something of an uneasy conclusion, especially for an aspiring poker player invested in his own growth. Understandably so! It *should* make you a little uncomfortable. But nevertheless, you must pull back the camera, and learn to look upon your brain from an outside perspective.
-
-Currently, most prominent theorists of cognition use the metaphor of seeing the brain as a computer, and you've noticed this metaphor crop up a few times in our discussion. It's a good analogue of how our brains work, so let's extend it to its logical completion. We've agreed that our conscious poker theory seems to work like a complex computer program, but we can say that our unconscious poker know-how is like a sort of program as well&mdash;just one that is more simple, acts much faster (perhaps more like a database-lookup than as a discursive problem-solving process), and so on. But as we are sitting at a table, playing with limited conscious awareness, this know-how program is buzzing away in our brains, ordering our fingers where to click, interpreting our perceptions, and responding to feedback.
-
-But as with any program, our internal programs are constrained by their code. If there are errors in your internal code which cause you to make mistakes, then in a sense, you cannot &ldquo;change&rdquo; those mistakes. They will keep happening, over and over again, until you fix your internal code. You are constrained by the way your mental programs are written.
-
-Now, you might point out that this sort of thinking doesn't allow room for being able to play better or worse at any given time, which we clearly do. How can one account for that? Perhaps you will accuse this perspective of being overly reductive.
-
-But I challenge you&mdash;when you sit down at a table to play poker, what are you really in control of? It's important to realize that at any given moment you're playing, the set of all strategies that you'd use in a response to any situation is already embedded in your neuronal network&mdash;that is, the code of your internal programs is already written. In the moment of playing, *you have no conscious control over that.* That is, you can't suddenly &ldquo;decide&rdquo; to use a strategy that you don't know is a good strategy, or &ldquo;decide&rdquo; not to make a mistake in a spot where you're mentally predisposed to making a mistake.
-
-Over time, sure, you can change these predispositions, alter your neuronal networks, rewrite your mental code&mdash;but it is a gradual, piece-by-piece process, as you slowly break bad habits and form good ones.
-
-In any moment, the factors over which you exert genuine conscious influence are surprisingly small. And what are they?
-
-First, you have control over your initial game selection standards&mdash;that is, what standard of how bad of players or tables you're willing to sit down with. Note the word &ldquo;initial&rdquo;&mdash;if you reach a state of tilt, chances are, your game selection will go out the window. Tilt is guided mostly by the limbic brain system, thus it will forcefully background your conscious processes. So all you really have conscious control over is how bad of tables you're willing to *initially*sit in on. But if you're a bad tilter, then you have no control over that 5% of the time when you go on bad tilt&mdash;it's simply a 5% that may or may not arise depending on how bad you are running, and other factors.
-
-The second thing you have control over is when and in what state of mind you start to play. Perhaps you will elect to play mornings, nights, on days when you haven't had sleep, before you've eaten breakfast, when something stressful has just happened to you, and so on. You can see clearly that each of these variables is likely to affect how well you play, and these are all fully within your conscious control.
-
-And third, you have control over what rituals you choose to implement before or during playing. This is vitally important. Rituals would include things like reviewing hands before a session, watching a poker video, reading something inspirational or instructional, doing exercise, reciting a mantra, stretching or doing a breathing exercise, and so on. It also includes things that can take place *during*a session, such as forcing yourself to take breaks at certain times, or quitting at a certain time or when down a number of buyins, forcing out distractions, and so on. Implementing rituals are a means of co-opting your environment to enact your conscious goals, as discussed in section IV. Even if the ritual takes place in the middle of a session and catches you at a point when you're not consciously alert, it will nevertheless force you back into alignment with your conscious intentions. The rituals I've mentioned are examples of some the major ways in which, even if your unconscious mind is poorly trained, you can exert influence over how well you play in a session through the conscious mind.
-
-So there *are* several things we have meaningful conscious control over. But beyond those few things you can control, in a profound sense, almost everything that happens in a poker game is *out of your control*. Who sits at your table, how bad they are, how long the fish stays, how many KK vs AAs or AA vs KKs you get, how many times you soulread the fish, how many times you bluff off a stack to your table nemesis&mdash;these things are only in your control as much as these three factors are in your control. Everything else is simply permutations that were already there; they are simply one of the many possibilities that could happen given your brain structures at the time you go into a session.
-
-So, where does that leave us? What does it mean to play well, and how can we go about doing that? How do we navigate the internal experience of actually trying to play poker?
-
-I will explore those ideas in more detail in the following chapters. Though we have explored much in the realm of poker, there is much yet to go. Next, we will explore creativity, fear, and the role of emotion in poker.
-
-----
-
-We're getting to the halfway point&mdash;and it only gets more interesting from here, in my opinion. Also, if you have any questions or criticisms, please do post a comment below!
-
-<div class="note">Note: this is from the rough draft of my first book, <em>How to Be a Poker Player: The Philosophy of Poker</em>. If you like what you read, consider buying the <a href="https://www.amazon.com/dp/B00HFDJU6A">completed book</a>&mdash;it's tightly edited and contains new material! Hope you enjoyed. :)</div>
-
-
----2012-09-27-philosophy-of-poker-chapter-6-emotion-creativity-and-fear.md
-title: The Philosophy of Poker, Chapter 6: Emotion, Creativity, and Fear
-tags: [poker]
-image: book-cover_nigrpq.jpg
----
-
-Greetings citizens of the world,
-
-It's become something of a routine that whenever I post a new blog post, I apologize for not rolling them out often enough. This time, I'll save you the jig.
-
-You'll notice I have a new site! Basically, the formatting on Blogspot really sucks and the interface is pretty clunky, so I decided to migrate my blog over to WordPress instead. Right now it's a little rough, and I'll clean it up later, but I've been told that having a central site will come in down later on down the road if I want to publish a book. So, if you have any advice regarding the site, do let me know. I'll be adding stuff as time goes on, but update your bookmarks if you haven't already. :)
-
-This next chapter took me a long time before I got it to be satisfactory, but it has been informed by a lot of my experiences in mental coaching. If you have any tilt issues, or are simply interested in the questions of how emotions, such as fear, anger, and excitement relate to poker, I think you'll find this chapter really fascinating. It's the longest chapter yet, but there's a lot of good stuff in here.
-
-Again, if you are interested in mental coaching, or want to contact me for whatever reason, I'm reachable at [haseebcoach@gmail.com](mailto:haseebcoach@gmail.com). I've been getting some questions about mental coaching (that is, asking what exactly it is), so I may make a short post later explaining the in's and out's. But, enough from me. Here's… well, me. But better me.
-
-Enjoy.
-
-<div class="ui embed" data-url="https://www.youtube.com/embed/dh3bleXWaCk">[video]</div>
-
-#### I
-
-Let us return to our original question: what is the relationship between emotion and rationality? We saw in the last chapter that even when we *attempt* to be rational, our cognitive apparatus often fails us, because aspects of it are inherently irrational. The nemesis of rationality is irrationality, not emotion. So what role does emotion play?
-
-We can understand the role of emotion by examining the limits of rationality in more detail. What precisely does it mean to be rational? Consider this within a wider context than poker.
-
-Ideally, we can say that rationality is a kind of optimization. It is acting in order to maximize desirable results. Note the goal in this definition&mdash;&ldquo;desirable results.&rdquo; How do we rationally determine which results are desirable and which are not? A result being &ldquo;desirable&rdquo; implies that it's a result we want. But why should we want it?
-
-The famous dictum goes &ldquo;no *is* implies an *ought*.&rdquo; In other words, facts can ever lead to an imperative. You cannot use rationality to determine your path until you know what you want. The only way that we can say someone *ought* to do something is by having preexistent, axiomatic values; and values can never be derived *a priori*, by facts, or by &ldquo;rationality.&rdquo; Rationality is an optimization algorithm&mdash;but it must have as an input the *value* you want to optimize for.
-
-This means that rationality and emotion are intertwined. If you have no emotions&mdash;that is, if there's nothing that you inherently value more than something else, then there is nothing to optimize for. Emotion is the seed for rationality. Imagine, for a moment, an extremely intelligent AI that exists purely within a computer, but is not programmed to value anything in particular. Would it try to cure cancer? Compose art? Master a game of cards? If one does not possess values, rationality is like a hammer in a house with no nails.
-
-So what is it that we value? In moral reasoning, the value optimized for is moral equity. In cooking, the value optimized for is taste. And in poker, the value optimized for is money. Or is it?
-
-There is a long-standing idea in poker that poker players are supposed to be &ldquo;emotionless,&rdquo; and care only about money. Though it's not immediately obvious, there are more things than money that are of value in poker. We brushed against this idea earlier when we discussed tilt and the notion of giving tilters what they want. The reality is that poker player cares about many more things than money. Poker players are enticed into making monetarily suboptimal decisions all the time! Consider just a few of the values that they sometimes pursue instead: lowering variance; reducing anxiety by playing lower or game selecting tighter; having fun or avoiding boredom; experiencing excitement; bolstering their egos; feeling better than their opponents; feeling like they are is improving or learning; feeling a sense of community; feeling cool; teaching others; getting even; venting anger; sleeping well; having a balanced lifestyle (electing not to play in certain +EV games). The list goes on.
-
-As poker players, we make these sorts of tradeoffs routinely. Though we probably don't think of them in such terms, in their rawest form, that's what they are. You should not dismiss these as betrayals against rationality. In fact, it's better to think of these behaviors as *indicators of your values*.
-
-In other words, if you choose to quit a profitable match because it's boring, or choose to play a more aggressive style because it's more fun and interesting, or even if you choose to play for 8 hours straight to try to get even, you should not think of those choices as working against your ultimate value of making as much money as possible. What these choices indicate is that *you have other values in play* that you are working toward, and that you are paying for in $EV. Now, you may not be fulfilling those values rationally (i.e., in a fully optimal way), but that's a separate matter.
-
-You might object, &ldquo;but when I'm playing a marathon session to get even, I don't actually *value* getting even, I just want to get even in that moment. It's different.&rdquo; This is true, and gets at an important insight, which is that not all values are equal. We clearly value money in a different way than we value something like getting even. This distinction is known as **orders of desire**. The things that you want at any moment are **first-order desires**. But the things that you *want* to want, or the values that you *wish* you upheld are your **second-order desires**. For example, if you're trying to quit smoking, then your first-order desire might be to smoke a cigarette and to alleviate your cravings, but your second-order desire (what you want to want) might be *to not want* to smoke that cigarette, and thus you try to push through your withdrawal symptoms, so that you can eventually not want to smoke cigarettes anymore.
-
-You might then argue that getting even during a session is a first-order desire, but maximizing money in the long run is a second-order desire. Generally, at any given time, there may be a discrepancy between our first-order desires and our second-order desires. Thus, one of our major second order desires is *to align our first-order desires with our second-order desires*. And this is the impulse that leads us to scorn ourselves when, in a moment of &ldquo;passion,&rdquo; we tilt, play above our rolls, or such.
-
-This is a valid insight. It goes without saying that you should try to adapt your current self to your ideal self. But problems arise because many poker players mistakenly believe that money is their sole second-order desire. They believe that money is the only thing that they *should* want. But since money is not an end in itself, this is ludicrous. Money is only valuable insofar as it leads to happiness. Instead, happiness should be the second-order desire, with money only as a sub-goal insofar as it can secure happiness. But happiness is also optimized by other means!&mdash;such as choosing to play fun matches, not playing marathon sessions, getting good sleep and taking care of one's body, minimizing variance and stress, or even challenging oneself with difficult opponents. We choose happiness over monetary optimization in many ways. And we are right to do so!
-
-This is what I am driving at. There are certainly some emotions that we should wish to avoid, but neglecting one's entire emotional life is a profound mistake. Poker takes place within the context of your life&mdash;your life! You shouldn't *want* to be an emotionless robot&mdash;not only because it's impossible, but because it won't make you happy.
-
-To completely eschew emotion is, in a fundamental sense, to misunderstand what you're working toward.
-
-#### II
-
-Even if this reasoning seems sound to you, the intuition might persist that there's a deep opposition between emotion and rationality. You might think, &ldquo;Sure, I can see your argument, but the next time I sit down for a game of poker, I'm still going to see emotion as the enemy. That's just how it is.&rdquo; Let us then look at a second problem with the supposed rift between emotion and rationality.
-
-When we think of emotion as the enemy in poker, really what we mean by &ldquo;emotion&rdquo; is something like &ldquo;emotions that negatively affect good judgment.&rdquo; It's obvious that emotion can sometimes interfere with and override rationality. But emotion plays many complex and multifaceted roles in human life, which are not always at odds with or detrimental to rationality. Our emotions are not limited to things like anger, frustration, envy, and the like. Confidence, self-criticism, preference, and elation are all also parts of our emotional substructure, and clearly those things are not detrimental.
-
-Psychology and neuroscience have taught us that emotions are essential even in cognition and decision-making. Consider an experiment known as the *Iowa gambling task*. In the experimental setup, a subject is presented with four decks, and they either win money or lose money, depending on which card they draw off the top of a deck. It's a game of pure chance. The catch is that the experiment is set up so that one of the decks is rigged so that it loses more often than the others. The subjects are not told this.
-
-The experiment reveals that before any of the subjects are consciously aware of one of the decks being rigged, or are able to articulate any suspicions, they emotionally respond to the rigged deck. Their hands may shake, or they may have an elevated galvanic skin response when they hover over the bad deck, and they will choose the other ones. This is all pre-conscious, pre-rational. However, if you take subjects with damage to their orbitofrontal cortex, a central part of the limbic (emotional) system, experiments have shown that these subjects will persist in choosing rigged decks, regardless of their results. Until their conscious minds pick up on the fact that the deck is rigged, and sometimes even after their conscious minds do, they have trouble differentiating the deck from the others.
-
-What does this mean? It means that *emotion is integral to learning*. Essentially, the Iowa gambling task hinges on reward and punishment&mdash;bad decks punish you, and good decks reward you. But reward and punishment are not only absorbed by your conscious mind, they are also processed via emotions. This makes sense intuitively&mdash;in most forms of punishment, it's the emotional recoil, not the conscious consideration, which is more powerful. Of course, poker is no exception. If you choose a bad strategy, or consistently make a bad play, one of the chief ways in which you will learn and adjust this behavior is getting punished by losing pots. And your unconscious mind, your emotional system, is *constantly* being adjusted by this reward and punishment.
-
-Again, imagine a truly emotionless person, a sort of internal zombie. Why would they prefer winning over losing? There would be no reason to. Emotion is a vital part of how we make meaningful decisions, in both simple and complex problems. In our day-to-day lives, when we talk about emotion, we tend to mean only certain ones (and in poker, particularly the negative ones). But the role of emotion in our cognitive life is *much* more various and complex than that, and we must take it as it is, without simplification.
-
-This is why the idea of being an &ldquo;emotionless robot&rdquo; in poker is fundamentally absurd. To not have any emotions would actually impair our ability to learn, to respond to the world, and most importantly, to secure our own well-being. The notion hinges on a misunderstanding of what emotion actually is.
-
-You might interject, &ldquo;well, what about an abstract poker playing computer program that doesn't have human emotions, never tilts, and so on? Wouldn't that be superior to an emotional human?&rdquo;
-
-I concede, this is correct. An AI that was of equivalent skill to a human being, but without emotional responses, would be a superior poker player. However&mdash;*we are not faced with that choice*. Remember, the game that we're playing is not some abstract version of poker. The game we are playing is *humans playing poker*. And in this game, emotion is an indispensable part of our mental apparatus. Emotion simply *is* part of how we think and learn. We must try to master ourselves, but we must do so *within* the confines of our mental machinery.
-
-So, yes, let us be as rational as we can. And indeed, let us try to dampen the emotional responses that are to our detriment. But to be a good human poker player, you *must* also be emotional. You *must* recoil from losses; you *must* hurt when someone outsmarts you; you *must* have a selfish ego that hungers to improve; and you *must* feel good when you succeed! Without these things, poker would be an empty ritual, a dispassionate procedure, and it would be impossible to muster the energy and desire that it takes to climb up the mountain. You must suffer, you must fantasize, you must be drunk with imagination. The path to mastery requires no less of you.
-
-#### III
-
-Understand, then, that emotional responses, such as tilting, are not merely random blips. They do not arise without a reason. After all, not every player tilts in the same way, or has a similar threshold for tilting, or is tilted by the same things. But if we take emotional responses as indications of our underlying values, then we gain insight into how we can reduce tilt and other unwanted behaviors.
-
-Consider emotional responses as ticker tape from the unconscious mind. If you have a persistent issue of quitting games too early when you're winning, or if you're liable to tilt when you lose to a player who you think is bad, or if you tend to start splashing around when you're bored, these are all indicators of underlying values&mdash;that is, your first order desires. If you quit games too early, it's likely that you value the feeling/knowledge of having a winning session; if you tilt against bad players, it's likely that you value the feeling of superiority over others and feel strong entitlement to winning; and if you splash around when bored, it's likely that you value excitement and having fun.
-
-Notice I refrain from claiming you &ldquo;over-value&rdquo; these things. It's impossible for anyone to objectively claim that you anyone over-values anything, because values cannot be &ldquo;decided&rdquo; rationally. A person merely has values and chooses to uphold them. If you value excitement, and are perfectly happy with that value, who am I to say that you should choose money over excitement? However, if *your second-order desire* is that you want to prefer to make money over playing exciting matches&mdash;that is, you want to *change* your first-order desires&mdash;then at that point, we can try to rectify this mismatch.
-
-Harnessing your emotional capacities, positive and negative, begins with an honest evaluation. You cannot blindly rebel against the emotional reaction, as though the emotion itself is the problem. If you splash around in boring matches, that is only a *symptom* of an underlying desire. To blame your splashing around would be like blaming a cough, while ignoring the underlying virus. If you value excitement, then first you must admit to yourself that you value it. If you didn't, then you would simply not splash around to begin with.
-
-Once you acknowledge that you do indeed value some emotion, you can work toward rerouting it through a different outlet, or extinguishing the emotion altogether.
-
-#### IV
-
-Tilt.
-
-The word can hardly be pronounced without conjuring memories&mdash;dented walls, marathon sessions, broken keyboards, and that empty, flattened feeling you get after having donked away half of your bankroll, staring at the ceiling at 5AM, waiting hopelessly for sleep to arrive. Everyone has a story about it, everyone has a scar. It is our common demon. Any poker room will bubble up with advice on how to deal with it. Tilt is one of the most fruitful, and tired, topics in poker.
-
-Let's talk about tilt.
-
-We tackled the subject briefly when we discussed opponent psychology, but now we will take the internal perspective. We will explore how tilt manifests, how to conceptualize it, the various forms it takes, and how to abate it.
-
-We'll begin with some definitions. **Tilt** is, simply, when your emotions negatively affect your normal gameplay. Tilt is primarily caused by five things: losing a pot, failing a play, feeling insulted or disrespected, having an atrophied mental state (such as by being tired, hungry, or hung over), or being affected by concurrent life events (such as losing a job, having a fight with your significant other, etc.).
-
-I also stated before that there are two major manifestations of tilt&mdash;hot tilt and cold tilt. **Hot tilt** is the aggressive, angry, try-to-win-it-all-back-right-now type of tilt, which can be emblemized by the blind all-in preflop shove. **Cold tilt** is more of the resigned, tired, just-let-me-get-aces-one-time type of tilt, which is emblemized by the player who's been playing for twelve hours straight and is folding to all of your 3-bets. For more discussion on hot tilt vs. cold tilt, see Chapter 3. 
-
-We discussed before the &ldquo;pot of boiling water&rdquo; metaphor for tilt. Your tilt level is like a pot filled with warm water. As bad (tilting) things happen to you, they each deliver a unit of heat to the pot of water. For a while, the heat won't affect you, and your internal water will remain stable and calm. But after a certain point&mdash;at your boiling point (i.e., your tilt threshold), the water will start to simmer, and as more heat is added, boil more and more violently. This is the nature of tilt.
-
-But like with a pot of water, once you turn off the heat (i.e., step away from the poker game), this does not mean that your tiltedness diminishes to zero. The pot of water will retain some of the heat, which we call **accumulated tilt**. It is essentially the residual tilt from a downswing, or lots of bad beats, or whatever. Thus, the next time the heat is turned on, it is easier to bring one's pot to a boil. Accumulated tilt can be naturally resolved by simply letting the pot cool down for a while (i.e., taking a break), but there are also other methods for attacking accumulated tilt, which will be discussed in the subsequent section on downswings.
-
-This serves as an adequate definition of tilt. But this leaves the question&mdash;what is going on beneath the surface? Why does tilt happen at all? How does it work?
-
-Let's start at the level of the brain. If tilt is when our emotions negatively affect our normal gameplay, then we can restate this as our limbic system (part of the unconscious mind, which regulates emotional responses) inhibiting our conscious mind (which is supposed to be regulating our unconscious poker game with theory). When a player goes on monkey tilt, he undergoes a flight or fight response&mdash;due to various neurochemical reactions, his unconscious mind, with its impulses, instincts, and reactivity, takes control over his poker decisions. The conscious mind is essentially overridden (and partially shut down to conserve energy).
-
-Recall the distinction we made before between conscious competence and unconscious competence. Essentially what happens when one is tilting is that the conscious mind is getting pushed out of the picture, and therefore the unconscious mind is in full control. The result is that when you tilt, you are performing your unconscious competency, without the self-checking conscious mind looking over your shoulder. In other words, *what you do when you tilt is equivalent to your unconsciously mastered game.*
-
-Have you ever wondered why people behave differently when they tilt?
-
-Let's take two players of equivalent skill level, who play the same stakes, but tilt very differently. And let's say that they both go on monkey tilt (and their level of tiltedness is equivalent). The first player might start 3-betting more aggressively and 4-bet calling off with medium pairs, making more desperate hero calls, all of which he normally doesn't do. But the second player, despite being of the same skill level&mdash;when he goes on tilt, he open shoves ace-rag preflop into four players, and then checkraises a flop with a gutshot, fires turn, and overbet-shoves-river when he misses. He seems much crazier when he tilts.
-
-Clearly, these two players tilt very differently. A naïve interpretation might be that &ldquo;oh, player 2 is just a monkey.&rdquo; But let's be more precise. If we take tilt as an indicator of your unconscious game, what this implies is that when player 1 takes off all of his conscious mental checks, all that he has unconsciously trained himself to be *able* to do is to elevate his 3-betting frequency, 4-bet/call more, etc. Player 1, in a profound sense, *cannot* open shove A4o preflop like player 2 can. His unconscious mind won't let him. He doesn't even perceive it as a possibility, or a decision to ever make. In other words, player 2 is not &ldquo;more tilted&rdquo; than player 1 in order to make &ldquo;tiltier&rdquo; plays&mdash;it is simply an indication that player 2's unconscious mind is less restricting of the available poker space. Player 2's unconscious mind sees open shoving A4o preflop as a possible play, where Player 1's mind does not.
-
-In a sense, when you tilt, your mental shackles start going off, one by one. Your most unrestricted conception of what is possible in poker begins to come out. But most people, myself included, have too much mental inhibition to ever open shove a hand, no matter how tilted they are. I have monkey tilted many times in my career, but I have never considered open shoving a hand preflop&mdash;I have never even been close. This is not because I have not &ldquo;tilted as bad&rdquo; as someone else, but simply that my completely unfettered unconscious mind could not even consider doing such a thing&mdash;but it nevertheless did all that it was capable of doing. With tilt, some play looser, some 3-bet more, and some make hero shoves. But, at its essence, your unconscious mind will only do things that it believes might work. Chances are, if somebody is open shoving preflop, he unconsciously believes that he might end up winning (and it is likely that if this behavior has not been extinguished, it has been rewarded at some point in the past, which is why his unconscious mind continues to do it)&mdash;or, alternatively, if someone is open shoving hands preflop, it is possible that what he actually wants to do is lose (we will discuss the desire to lose and reset your narrative in the subsequent section).
-
-Recall the perspective we've been discussing earlier with regards to emotion. Emotional responses always arise for a reason; they are vestiges of the emotional substructure beneath them. To dismiss them as merely random blips is to simply throw away information. There is no such thing as &ldquo;just tilt.&rdquo; There is always some underlying value, desire, or belief to which tilt is merely the response. If you want to correct your tilt, you must first understand the underlying emotional structure and incentives.
-
-Here, then, we can see one of the problems for the term &ldquo;tilt&rdquo; as it's commonly used. We have defined tilt as &ldquo;emotions negatively affecting our gameplay&rdquo;&mdash;but if you think about it, this definition is enormous. We already know that &ldquo;emotion&rdquo; runs a large gamut. To compress all of the ways that emotion can affect us into one word, &ldquo;tilt,&rdquo; is problematic&mdash;two players can both say that they have tilt problems, and yet have almost nothing in common in terms of their particular issues, triggers, or solutions. One player may tilt because he feels like he never gets to win a flip, and the other may tilt because he's tired, and has been playing too long, and his mother-in-law has been yelling at him. So if you tell me &ldquo;I lost money because of tilt today,&rdquo; the inexactness of that word fails to capture nuanced information about *why* and *in what way* you tilted.
-
-Poker players are great at discussing strategic mistakes that made them lose&mdash;&ldquo;I was 3-betting too much and trying to win too many pots,&rdquo; or &ldquo;I kept calling all his river shoves when he was playing pretty nitty,&rdquo; but never will you hear a poker player tell someone else &ldquo;I was tilting because I felt like I deserved to win, so I decided to try to force winning and increase variance by moving up.&rdquo;
-
-Perhaps this is an understandable development&mdash;our hyper-masculine poker culture is discouraging of emotion and vulnerability. This has the effect of stifling emotional self-awareness. Interestingly, poker strategy has evolved tremendously in the last five years, as a result of open, rigorous discourse and exchange of ideas&mdash;but emotional skills have not really followed alongside it. This is due in no small part to the implicit taboo of talking openly and vulnerably about one's own tilt. Though we might be fine admitting to strategic mistakes, we are more likely to laugh off our tilt mistakes&mdash;among friends, to joke about our degeneracy, only to sulk over our failings in private.
-
-Emotional skills are developed no differently than strategic skills. And in order to develop them, it takes time, discipline, and most importantly, the acuity to see oneself and one's mistakes honestly.
-
-So we've established that there are many different kinds of tilt, and that it is problematic to group them all under one umbrella. Jared Tendler, in *The Mental Game of Poker* lists what he thinks are the six main types of tilt: injustice tilt, hate-losing tilt, mistake tilt, entitlement tilt, revenge tilt, and desperation tilt. These are convenient categories, but ultimately, tilt spans a spectrum, and there can be no generalized solution to tilt that will apply to everyone, since everyone has their own specific emotional profile, beliefs, and values.
-
-Thus, there is no generalized answer to the question&mdash;&ldquo;why do people tilt at all?&rdquo; If we take the perspective that our behaviors arise for good reasons, then what problem in our emotional substructure does tilt solve? You could talk about the conditioning of correct behaviors with their rewards, you could talk about trying to secure positive self-perceptions and egotistical homeostasis, you could talk about rebelling against the structure of injustice in poker, you could talk about trying to attack your opponents to restore your sense of superiority&mdash;there are many reasons why people tilt, but we each tilt for our reasons, and in our own ways. There is no single answer that pertains to everyone, and so we must each seek to understand how we ourselves are emotionally constituted.
-
-So let's say you're already in a session, and you realize that you've begun tilting&mdash;what can you do to allay your tilt? Well, as long as I have you here: quit. But, of course, you're tilting, so perhaps that's a futile suggestion. The first of the effective techniques for alleviating tilt is **breath control**. There are literally hundreds of different breath control techniques&mdash;which one in particular you choose is unimportant. If you are not familiar with any, I would recommend simply this&mdash;when you realize you are on tilt, lean back in your chair to open up your diaphragm and support your lower back. Relax your body as much as you can. Then, close your eyes, and take ten deep, long breaths. As you are taking these breaths, try to internally scan your body. Try to think, &ldquo;Hmm… let's look at what sensations I'm feeling. Let's see what this tilt feels like. Where do I feel it? What does it feel like in my body?&rdquo; As you are taking these long breaths, try to look objectively at what sensations you're experiencing internally. The very act of calm examination will defang many of the emotions and sensations. If this moment of mental distance allows you to convince yourself to quit, or even if you sit back in and continue to play, you will feel better, more centered, calm, and self-aware if you engage in this exercise.
-
-There are a number of other things that can help with tilt problems&mdash;there are mantras you can recite to yourself, pre-session rituals, taking breaks, visualizing, and so on. The list is endless, and like I said, there is no special ritual that is going to work for everyone.
-
-But ultimately, for most people, tilt is a very difficult issue to correct on one's own. It's not impossible, by any means, and most players will naturally improve at it over time&mdash;but having seen many, many players who wanted to improve on their own, I have noticed that tilt tends to be the most recalcitrant part of people's games. When someone is a complete tiltmonkey, it is usually obvious, even for them. And those people, if they hit their bottom or get the wind knocked out of them enough times, will often seek help. They know that they are tiltmonkeys. But for most people, tilt is like a sleeping bear that lives in their mental cave&mdash;they never know when it will wake up and bite them again. But because it is usually asleep, most of the time they feel like tilt is not really a significant problem. In a way, most players would be lucky if instead of only tilting in small, intermittent episodes, they tilted continuously, only a little bit, all the time&mdash;they would be forced to be more aware of their emotional weaknesses.
-
-Ultimately, if your tilt problems are very serious, and are causing major negative effects on the rest of your life, then I recommend consulting a psychologist or licensed therapist. Although a poker mental coach can help you to understand your motivations, your tilt profile, and help you to work through tilt and develop better habits&mdash;it is a short stumble from a tilt problem to a gambling problem. When in doubt, you should consult a licensed professional.
-
-#### V
-
-Downswings are inevitable in poker. As successful as you think the greatest players are, part of what makes them great is that they have braved downswings harder and deeper than anyone else. It is a statistical reality that the longer you play poker, the more likely it is you will face a downswing of such titanic proportions.
-
-We are naturally inclined to think of ourselves as poker players in terms of how we are when things are going well, and we are successful. But how you face those downswings is just as big, if not a bigger part, of your true capability as a poker player. *How you face your downswings is a vital part of your skill*.
-
-I emphasize this, because it's such a direly important point. Being a great poker player isn't just about grinding past the downswings and focusing on the upswings and the nice graphs and taking shots and moving up. A huge part of the journey of a poker player is *how you brave* your downswings. It is gritting your teeth, and taking punishment, again and again, day after day, and holding fast. Being a good player when you're winning is not enough.
-
-It is always possible that a storm of variance will hit you&mdash;a storm so large, so powerful, and so destructive that you will not survive it&mdash;so destructive that it will break you. And someday, if you keep playing poker, you will face a downswing bigger, deeper, and longer than you ever thought possible. This is a statistical reality. No amount of playing good, or praying, or good karma will protect you from it. It is only a matter of chance. The question, then, is what is your threshold? How big of a storm are you capable of weathering?
-
-There are scores of players who were fantastically skilled when their ships were sailing out in the open waters of running-good. But they could not handle the storm that hit them, and went broke. It is the oldest story in poker, and though it happens again and again, this story always goes untold, unremembered. Narratives in poker revolve around the successful, the upward spiking graphs and the smooth, continuous winrates. The masses of poker seek these stories out, they selectively inundate themselves with these stories, as though to blanket themselves from the harsher reality.
-
-But this is the way it is. Poker is a fickle mistress.
-
-So let us say this: skill and winrate in poker is not measured merely by how good you are when you are running well, but also by how good you are when you are running poorly. That is simply part of your overall winrate, when abstracted over the long run. So if you look at a sample of your winrate while you're playing well and running well&mdash;that winrate isn't your true winrate, because it's skewed positively.
-
-When you are downswinging, you will always play worse. How much worse?&mdash;that depends on your emotional skills in being able to brave downswings. So we must ask the more pressing question. What tools do we have to handle our downswings? How can we strengthen those emotional skills?
-
-Imagine your worst downswing. Take a moment and try to remember. Think about the weeks, or months that it dragged on. Losing day after day. Constantly having to lower your sense of progress&mdash;you'd lose one day, hoping to recuperate it the next&mdash;but you'd only lose more, and more the next day, on and on. The feeling that maybe you weren't good anymore, that you had been wrong all along, or maybe you lost the skill you once had, or maybe everyone else got better. The feeling that poker was punishing you, a feeling of overwhelming, indiscriminate injustice. But worst of all, the feeling that you were moving backwards. That you were no longer climbing the mountain. That you were beginning a slow and indefinite descent downward, and that things might never turn around.
-
-All of these feelings create a feedback loop. Because you are running bad, you lose confidence, you believe you're never going to win again, you play worse and tilt more, which all makes it more likely that you're going to continue to lose. Thus, the cycle self-perpetuates, feeding itself, like a snake eating its own tail. I call this phenomenon **Poker Hell**. Once you descend into this cycle of losing, tilting, and more losing, how do you ever break out of it? Obviously, one has to run good&mdash;but because you're in Poker Hell, you're inherently going to play worse, and your winrate is going to be depressed. Thus, you would have to run *better* than you would otherwise, since any positive variance is tapered due to these negative effects. So the better question is this: how do we climb out of Poker Hell, so we can hit the escape velocity out of our downswings more easily?
-
-To answer that question, let's pull back and more closely analyze the actual mental processes in downswinging. There are two major types of negative effects caused by downswings: the first type is short-term negative associations, and the second is disruptions in one's self-narrative.
-
-First, we will look at **short-term negative associations**. Let's begin with the obvious. A downswing is a stretch of time over which you are repeatedly given negative feedback, regardless of what you do. Because a downswing is a deviation from perfectly calibrated feedback (that is, rewarding correct behavior and punishing bad behavior), the natural effect is that a downswing is going to miscalibrate your senses. You are going to learn&mdash;at least in the short term&mdash;certain things that are simply incorrect, but which have been impressed upon you by repeated reinforcement.
-
-For example, a common thing that people learn while they're downswinging is that &ldquo;he always has the nuts against me,&rdquo; or that &ldquo;I never win with [x] hand or in [y] situation,&rdquo; or even more obtuse claims like &ldquo;I never win flips.&rdquo; Of course, to a non-downswinger, a lot of these claims sound silly. But to the downswinger, these claims are actually the product of his conditioning. He has *learned* these things by the feedback that poker is giving him, through simple trial and error. And, in a sense, such a thought is not stupid&mdash;it is simply what his unconscious mind, which is constantly receiving and integrating information, has learned in the short-term.
-
-Because the unconscious mind adapts quickly to new information and changing dynamics, the player &ldquo;feels&rdquo; many things are true that a non-downswinger knows are not true about poker in and of itself. And as you may have experienced, even if his *rational* mind knows that objectively it's not true that he never wins flips, he still cannot resist his unconscious premonition. He can't help but *feel* like he's going to lose every flip. It looms over him, and affects his behavior, as well as his emotional responses.
-
-The sorts of behaviors that are engendered by downswings are, for the most part, risk-averse. Downswingers tend to stop making high-variance bluffs, they stop being as creative or experimental, they prefer low risk-reward situations to high ones, and they try to prevent from getting into situations where they can make mistakes.
-
-In animal psychology, there is a similar concept known as &ldquo;learned helplessness.&rdquo; If you take an animal and place it on an electrified mat that delivers electric shocks at purely random times, from which the animal cannot escape, the animal essentially undergoes a depression. Once it realizes that there is nothing it can do to change its fate, it hunkers down, stops expending energy, and simply accepts the pain that it's going to receive. It has learned that it is helpless, and therefore not to expend energy or to take risks.
-
-In a downswing, you experience very much the same thing. Because your unconscious mind has learned that &ldquo;nothing works,&rdquo; you stop trying to make plays or take risks, and simply hope to wait it out until the good side of variance arrives. Exerting dominance over your opponent is integral to good poker, but it is the first thing to go out the window in a downswing.
-
-So we understand the problem. What can we do to circumvent this?
-
-To some extent, this phenomenon is intractable. You cannot prevent your unconscious mind from learning from short-term patterns&mdash;it is too absorbent for that. The mental distortions that are caused by long fluctuations in variance are thus inevitable, and no functioning human brain can escape them. Downswings and their negative effects are simply part of our lot as poker players. But there are a few things we can do to mitigate these effects.
-
-First, *win*. This sounds simplistic, but it's profoundly important. Once you start winning, your unconscious mind will unlearn its distorted negative associations. Of course, that's the catch-22, isn't it? If you're downswinging, you have no *control* over whether or not you win. But there are a few things you can do to give your winrate an extra nudge forward, re-assert a feeling of control and mastery (which will retrain your unconscious mind to start taking more risks and play more masterfully), and get yourself back to winning.
-
-For one, you can move down&mdash;even if you don't need to for bankroll management. I would recommend even moving *way* down. If you're playing $2/$4 and going through a brutal downswing, a week of playing $.50/$1.00 would likely do you a lot of good&mdash;it will make it much more likely that you win, feel a sense of control and mastery over your opponents, and thus it will straighten out a lot of your negative mental distortions.
-
-Secondly, you must force yourself to start taking more creative risks, in order to re-sensitize yourself to a wider range of possible behaviors. A downswing is naturally going to clip your wings when it comes to creativity, because your creativity is being consistently punished. Especially when you're playing lower, since it'll be easier with smaller amounts of money to make creative plays, forcing yourself to take such risks is going to undo that short-term conditioning.
-
-A third thing you can do is game select harder. Again, this seems obvious, but it also will have the effect of nudging your average winrate higher, as well as your sense of mastery and control over weaker opponents.
-
-The fourth third thing you can do is to try to focus on *process* rather than results. This is a very important idea in poker, which will be reiterated when we talk about learning. If you force yourself to accept punishment and reinforcement on the basis of *playing well* and *making the right decisions* rather than on winning pots, this will lessen your susceptibility to mental distortions by downswings. If you are process-oriented, then even if you're downswinging, what you will care about is whether you make good plays or not, even if you lose those pots. On the other hand, if you're results oriented, when you are running bad, you are going to continually accept and process the negative feedback from losing pots, even if you're making the right plays. If you consider your likelihood of making correct plays as a base degree of variance, and the likelihood of your plays working as a higher degree of variance, then if you're results-oriented, you're resigning yourself to accept more variance in your self-reinforcement, meaning you will also have more &ldquo;mental downswings,&rdquo; or mental distortions.
-
-Consider an EV graph, in which your winnings and all-in EV lines deviate substantially from each other. Of course, it would be nice if your winnings line were glued to your all-in EV line. Mental feedback works the same way. Your mental feedback has its own winnings vs. all-in EV line, but we would call winnings &ldquo;results,&rdquo; which has more variance, and all-in EV &ldquo;process,&rdquo; or &ldquo;making the right plays,&rdquo; which has less variance. So if you could *only* make your mind interpret whether or not you made good plays, rather than their results, then you'd greatly dampen the effects of a downswing&mdash;though, as I said before, it's impossible to fully stamp them out.
-
-So those are the short-term effects that we feel from downswings. The second major aspect of how we are affected by downswings is **disruptions in self-narrative.**
-
-Self-narrative is a very important idea in the psychology of identity. According to some theories of self, the way that we make sense of who we are as individuals is through constructing our personal narratives. That is, even when we change in dramatic ways or undergo shifts in consciousness, what unifies our sense of who we are is the narrative thread that winds through all of our life. We carry this narrative continuously through our memory, changing it bit by bit as time progresses. This is how we make sense of who we are&mdash;through the stories we construct about ourselves.
-
-As a poker player, your identity is to some extent tied to your success in poker. Poker is what you do; it might be your calling, your craft, or your passion. So when you succeed at it, you are validated, and when you fail at it you are failing yourself&mdash;at least, this is the underlying unconscious emotion for many.
-
-So during a downswing, your self-narrative becomes disrupted. Up until now, poker has been the story of your continuous ascent&mdash;you started off with nothing, not knowing even the rules of the game, and now here you are, half-way up the mountain. Not a week of playing poker has gone by without you learning, improving, changing. But a downswing is a reversal in that narrative. In a downswing, suddenly you feel like you are going backwards. Like you are losing progress. Your self-narrative, instead of one of growth and ascent, becomes one of stagnation and degradation.
-
-That self-narrative affects you deeply! It's not simply what you think about when you passively reflect upon your life. Your self-narrative is what you *feel like* your life is doing. It's your sense of tomorrow when lying in bed at night. It's your internal compass of purpose and growth.
-
-In a downswing, it feels as though you are going downward. Of course, you are, in a literal sense. But for most good players, downswings are aberrations from their true winrates. They *should* be winning, but that fails to assuage them. They just feel the down-ness of the downswing. This prevents them from an overall feeling of optimism about poker, and more importantly, they lose a sense of personal well-being, of motivation, and so on. This affects their monetary EV, but also much more importantly, affects their happiness.
-
-So how can we defy this effect?
-
-Here, we have to utilize the power of **mental frames**. A mental frame is a perspective, or interpretation from which to view reality. We're going to analyze frames in a lot more detail in the following section, but for now we will consider the stereotypical, well-worn example, taking a glass of water: one can see a glass as being half-full or half-empty, depending on how you choose to interpret it. A simple shift in mental frame makes all the difference in how one perceives and feels toward the glass of water.
-
-In the same way, self-narratives, being stories, rely tremendously on mental frames. Generally a downswing is going to create the mental frame of &ldquo;nothing is going right; I am getting punished when I should be rewarded; I don't deserve this; I am going downhill; I'm losing money,&rdquo; and so on. Generally, a downswinger tends to feel entitlement, victimization, and that they are in decline.
-
-But let's try to reverse these perspectives, solely using mental frames. That is, let us take the exact same set of facts, but interpret and contextualize them differently&mdash;more advantageously. Let's say that instead of thinking &ldquo;I am getting punished when I should be rewarded&rdquo;&mdash;the entitlement frame&mdash;we replace it with &ldquo;how I brave this downswing defines me as a poker player&rdquo;&mdash;which is instead, a challenge frame. Then instead of &ldquo;I don't deserve this,&rdquo; the victimization frame, we replace it with &ldquo;everyone has downswings; this one is mine; I knew it was coming eventually, and now it's simply here&rdquo;&mdash;an acceptance frame. Closely related to the acceptance frame is the progress frame: instead of &ldquo;I am going downhill,&rdquo; we think &ldquo;I am making progress through *this downswing*.&rdquo;
-
-I call this last notion the **fog of variance**. One of the fundamental reasons why downswings are so difficult is because we believe we are the *only* person getting punished unfairly. No matter what good we do or how well we play, when we're downswinging, poker seems to punish us and only us. There are two ideas in poker regarding variance&mdash;the first, that we create our own graphs, but the second, that we are also victims to variance's whims. People tend to vacillate between these two ideas, never really choosing one clearly (and probably the truth is somewhere in between). But the most fruitful answer is to fully take on both.
-
-Instead of imagining that poker is a monolithic entity that treats one person fairly and another person unfairly&mdash;some murky, mindless god of variance&mdash;it is valuable instead to isolate poker for each person. If you are facing a downswing, instead of thinking &ldquo;that's not fair that poker chose *me* to face this downswing,&rdquo; instead take on the frame that &ldquo;this downswing was inevitable. This downswing is part of my mountain. Eventually I would have to face a downswing of this exact proportion and length; it happens to be right now.&rdquo; It is like climbing up a mountain and finding an upcoming portion that is going to be especially tricky and time-consuming. Does a mountaineer curse and say &ldquo;I don't deserve this part of the mountain; this is unfair that the mountain did this to me&rdquo;? Of course not. To a mountaineer, that is simply *part of the mountain*. It makes no sense to talk about climbing a mountain if you are going to complain about it having difficult parts.
-
-But why does poker feel different? It feels different, because in some part of our mind, we imagine that we don't *have* to have downswings. Things *could* be different. Variance could simply &ldquo;choose&rdquo; to be kind to us.
-
-And there is, in fact, some truth to that! But nevertheless, that perspective, that mental frame, is extremely deleterious. We must instead choose the fog of variance frame. We must imagine that, in fact, our graph of variance has already been written for us. There is no moment-to-moment re-deciding, re-shuffling, but instead the variance that is going to hit us is like a mountain that we have already begun to climb. We cannot see the variance that is going to hit us&mdash;it is obscured by a layer of fog when we look up. But nevertheless, we must know (or pretend) that it is going to be there, that it is simply *part of what it means to play poker*, and therefore that we inherently accept it the moment we choose to play.
-
- Then there's the last frame, the frame of monetary decline&mdash;&ldquo;I'm losing money.&rdquo; A stubborn downswinger might interject at this point in our discussion, &ldquo;how could I re-frame that? If I'm losing, I'm losing, that's just a fact. I can't delude myself on that point.&rdquo;
-
-But think for a second how we delineate downswings. If a winning player loses over a week, he'll announce &ldquo;I'm having a week-long downswing.&rdquo; What this really means is that he has defined his local self-narrative as restricted to what's going on in *this* week, during which he's been losing. Thus, he has defined his self-story as starting within the period of this &ldquo;downswing.&rdquo; But let's imagine he's won the previous three weeks. Why do we accept that he's having a week-long downswing? Why don't we say that he's breaking even over two weeks? Or on a three-week, or four-week upswing? It's completely arbitrary where we draw the starting point of our current self-narrative. This is true even drawn over a month, or two months, and so on.
-
-So if your lifetime career graph has been going up, and for the last month it has been going down&mdash;why are you deciding that you are on a downswing? Why not instead choose to reframe as that for the last four months, you have been winning? Or, hell, that since the beginning of your career, you have been killing it?
-
-So the final and most powerful mental reframe is what I like to call &ldquo;**it's all one long session**.&rdquo; Because it's completely arbitrary where we begin or end what we call our downswing (that is, our local self-narratives), we can choose to draw those lines anywhere&mdash;then let's choose at the beginning and ends of our careers. So every session you play, you're not entering into any new upswings or downswings; there are no special episodes dividing up your experience. You are simply in the same continuous stream with which you began, which is your entire poker career. And so you do not need to take responsibility for individual days, or weeks, or months being bad or good. You do not need to experience all of that as individual episodes in your story. Instead, accept the entire story, from beginning to end, all the time.
-
-It sounds nice, right? But it's easier said than done. Can you actually *identify* with your entire poker career? Can you actually sit there after a losing session, and think to yourself &ldquo;well, my lifetime career has gone pretty well&rdquo;? Clearly, it's not easy. But this reframe is a skill that can be learned, given honest and deliberate practice.
-
-In the end, everyone at a poker table is fighting for something. Some are fighting for money, some are fighting for fun, some are fighting for self-respect&mdash;there are many motivations that drive a poker table. But what is a person who is on monkey tilt fighting for? What is it that he most wants?
-
-Money? Not really, no. When a tilter is on furious tilt, he is generally in the worst possible position to make money&mdash;and many times, he moves up to higher stakes, and plays people against whom he knows he's not a favorite. Let's say that there's an 80% chance that he loses a lot, and a 20% chance that he gets even. If we assume that he knows what he's doing, and is acting according to his incentives&mdash;what is it that he really wants?
-
-What he wants is precisely this. He wants to alter his self-narrative. He wants to escape the story he's living. Once this player hits his downswing, the entire episode will feel to him like one continuously painful event. On the 20% chance that he gets even on the day, he can escape that pain, obviously&mdash;but even on the 80% chance that he loses a great deal of money, he will lose so much that he's no longer in the same situation monetarily, and therefore will **reset his narrative**.
-
-Have you ever lost so much money that you felt like you were in a new place? That everything changed? That suddenly, you had to re-take stock of yourself and start over?
-
-This is resetting your narrative. It is pushing so hard through the other side that you feel, perverted as it seems, almost… refreshed. It is forcefully creating a new chapter in your personal narrative. It is, in a strange way, a relief. You no longer have to associate with the decline you were feeling before&mdash;everything has started over. It's like throwing out your old wardrobe, or moving into a new apartment, or making a list of New Year's resolutions. It's an arbitrary place that makes you feel like everything's brand new, and pristine. But here's the point&mdash;no matter how arbitrary and artificial it is on its face, you fully experience that difference! You truly feel released from your story. By monkey tilting in this way, you ensure that you will experience a **mental reframe**. The only problem is, from a second-order perspective, it's not a good way to go about doing this, since it sabotages our long-term goals. Rather than sacrifice a lot of money to reset our narrative, we'd much rather try to impose our own mental reframes.
-
-Since mental narratives are how we make sense of ourselves, mental reframes are, essentially, rewritings of our stories. We've seen many of these stories that are advantageous to adopt&mdash;but how does one adopt a new story? Simple. By telling it over and over again. This is how that narratives function. Why did the ancient Greeks believe in stories of Zeus and Apollo, never having seen any evidence for them? They believed it because of the power of the storytellers themselves. Stories gain their power by being told, again and again. With enough sincere tellings, the story itself becomes more and more convincing, to the point at which one must suspend one's natural disbelief.
-
-So consider the stories you keep telling yourself. They may not be obvious, but if you turn them over in the light, you will reveal them to yourself. Examine these stories, and consider how you can revise them to better frame your mental life. And therein, with practice, you can rewrite the lived experience of your journey.
-
-#### VI
-
-We've begun to explore the use of frames, but let's explore the concept in more detail. Frames are enormously powerful tools, and they are essential in mastering our mental life. There are a couple of classic gambling experiments in behavioral economics that shine some light on this phenomenon.
-
-Consider this first experiment. In this setup, a subject starts with no money, and he is told that he has two choices. He can either take a 50/50 gamble between winning $20 or nothing, or he can choose to go home with an assured $10. The EV of these two propositions is the same, of course&mdash;and you might correctly guess that the vast majority of subjects choose the assured $10. This seems to suggest that people are mostly risk-averse.
-
-Now, let's say you switch around some of the variables. Let's say that instead of starting with no money, the subject *begins* with $20. Now he has two new choices&mdash;he can take a 50/50 gamble to either keep his $20 (+$0) or lose it all (-$20), or he can accept a guaranteed loss of $10, so he'll have $10 remaining. Which of these do you think most people choose? Turns out, most people choose the former. Most people choose to gamble in this case, to try to keep everything. Perhaps then, in some cases they're risk-prone.
-
-But if you are an astute observer, you will notice that actually *both of these experiments have the exact same outcomes*. In both cases, if you take the gamble, you have a 50/50 chance of walking away with either $20 or $0, and if you don't take the gamble, you're assured $10. Not only the EVs, but the actual *outcomes* are equivalent. Yet, in one case most people avoid risk, and in the other case, seek it. Why is this?
-
-We could say simply that people are irrational, but again, this is a dismissal of complexity. We would do better to instead assume that people are responding to actual incentives in their behavior. At its essence, risk aversion means that winning a certain amount won *feels less good* than losing that same amount *feels bad*. Consider a poker example: when you choose to forego a slightly +EV flip that is so big it would make you anxious, your decision is not necessarily irrational&mdash;you are simply optimizing for your feelings rather than for money. In the same way, these subjects *are* responding rationally to their incentives&mdash;but we might argue that according to their second-order desires, those incentives may be undesirable. In poker, what we ultimately want to do is to reconfigure our first-order desires so that EV takes precedence over feeling, or otherwise, change our feelings so that they better align with EV.
-
-The idea of changing our feelings and our relationship to EV is a very important one, and we will return to it later when we discuss learning and self-conditioning. For now, we will focus specifically on this phenomenon of perceiving wins and losses.
-
-So these aforementioned experiments show the power of framing something as losses or wins, but there's also a more subtle point to be made. Notice how in each experiment, we gave the subject a different amount of money to start with. Of course, the starting amount is immaterial&mdash;the subject's outcomes will be exactly the same. But if you tell a subject he starts with $20 as opposed to $0, this gives a subject a **reference point**. Reference points are mental and emotional anchors with which we orient ourselves. By controlling the reference point, we can control the mental frame with which we view an object or a situation.
-
-Even experts can be swayed by reference points. Experiments have shown that when medical professionals were proposed with hypothetical procedures which had a &ldquo;90% 5-year survival rate&rdquo;, or &ldquo;10% chance of death within 5 years,&rdquo; even though these are functionally the same information, experts reacted to them very differently. The way information is presented very strongly affects how it is processed. The use of framing and adjusting reference points is widespread in advertising and politics, as well as the arts of rhetoric and persuasion. But for our purposes, we must narrow our focus on poker, on money, and on EV decisions.
-
-The former experiments suggest that there are some patterns when it comes to risk-seeking behavior. When people perceive that they are even, or starting from scratch, they are more likely to be risk-averse; but when people think that they are threatened to lose what they already have, and need to protect their winnings, they're more likely to be risk-prone&mdash;they would rather risk a loss than definitely diminish their winnings.
-
-Of course, you know by now that the relationship between risk-aversion and risk-proneness is complex. It depends on the player in question, how tilted they are, whether they are at risk of wiping out their winnings or simply diminishing them, and so on. But the important point is that reference points play a big role in risk preference.
-
-Turn this back on yourself. When do you tend to be risk-averse? When do you tend to be risk-prone? Everybody has triggers to make them more likely to be one or the other. It is important to first understand which situations trigger a shift in your risk behaviors.
-
-It's likely that when you're down a lot, you tend to be more risk-prone, and when you're up you're more risk-averse. This is fairly common. This is because of attachment to specific reference points over the course of a session, like being &ldquo;even,&rdquo; or &ldquo;up [x] buyins.&rdquo; For example, if you're up 2 buyins and are put in the situation to make a large 3 buyin bluff that's giving you somewhat +EV odds, but will wipe out all of your winnings if called, most people will avoid making that bluff. They will be risk-averse. And yet, if they simply wait 6 hours and start a new session, they will likely be okay with making the bluff. They will become more risk-prone by simply including a 6 hour gap between these two hands.
-
-Notice, then, how &ldquo;the current session total&rdquo; functions as an implicit reference point. But as I've said before, where we draw the lines starting and ending what is our current session is arbitrary. Some people are really attached to only single sessions, and some are attached to an entire day's session. What this really means is that one player is picking a new reference point with every session, and the other type of player is keeping the same reference point from his session earlier in the day&mdash;he won't want to wipe out his winnings from earlier in the day. Let's give a name to these units of time after which we choose new reference points: we will call them **periods**.
-
-So how can we manipulate reference points and periods to our advantage?
-
-We've already seen that the periods after which we choose new reference points are arbitrary. There is no intrinsic reason why we should choose any specific period over any other. But we don't *arrive* at our specific period arbitrarily&mdash;it arises out of our mental conditioning. Programs like PokerTracker and HoldemManager, daily graphs, Excel sheets, and the simple phenomenon of telling somebody else how much we're up or down on the day&mdash;all of these help to reinforce the idea of the *day* as being the natural period, and thus suggesting we adopt daily reference points.
-
-But is this advantageous?
-
-Theoretically, there should be an optimal level of risk proneness for each of us, dependent on our bankrolls, our emotional stability, and the types of games we're playing in. But if our level of risk proneness or risk aversion causes us to make suboptimal plays, then clearly it's detrimental, and we should try to change it. If you think about it, having reference points tied to your *daily* session is going to very often cause fluctuations in your level of risk-proneness (since your reference point will continually change) and therefore it will create deviations from the optimal amount, not to mention the emotional swings that it will put you through.
-
-So, instead, let's try to untangle our local self-narratives from our *daily* winnings. Let's stop thinking about how we do on any given day as &ldquo;what we're going through.&rdquo; Try setting your PokerTracker or HoldemManager to show you your weekly results by default, or your monthly results, or your lifetime results even. Imagine what would happen if you broke the paradigm of daily results as how you experience poker.
-
-Again, a new narrative can be imposed over an old one by repeatedly being told in its stead&mdash;so tell yourself this story, again and again: how I do today doesn't matter. There's nothing special about today. It's all one long session! If I end up down on the day, or up on the day, that doesn't matter&mdash;what matters is whether my overall bankroll is on its way up or down. It's all the same thing. It's all one long session.
-
-Another example of the influence of reference points is in quitting behaviors. There was a telling experiment done on this phenomenon with New York taxicab drivers. In this experiment, they surveyed how many hours the cab drivers worked during busy days, and how many they worked on slow days. Of course, a cab driver's hourly rate is going to increase substantially on busy days, so it would seem to make sense that they should concentrate their hours on busy days, and slacken on slow days. But this is the exact opposite of what was observed.
-
-What they would do instead is work *fewer* hours on busy days, and *more* hours on slow days. Why?
-
-It all has to do with reference points. For the taxi drivers, the average amount of money they made in any given day was their internal reference point. So unconsciously, they were aiming to get *about the same amount of money everyday*. On busy days, they made a lot of money quickly and took the rest of the day off, and on slow days they worked long hours to try to ensure their usual paycheck. Their reference points were causing them to pursue very suboptimal behaviors, in order to satisfy their reference points.
-
-In poker, you can observe the very same phenomenon. People love to quit when they're up past a certain threshold, which feels like a &ldquo;good win,&rdquo; and they hate quitting when they're down&mdash;some will keep playing indefinitely, until they're forced to stop. This is the same reason why. Unconsciously, we are actually aiming to win about the same money everyday, and to play about the same amount everyday&mdash;when clearly that is not the optimal strategy.
-
-The optimal strategy would be to play as long as we can on the days where we're winning (not only because we will be on our A game and especially confident, but also because if we're winning, we're likely playing bad players, tilted opponents, etc.), and then to quit early on days where we're losing.
-
-Consider your own mental life. What are your quitting patterns? What amount of winnings feels like &ldquo;a good enough win&rdquo; for you, that you're comfortable quitting on it early? How much of a loss is so small that it doesn't really feel like a loss, and you can quit essentially even?
-
-We have a constellation of these internal reference points&mdash;but ideally, we would want to do away with them altogether, and to act purely disinterestedly in our daily continuity. Our second-order desire is to optimize our winnings in the long run, which means to keep playing through upswings, and to quit early when we're taking a beating.
-
-Again, the mantra is the same&mdash;it's all one long session. If you're having a losing session, or a winning session, it doesn't matter, because it's all just the tiny little tail end of your lifetime graph. If you can see it that way, and choose *only* to make choices to continue to play based on the quality of your games, then you will optimize your playing behavior.
-
-The direct consequence of this perspective is that playing marathon sessions to get even makes no sense anymore. What do you mean &ldquo;get even?&rdquo; If you're down 10 buyins in one night, what's so special about trying to win another 10 buyins tonight? Why not try to win them back tomorrow? Or tomorrow and the day after? The next 10,000 hands will be dealt to you with the same EV regardless of when you pick them up, so what's so special about this night? Except, of course, that tonight you will be playing worse&mdash;implying that the logical answer is to get some sleep, and play again the next day, and the next.
-
-Another powerful mental frame that is a corollary this is the one of **winning your hourly**. The idea of winning your hourly is simply that you *know* that you have a certain average hourly rate&mdash;perhaps you calculate it to be $100/hr, and let's say you're down $1,800 on the night. Well, if you want to play a marathon session to get even, according to this perspective you would say to yourself&mdash;well, why? If I play for another hour, I'm only making $100 on average (plus, I'm tilted and tired, so it's probably less than that). It's going to take me 18 hours on average to win this money back. Is that really worth it? The answer is usually&mdash;probably not.
-
-Inevitably, one of the difficulties with shifting your perspective on these reference points is that it's impossible not to, on some level, know how you're doing during any given session. Even if you shut off your tracking program and don't look at your bankroll&mdash;you're always going to have a good idea of how much you're up or down, if you're even minimally observant. So how can you resist not wanting to finish up or down, if you can't shield yourself from this?
-
-Well, this is the raw challenge. There are no special tricks or shortcuts&mdash;one simply has to force oneself to frame reality differently. Once you accept that frames are powerful and vitally important to performance, then you cannot brush aside your responsibility over them, along with the difficulty of controlling them.
-
-It is up to you to master yourself, and to strategically alter these perceptions.
-
-#### VII
-
-&ldquo;Ego&rdquo; can be a dirty word when it comes to poker. It's obvious that ego drives many poker players, but many people have the underlying feeling that to be driven by ego is somewhat juvenile, or even base.
-
-The truth is, many of the greatest men and women of history were driven by ego&mdash;not exclusively, of course, but the desire for greatness and self-creation is one of the oldest and most powerful drives in human history. Poker players are no exception to this. Money is not nearly as motivating, as aggravating, or as profoundly exciting as the process of self-creation. Ego is important, and we would be remiss if we did not consider its role in the mental life of a poker player.
-
-Now, my intention is not to proselytize on behalf of the ego, or to say that it is &ldquo;good&rdquo; to be egotistical. My point is merely that ego drives an *enormous* amount of the work and energy that great players pour into honing their games. We should acknowledge the existence and power of ego&mdash;but we should also try to curb it, and indeed, to harness it when we can.
-
-Almost all of the great players I have ever met were driven more by their egos than by money, at least initially. For a long time, I have wondered why that is. When I was coming up in the poker world, playing low stakes, I ran across many people whose only goal was to make a lot of money, to become ballers, to afford an expensive lifestyle, and all the rest. But few of these people ever seemed to make it. Why is that? What is it about ego as a principle that makes it a sustainable motivator?
-
-I suspect that it's because, in reality, poker is not an easy way to make money. This sounds counterintuitive, because chances are, if you're reading this, you're fully sold on the notion that poker is a great way to make money, and you may have even made a decent bit yourself. But in reality, most people don't make money in poker in the long term. Not only that, but most people end up busting their entire bankroll once, twice, or more before they end up becoming successful. Poker is not easy. And if money is the only thing motivating you, there are numerous points along the average poker career at which point poker will simply not seem like the best option to take when it comes to financial success&mdash;for most people, it will make more sense to invest oneself in school, or work, or other endeavors to try to make money.
-
-But maybe it's even more than that. Why is it, after all, that we don't see great poker players emerging out of poverty? Why don't they come out of the slums of China, or India? Why isn't it that out of the billions of people who truly would *need* the money, who are most hungry for the money, among whom many must be intelligent, hard-working, steadfast, it simply doesn't seem to happen? Well, you could argue that this is partly because online poker culture hasn't disseminated into those areas&mdash;but you observe the same thing even in the first world. Online poker players seem to be largely post-adolescents with no dependents, and they don't emerge out of the lower class.
-
-There's something about ego that makes it a more powerful driving force than money or success. I cannot claim to know why that is, but it seems to be true. We'll talk about this notion in more detail when we discuss the life of a poker player.
-
-So maybe you think you are primarily driven by your ego, maybe you think you are not. But ego plays a role in every poker player's life, and no matter how equanimous or &ldquo;Zen&rdquo; you consider yourself to be, ego affects you as it does the rest of us, at least on some level.
-
-When we talk about **ego** in the context of poker, what we're referring to is essentially the sense of ourselves as being better than others. We inherently want to be better than other poker players. And when that sense of superiority is challenged, some people react more strongly than others, either emotionally or behaviorally. We would describe these people as having bigger egos.
-
-In psychology, there is an idea known as **horizontal** vs. **vertical** skill improvement&mdash;the idea being that if you think of skill horizontally, you think about how you're improving your skill relative to other people in your field, whereas if you think of improvement vertically, you think about how you're improving relative to where you were yesterday, or last month (generally, it's said that men think of skills more horizontally and women think more vertically). In a game like track and field, one is free to think of one's skill development vertically, if one so chooses. You can simply measure your own personal best times, over and over. But in poker, I would argue that you cannot&mdash;your success and the value of your skill is contingent on your opponents. Somebody who's successful in one situation against certain opponents may not be successful against other opponents, and the same level of skill may mean a lot less 6 months down the road. Poker is a more complex and chaotic system in that respect.
-
-So to some extent, thinking of our skill horizontally is inescapable, because it's tied to the structure of poker. It's starting to sound like ego is inherent to poker, then. We've also noted that it is an extremely strong and sustainable motivator. So what's the downside of ego?
-
-The downside, of course, comes when one's ego gets assaulted&mdash;primarily by losing. If a poker player has an extremely strong attachment to his ego, he may react violently or aggressively against the possibility of being worse than he thinks he is. He may tilt, have an outburst of anger, or make other unwise decisions when his sense of himself as being better than his opponent has been penetrated.
-
-Not only that, but ego can have the effect of clouding one's accurate self-evaluation. If you have an unchecked ego, you may think you are better than you really are, which causes you to play in bad matches, not to recognize your own weaknesses, not to quit matches when you're losing because you're unwilling to admit it, and thus spew off money in the long run.
-
-So there's a dark side to ego as well. But my argument here is that ego cannot be done away with. It is too important to the journey of playing poker for us to squelch our egos entirely. Ego, at its best, is a powerful force, though it can become harmful when unregulated.
-
-Let us not try to throw it out, then&mdash;but let us temper it. I have always believed that self-awareness is the single most important skill for a poker player to have, and ego plays a big role in that. To be self-aware in this sense is to accurately be able to look at yourself and say, &ldquo;This is where I am. This is what I'm bad at. This is what I'm good at. This is who beats me. And I could be wrong about this, too.&rdquo;
-
-When you're playing a match, the most valuable mental skill one can have is the mental belief that &ldquo;this guy might be beating me.&rdquo; No matter how bad he is, or how much you think that he fundamentally misunderstands some important concept, or how badly he played this hand or that, you must ALWAYS be willing to accept that it's possible that in this match, right now, right here, you have a negative winrate.
-
-Notice how I speak of winrates, and &ldquo;beating,&rdquo; rather than &ldquo;being better than.&rdquo; It is unfruitful most of the time to talk about &ldquo;being better than,&rdquo; except in cases of drastic differences in skill, because poker skill is non-linear. You might have a positive winrate against 3-4 strong regulars at your stakes, but lose to the worst regular&mdash;simply because something about him throws you off, and you're just not adjusting correctly. Don't think about skill as being linear: not only because it's not, but also because it creates unnecessary assaults on your sense of self.
-
-Rather than trying to dissolve your ego, subvert it. If you are losing against someone, it's not necessarily because &ldquo;you are bad.&rdquo; It's simply that your style has a negative winrate against that particular person's style, and so you need to do your homework and figure it out. But the fact that his style beats yours needn't be integrated into your ego. It's not a fact about &ldquo;you.&rdquo; It simply is.
-
-One must always be able to acknowledge the possibility that one has a negative winrate at any given time, and to be able to quit a match with grace. And you may even say to yourself afterward, &ldquo;I don't know if I was losing or not&rdquo;&mdash;that's fine. But when you walk away from that game, your ego that is going to be burning, driving you to improve, to figure out what you did wrong, and to amend your mistakes&mdash;so that when you return to that person's table, you will be ready to rise above him.
-
-I concede, the idea persists, even for me, that ego is somehow bad thing. Sure, maybe everybody needs a certain amount of ego when coming up in the game&mdash;perhaps without it, nobody would be motivated to get over the initial plateaus of becoming a serious poker player. But once you get there, once you start climbing the mountain, what use is ego? Maybe *then* it should be extinguished.
-
-Don't get me wrong&mdash;I am no Randian in this matter. I don't believe that ego is the be-all-end-all, or that selfishness is the highest value men can pursue. But there are two senses of ego that we're operating with here. One is ego as a motivation, as a driving factor; the second is ego as a personality trait&mdash;as narcissism, and self-centeredness. Clearly, the latter is undesirable, and the two are probably correlated. But they are not the same. Ultimately, I do not believe that the desire for greatness, indeed, the desire for self-actualization, can be divorced from ego.
-
-So, yes, let us try to be good to people. Let us be honest, let us be genuine, let us care for others around us. But this does not mean we extinguish our ego&mdash;instead, we partake in a different kind of ego. A selfless ego.
-
-To become a great poker player requires inspiration. You must push yourself through darker depths, and into greater choruses of concentration than ordinary people put into just about anything. It is not about money. No poker player becomes great because of money. It is about *you*, it is about creating yourself&mdash;and at the same time, it has nothing to do with you, it is only poker, it is only the climb, only the mountain. Selfish, and selfless at the same time.
-
-So take ego seriously. Be ready to lose to many people, over and over, throughout your career. No matter how successful you've been, and no matter how bad you want it, no matter how smart or precocious you are, you are going to lose to people, and that's fine. But I would say to you&mdash;hunger nevertheless. Hunger to be better. Hunger to be the best. Let that boiling desire bubble up in your belly. It is good for you. It is the spring from which you draw your energy. And it will guide you to grow and evolve into the kind of poker player you want to be.
-
-#### VIII
-
-Poker, at its highest level, is an art form. Of course, the traditional notion of art is restricted to things such as painting, music, and the like. Yet, you will occasionally hear people speak of a beautiful baseball swing, or a sublime mathematical proof. In poker, we also speak of beauty, though we sometimes use different words for it&mdash;&ldquo;sick play,&rdquo; &ldquo;a soulread,&rdquo; and so on. What we apprehend as beauty in poker, I would argue, is the masterful demonstration of creativity.
-
-Where does creativity in poker come from? What role does creativity play? And how can we try to be more creative?
-
-In a sense, it's natural to be creative. Think about it. When you first began playing poker, just about everything you did was creative. You experimented, you made plays you'd never made before, and you were unafraid. It is only over time, as you learned what you shouldn't do, that your creativity began to be stifled. By the time you become a fully capable and disciplined poker player, you are no longer even aware of just how restricted you are by your conditioning&mdash;at that point, you can no longer even see all of the available possibilities. When you are dealt AA preflop, you don't see limping as a possibility&mdash;it has been culled completely from your perception.
-
-Imagine that poker is a wide open field. Your &ldquo;game&rdquo; is a set of trails etched on top of this open field, which restricts the space available to you. Imagine them restricted by walls, keeping you inside of their bounds. Instead of simply being able to roam freely, you now only move inside the space you've delineated. This is for good reason! You put up these walls to protect yourself from unsafe, –EV plays. The structures become your own self-imposed map, insulating you from the dangers of losing money.
-
-But once you reach a basic level of proficiency, you realize the structure you've built is not perfect. Hypothetically, there is some better shape that your trails can take (the shape of a perfect poker game), but your structure doesn't capture that shape&mdash;you suspect it extends out too short in most places, and perhaps too far in a few (it is easy to see when you are overstepping the bounds of safety, but hard to know when you're understepping).
-
-Creativity arises naturally from the simple process of trial and error, of making plays and learning from their results. And while you are in the process of creating the structure of your game&mdash;when you are deciding where to draw your boundaries, it is natural and easy to be creative, to test your limits, and to take risks. That is, in a sense, the easy part.
-
-It is after those parts of your game have hardened&mdash;when the cement has been laid so long ago that it is now solid and immovable, that creativity becomes a real challenge. If you perceive limping AA as an unacceptable choice, if you have walled it away, how are you ever going to find out if limping AA is, in fact, the best play?
-
-You might wonder why I'd use such an obtuse example&mdash;&ldquo;of course limping AA is never the best play,&rdquo; you might say. Ah, but that is precisely the way that errors are perpetuated! You and I both know that open limping AA is never good in a cash game. It is a wall that you and I have both built, and that wall happens to align perfectly with the shape of +EV play. However, *you don't know* which of your walls is misaligned with +EV play&mdash;it could be a wall that seems just as obvious as the one that dictates you should never limp AA. Since it is a solidified part of your game, it is something that you pass over in silence; it is a tacit assumption, an unasked question.
-
-When you have overstepped your bounds, it is usually obvious. When you are making bluffs that don't work, or plays that get easily countered, you immediately receive negative feedback, and so you know where you are leaking EV. It is hard not to be aware of such problem spots in your game. But generally, far greater than the spots in which you're hemorrhaging EV are the spots in which you're unaware of the EV that you *could* capture. You don't receive any negative mental reinforcement for missing out on EV you didn't even know existed; the only effect of understepping your bounds is a smaller winrate (than it could otherwise be).
-
-In a very important sense, you *can't know* where you're understepping your bounds. This is the state of nature for a poker player. You are missing value, and you don't know where.
-
-To be creative, then, is to go exploring for that value. And the only way to explore new spaces for value is by *pushing past your mental walls.*
-
-So how does this manifest in reality? What does it mean to &ldquo;push past a mental wall&rdquo;? The transgression of a mental wall manifests in your game as fear. It is the feeling that something isn't right; it is discomfort. It is the same thing that stops you from overbetting the pot by 2 buyins if I instructed you to do it. It's not that you'd think to yourself &ldquo;this is –EV,&rdquo; although maybe you'd be able to convince yourself of that if you thought about it&mdash;but viscerally, the moment you moved the slider all the way to the right and considered clicking, before you ever did any mental math or digested the theory, your *body* would recoil. It is this physical, psychic wince that I want to focus on.
-
-I call it **the pang**. The pang is what happens when a potential play scares you. It's the stone that drops in your gut. It doesn't matter what you label this feeling&mdash;fear, discomfort, whatever. If you have played poker, you know what I'm talking about.
-
-Of course, the pang is tremendously useful. It is what prevents you from making plays you know to be bad! Without the pang, you'd probably go off and do every stupid play that ever occurred to you out of boredom, or curiosity. Using the conscious/unconscious framework we discussed before, the pang is basically the unconscious mind's method of regulating your play. Where the conscious mind disagrees with you, you will feel stupid&mdash;where your unconscious mind disagrees with you, you will feel the pang.
-
-If the pang is what happens when you traverse a mental wall, then to be creative in poker is to push past the pang. To overstep your bounds, you must *accept* that the pang will come. The pang is merely a signal that your unconscious mind thinks you're making a mistake&mdash;that is, it is the signal that your internal mental walls forbid you from making such a play.
-
-But *you* know that your internal mental walls are imperfect. Thus, if you want to move toward a perfect game, you must acquaint yourself with the pang. The pang is the mark of creativity. If you are making a genuinely creative play&mdash;if you are doing something you've never done before, a call you've never considered, or a raise that your unconscious mind has trained you against&mdash;the pang is the signal that you have come up against a mental wall.
-
-You must *want* to feel the pang, then. The fear, the pain, the discomfort&mdash;it's the only way to know you're making progress. You must flirt up against it. You must slam your shoulder into it. And finally, when you are ready, you must step with security over the collapsed walls, and erect new ones. This is the way that poker evolves. There have always been rules that seemed ironclad&mdash;the way to play preflop, rules of betsizing and hand selection&mdash;one by one, all of those walls were torn down and rebuilt, always a little stronger, always a little farther out.
-
-This is how poker and its players evolve. Just a little farther out each time. Taking one more step. Feeling one more pang.
-
-#### IX
-
-You probably have some notion of &ldquo;style&rdquo; in poker. It's the notion that stuff that works for one person's game may not work for another's. Consider some of the plays that other people do, which you don't. It's likely you attribute the absence of these plays to your &ldquo;style.&rdquo;
-
-I'm here to tell you&mdash;style is a myth.
-
-&ldquo;Style&rdquo; is a justification people use for not incorporating new plays into their repertoires. A poker player might say, &ldquo;oh, that's not my style. Maybe it works for him, but not for me.&rdquo; I won't deny that different game structures will require different plays&mdash;that's absolutely true. However, what I am challenging here is your *a priori* ability to differentiate them *without trying them out.*
-
- What would happen if you flatted AA to 3-bets instead of 4-betted it? What would happen if you started minraising everything preflop? Or limping everything? What would happen if you started overbetting every value hand 1.5x on the river? What would happen if you started min-4-betting your opponent's 3-bets?
-
-If you don't know&mdash;then accept that you don't know. *Try it!* Experiment! Style is nothing. Experimentation is everything.
-
-Ram your shoulder against your mental walls! This is the essence of creativity in poker. The greatest poker players I have ever known are the players who are unafraid of taking stupid risks. They are the ones who are suspicious of every wall they have built, until they have proven its sturdiness with their own shoulders. They are ceaselessly curious and transgressive.
-
-Yes, they make stupid plays&mdash;and often! But through constant reinvention and innovation, they learn what works, and they don't take anything for granted that hasn't been proven through their own experience. They are not impressed with poker dogma. They don't care that &ldquo;they were supposed to go broke there,&rdquo; or &ldquo;that hand was supposed to be uncallable.&rdquo; The greatest players are the ones who make uncallable calls, and unfoldable folds&mdash;*not because they know they are right, but because they want to know.*
-
-And, yes! To be such a player, you must sacrifice some EV. You must accept that sometimes you will make terrible plays, you will lose huge pots. You will be unsafe. You will move into the landscape of fear and uncertainty. But it is by pushing through that fear, by groping into that darkness that you will understand how poker truly works. It is through creativity, and through taking risks that one can truly reach out and, for a moment, graze against the raw surface of the structure of poker.
-
-#### X
-
-While most poker players commit the mistake of understepping their bounds, there are a few who consistently overstep them (and we are all guilty of it occasionally). This is known as **FPS**, or **fancy play syndrome**. As the name suggests, it is the error of trying to make a complex or fancy play where the simple and obvious one would be superior. As far as being a *consistent* error, FPS is relatively rare.
-
-So what can we say about FPS?
-
-Despite the widespread use of this term, I think the name &ldquo;fancy play syndrome&rdquo; is a bit deceptive, because it seems to suggest that being FPS-y is being &ldquo;excessively creative.&rdquo; In fact, generally I would contend an FPS-y player has a shortage of creativity.
-
-If you are making a play dubbed as FPS-y, what it really means is that you are attributing to your opponent some kind of thought process that is incongruent with reality. The most common example of this is the suicide bluff&mdash;a spot where your opponent puts a huge part of his stack into the pot with a clearly strong hand, and by going back over the top you try to make him fold it, despite giving him good odds on the call, because you think he'll put you on the absolute nuts.
-
-  Now, here's the problem I have with calling this &ldquo;creative&rdquo;: chances are, if somebody is doing a lot of suicide bluffs (and hence is termed an FPSy player), really, he's not actually doing anything genuinely *inventive*. He simply has an overall tendency to misattribute other people's ability to fold huge hands, and that tendency is probably paired with an emotional over-attachment to investment. He's not making lots of different experimental plays&mdash;he's simply making the same speculative play over and over again, hoping eventually it will work, or that he'll stumble upon the perfect situation for it.
-
-Creativity, on the other hand, is *trying out new stuff*. Of course, it takes a certain amount of introspection to realize when what you think is your creativity is really just you justifying a bad play that you often make&mdash;but this is part of the challenge.
-
-If you are considered to be an FPS-y player, then I would say the most important two mental frames to keep in mind are &ldquo;people usually have it,&rdquo; and &ldquo;people don't fold when they have it.&rdquo; If you keep repeating these two phrases to yourself, you will relax a lot of your excessive and misguided aggression.
-
-But if you are called an FPS-y player because you are genuinely creative, then I would say&mdash;keep on. Don't let the label deter you. As long as you are *learning* from your experiments, and consistently trying new and challenging things, then wherever you are in your poker career, you are going to evolve. Of course, chances are good that getting a good coach to help temper your experimentation would be a good idea. But if you choose to go it without a coach&mdash;simply do your best to learn as much as possible from your experimentation, and not to let failed attempts go to waste.
-
-#### XI
-
-If, in the midst of small-talk, you ever tell a stranger that you're a professional poker player, you'll probably experience a familiar routine. Someone might talk to you about their friend's sister's ex-tennis coach who plays poker, or that-one-time-they-were-in-Vegas; they might ask you if you've ever been on TV, what your parents think about your career, or if you are really good at math. But the one that always arrests me is when people say, &ldquo;oh, you must have a really good poker face.&rdquo;
-
-The &ldquo;**poker face**&rdquo; trope is so widely recognizable in our culture that it has become practically wedded to the game. If you know what poker is, you know what a poker face is. But the poker face represents more than what is commanded in poker. What we call a poker face would be familiar to the Roman stoic philosophers, to Zen samurais, to warriors and mystics and gamblers and thieves throughout all of human history.
-
-The poker face is the mask of emotionlessness, worn over one's normal face. The poker face is to give away nothing of the trembling emotion that lies behind it. And perhaps eventually, like all masks, it will fuse to the face underneath&mdash;perhaps if you stop showing your emotions, you will stop feeling them as well. This is the mystique of the poker face.
-
-The poker face is an inimitable human symbol. It represents rising above our animal selves. The poker face floats somewhere far above the game, detached from the fear, the anger, and the elation that the rest of us mortals seem to feel. It is part of the reason why &ldquo;poker player&rdquo; is such a fascinating, almost superhuman vocation to so many.
-
-So when people ask me, &ldquo;how can I have a better poker face?&rdquo; I feel like I should have an answer. But what can I say to that?
-
-The truth is, there is no way to have a better poker face&mdash;or, that is, no special way. Sure, mental frames help, and there are many little tips and tricks that one can use to mediate tilt and emotional potency and so on. Sure, you can practice in a mirror, visualize stuff, whatever. And yes, you should close your mouth, relax your muscles, stare straight ahead, breathe consciously, and all the rest. But really, these are small things. If you are somebody who has a lot of emotional weaknesses, then these morsels of advice aren't going to transform you any time soon.
-
-Emotions are the jagged cliff-face of your mind, formed by years and years of erosion by the world. Some players, before they come to poker, have smoothed out their emotional edges, and have good poker faces, whereas others are still jagged and coarse, and seem to show everything. This is simply part of the genetic and environmental lottery. You have no say in it.
-
-But once you have come to poker, the only way to smooth the texture of your mind is by the force of nature. The wind, the water, the passage of time, the thousands of hands beating slowly against you will sand down your emotions. That's it. So, yes, be conscious, be self-aware&mdash;learn how to mentally frame, co-opt environments, and other various techniques to try to ameliorate the effects of tilt and control your countenance&mdash;but, in the end, all you can do is wait. Keep playing, keep feeling, and keep hurting. If you stay here long enough, eventually your features, too, will get sanded away. It just takes time. Be patient.
-
-But how can I teach you to be patient?
-
-In the end, this is the only virtue that is fully in your domain. Be calm, let be what will be; but keep coming back. If you are emotionally weak, that's okay. Be emotionally weak, but keep playing. Keep trying, keep messing up. If you return again tomorrow, and again the next day, then this too shall pass.
-
-You who feels he has no control, you who feels he is hopeless&mdash;I speak to you! You have no control whether you will tilt. You may be helpless as to whether you laugh, or curse, or storm away in dejection. But what you do control is whether you come back, and try it again.
-
-Wait it out, my friend. Keep coming back. Because we were all once where you now are.
-
-#### XII
-
-So we've made a pretty thorough examination of emotion, tilt, creativity and fear&mdash;but we haven't yet looked at the actual experience of playing poker. Let's lift up the hood during a real session and think about what we really experience, and how to regulate ourselves while we are playing poker. Here I will offer some practical and straightforward advice.
-
-A session begins before you ever sit down to play. Before you play your first hand or load up a table, you have already tacitly agreed to two things: that you will play at the time of day you are playing at, and that you will play with the mental state you are in. Those two factors have significant bearing on your expected EV over a session (and you should experiment with each, to see at what time/mental state you tend to play best).
-
-The other aspect of beginning a session is the schedule that you have in place. Consider what activity you have just engaged in before beginning your session. Exercising, eating, stretching, meditation&mdash;these all tend to be very positively correlated with a good state of mind and brain chemistry, and are likely to be good times to start playing poker. Consider your daily routine, and how you can optimize it so that your poker sessions are optimally timed (and are followed up by similarly de-stressing activities to cool you down afterward).
-
-Next, consider pre-session rituals. These are things you do immediately before a session begins, to get yourself into the right state of mind. They can include light stretching, breathing exercises, visualization, hand review, repeating a mantra to yourself, reviewing your goals, and similar things. It is not especially important that you do all or any of these things in particular, but I would advise experimenting with each to see what you find particularly effective, and to implement at least one. If you continually use these pre-session rituals before you play, a state of concentration will become a conditioned response (à la classical conditioning), so that even when you are naturally in a distracted state of mind, this ritual will nudge you toward concentration (like Pavlov's bell nudged his dogs toward salivating).
-
-Now, let's look at the middle of the session.
-
-Generally speaking, most of your sessions will begin near or on your A game. Being on your A game means a few things: one, that you're highly conscious and actively using your conscious mind; two, that you're fairly resilient to tilt, and are staying on your normal game; three, that you're capable of quitting when the time is right. The latter two are linked to the first, so let's examine this in detail.
-
-First, what do I mean that we're using our conscious mind? Recall the distinction between the conscious and unconscious mind that we talked about before. Conscious thought processes are discursive, mediated through language, and tend to be slow. They are also somewhat synonymous with poker-theory analysis.
-
-However, it is a fallacy to think that when you are playing well and are on your A game, that you are *only* using your conscious mind. Even when you are playing your best, you are *always* employing your unconscious mind on the majority of plays; your conscious mind is simply too slow and laborious to actually compute all of the hands you get dealt (and to be honest, you would probably find that process excruciatingly boring&mdash;imagine having to explain every c-bet or every preflop raise to someone). When your conscious mind is sharp and fully accountable, it is generally doing three things: one, it is processing in the background things like gameflow, reads, and opponent psychology; two, it is &ldquo;on call,&rdquo; in case a hand that needs analysis pops up; three, it is keeping tabs on your own mental state, and how the match is going. There are a few little odds and ends that your conscious mind might attend to, but these are the main things. When you are playing your A game, your conscious mind is maintaining this juggling act with finesse.
-
-But what happens when we're playing our B game, or C game? The conscious mind doesn't simply get thrown out at this stage. It's still there; it's simply more tired, less sharp, and is doing less work&mdash;it might slow the juggling down to only three balls, rather than four. Perhaps it doesn't pay as consistent attention to gameflow and psychological profiles; perhaps it stops checking up on your mental state and lets you play a longer session because you're down; or, perhaps the threshold for hands that it's willing to analyze has gone higher. Of course, it's not as though it *won't* analyze any hands&mdash;when your unconscious mind doesn't know how to deal with something, it's going to hand it off to your conscious mind no matter what, but *slightly* or *somewhat* strange hands won't get double-checked as often, and you're more likely to simply use your unconscious mind's intuitive answer to a hand.
-
-And what happens when our game degrades to our D game? At this point, our conscious mind has probably checked out&mdash;it's no longer checking up on our mental states, it's not trying to model our opponents, and it's certainly not trying to double-check our hands. Occasionally when we try to feed it a hand that needs solving, which is such a big or strange pot that we can't figure it out, it will offer us an answer&mdash;but chances are, that answer is going to be biased, since our unconscious motivations will bleed over into our discursive thinking: motivations such as wanting to get even, or wanting to avoid risk, or not wanting to be embarrassed. It is no longer easy to quit at this stage. Usually, it is only when our unconscious mind wants to quit that we will be able to, often when we feel so bad that we don't want to play any longer, or when we have given up hope of getting even.
-
-Notice how there is a continuum here. In poker, we often speak of &ldquo;going on **autopilot**,&rdquo; but there is no single autopilot point, or on-off switch. The sharpness of your conscious mind will wax and wane over a session, and this process tends to be gradual.  So instead of speaking in binary terms like &ldquo;on your game&rdquo; vs. &ldquo;autopilot,&rdquo; we should instead consider this a process of **conscious decay**; the natural deterioration over a session of your conscious acuity.
-
-As I mentioned before, your conscious mind is also a defense against tilt. But you probably know by now that most people are notoriously bad at detecting when they're on tilt. You can call it a cognitive bias (though I don't know of one specifically stated as such): most people tend to think that they're more immune to tilt than they really are. This includes you and me, no matter how smart or special we think we are. Being on your A game will help tilt-inducing phenomena to affect you less, but it does little to help you *recognize* once you've reached your tilt threshold&mdash;it's a bit of a catch-22, since hitting your tilt threshold is going to make your unconscious mind overpower your conscious mind anyway, preventing you from objectively realizing it. In other words, the point at which our *conscious mind* will conclude we are on tilt is usually a while after we've already reached it.
-
-That doesn't seem to bode well for us. How can we improve our likelihood of recognizing and avoiding tilt?
-
-First of all, there is a mental frame that comes in handy: if you are a habitual tilter, it is helpful to note to yourself before a session begins, &ldquo;I might tilt today, and one of my challenges is to stop myself before I tilt; if today is one of the days I will tilt, then if I quit before that, I will have accomplished one of my goals.&rdquo;
-
-If you think about it, when you're tilting and your unconscious mind doesn't want to quit, your unconscious mind has two choices: quitting and feeling bad about your loss, or continuing to play and possibly feeling good by getting even. Again, let us not dismiss this behavior by calling it &ldquo;irrational,&rdquo; but instead let us assume that the behavior *is* rational, but simply responding to a different incentive structure than we'd like. By instituting the frame that *quitting before you tilt* is an inherently valuable goal that you can feel *good* about, you are adding more value to the payoff for quitting. You are creating the possibility that quitting *feels good*, which will make it more likely that your unconscious mind will naturally choose it.
-
-The second way to ameliorate tilt is to use the environmental method (which tends to be stronger). By this method, instead of hoping your conscious mind will catch your tilt, you attempt an external override: essentially, you force yourself to quit after being down a certain number of buyins, or after a certain kind of event (such as being soul-read, if that is a tilt trigger for you). By co-opting an external mechanism to determine when we quit, rather than our internal overseer, we avoid the inevitable lag before the conscious mind admits we're tilting&mdash;but, of course, we must be able to obey the external rules we create. Programs such as *Tiltbuster* go a long way in helping to enforce stop losses beyond our control. These mechanisms are good&mdash;but I would say they should be paired with the former. Although they are good at restraining us when it comes to tilting, they do not address the underlying emotional weakness, and there is a lot of value to be gained, not just in poker, but in life in general, by improving our emotional skills.
-
-To summarize, we have have seen that there are three domains of skill to cultivate in poker. We have already considered theory skills (conscious mind), play skills (unconscious mind), and in this section we have examined emotional skills (which draw upon both our conscious and unconscious mind). In the next chapter, we will go into more detail into how to best *cultivate* these skills&mdash;that is, we will explore the unexpected and complex processes of learning.
-
-[For further reading into tilt and emotional self-regulation, I strongly recommend Jared Tendler's *The Mental Game of Poker*, as well as Tommy Angelo's *Elements of Poker*, and Larry Philips' *Zen and the Art of Poker*, which have informed much of my thinking on tilt and its antidotes.]
-
-----
-
-Thanks for reading, and be sure to leave a comment if you have any questions or criticisms. :)
-
-<div class="note">Note: this is from the rough draft of my first book, <em>How to Be a Poker Player: The Philosophy of Poker</em>. If you like what you read, consider buying the <a href="https://www.amazon.com/dp/B00HFDJU6A">completed book</a>&mdash;it's tightly edited and contains new material! Hope you enjoyed. :)</div>
-
-
----2012-11-12-the-crime-and-the-scaffold.md
-title: The Crime and the Scaffold
-tags: [personal, poker]
-image: portugal-night.jpg
----
-
-The embryo of this post has been sitting on my desk for several weeks now. Originally, it was a frenzy of thoughts that I scribbled purely for myself, just to flush the words out. But after seeing it on my desk day after day, I finally decided to post it here. I apologize if this seems self-indulgent, but it seems to me the right thing to do.
-
-Several weeks ago I drove to Kaufman, Texas to volunteer on a 3-day Vipassana meditation course. The courses are run purely by volunteers, so I decided that I would pitch in my time, to pay back a bit of my due for the 10-day sitting I did in Europe.
-
-I spent most of the days washing dishes, cutting vegetables, and meditating for the few hours I had left in the day. It was tiring work. But on the second night, after retiring to my room, even though I was wasted from exhaustion, I couldn't sleep.
-
-<div class="ui embed" data-url="https://www.youtube.com/embed/G4hljPQshAU">[video]</div>
-
-I would toss and turn and occasionally slip into a dream, only to be jolted awake again an hour later. In my dreams, people kept dying, and it was always my fault, and I would awaken suddenly, tense with dread. I kept trying to force sleep, but my mind felt like it was getting heavier and heavier as the night dragged on, like a net filling with debris.
-
-It occurred to me that I had been having similar dreams for a long time now&mdash;ever since coming back from Europe. Dreams where I would hurt people, and then wake up terrified. And for some reason, in the silence and isolation of those nights, those dreams had come bubbling up to the surface of my mind, and I couldn't push them down.
-
-I slipped on my jacket and let myself out to take a walk, hoping it would settle my mind. I tried to shake the thoughts that troubled me, but in the dimness, they only became more and more visible. Finally, I returned to my room in agitation, got out a pen and paper, and began to write.
-
-![](http://lh6.googleusercontent.com/-P6pz2IOTovc/T3X70a4XO6I/AAAAAAAABOs/8PGPymnP8T8/s720/IMG_4605.JPG)
-
-As I wrote, I realized how deeply ashamed I was. I wrote and wrote, and watching myself writing, I realized that I was still thinking about Jose. I was still carrying that shame with me. Even now, more than a year later after the scandal&mdash;a year later! So much has passed since then. I am almost a different person. I am living a different life. I am not even a poker player anymore, I thought to myself. So why is this sense of shame still lodged so deep inside me? It seemed in that moment like a splinter that, picking and scratching, I could never get out.
-
-I thought to myself something that had never entered my mind before: don't you realize, Haseeb, that in the real world, people go to prison for doing what you did?
-
-The thought chilled me. It made me feel like it was a grievous mistake to be who I am, living out this life. It made me feel deeply alone. All this time, I had been trying to think of ways to ameliorate my sins, of ways to forgive myself. Telling myself that I had acted out of fear and stupidity, out of self-preservation and the desire to protect my friends. We are all full of our private sins, aren't we? And yes, this one exploded with terrible consequences, but was that really the measure by which I should be judged? I know I am not a bad person, I would hear myself say. I was young. I am changing. I am bettering myself.
-
-There, sitting in that bed in the near-dark, my legs crossed beneath me, it occurred to me that this is something that may follow me to the end of my life. That the decisions I made over those weeks are now public knowledge, things which just by knowing my name, anybody could find out. That when I am 25, 30, 40 years old, the events of those weeks will never go away. This is something that I will have to answer to forever.
-
-And why shouldn't people ask me? Why shouldn't I have to confront, again and again, the mistakes I made?
-
-![](https://lh4.googleusercontent.com/-vYS_5F8nu68/TrqLnA_NIZI/AAAAAAAABK8/-TuZiKyjsjM/s720/IMG_4156.JPG)
-
-After I returned home from Kaufman, I made a list of people who I felt I had wronged during the events of the Girah scandal. I wrote to each of them, to let them know that I was deeply sorry, and that I was ashamed for what I had done. I asked not for forgiveness, but that they know my regret for having acted as I did.
-
-But there was one thing that at the time I never acknowledged. And that was the poker community. It had always seemed like such an abstract and nebulous thing, &ldquo;the poker community.&rdquo; In the end, who had I really hurt? Out of everyone involved, I was the only one who hadn't actually directly cheated anyone. Who could anyone point to as having sustained injury?
-
-The poker community felt like a far away, amorphous thing. Besides, I was never somebody who felt like he belonged to the poker world. I was not a typical poker player. Even when I was playing poker, I always felt like I was hovering somewhere along the periphery of the culture, neither inside nor out, skirting the edge between citizen and observer.
-
-But recently, a student of mine told me something surprising after a mental coaching session. He told me that in the wake of Black Friday, the poker world has gotten much worse. Scams, thefts, angleshoots on bets, stolen stakes&mdash;all sorts of cheating have skyrocketed. New scandals seem to arise every week. It's as though everyone is getting desperate, he said. The age of abundance in poker is over, and the culture of honor is giving way to a culture of greed.
-
-These things all make sense&mdash;as money supply shrinks, markets move toward efficiency, incentives of altruism shrivel&mdash;these are all things that most people intuitively understand. In fact, it is something that many poker players were forecasting even when I was still playing. In that sense, it is no surprise that this is happening. Perhaps we are entering a dark age of online poker&mdash;an age approaching market efficiency, and the breakdown of a once noble culture of gambling. Perhaps this is all simply inevitable, in a march-of-history sort of way.
-
-![](http://i.telegraph.co.uk/multimedia/archive/02128/Cezanne_2128852b.jpg)
-
-But I can't help but think that the whole Girah scandal, as sensational as it was and as widely as it was covered, may have contributed. That my lies, which I have always wanted to see as small, self-interested deeds, may have in fact accelerated the dissolution of the poker culture I once admired, even if in a small way.
-
-I had never taken it seriously before. It always seemed too theoretical, too political of an accusation&mdash;that I had wronged the poker world. But now, seeing all this, feeling all this, I can't help but feel that in fact I did. That in the end, I spit on the world that fostered me. As much as I have loathed the poker world, both when I was within it and without, the truth is that I owe it a big part of my life. The truth is that I could not have become the person I am without its community. And so it seems to me that it I have to answer for that too. No doubt, it is a case of too-little-too-late. But nevertheless I had to make it known that I am deeply sorry for the harm that I caused to the poker world, however large or little it may have been.
-
-I can only hope that in time, with the rejuvenation of the poker economy, the poker culture can regain some of its former health. Good things are on the horizon, and the tides may even be turning now. It doesn't pay to be pessimistic. And though the poker world and I have never been on the best of terms, I have to say, when it was at its best, it was a goddamn beautiful thing.
-
-
----2012-12-20-seven-things-poker-taught-me.md
-title: Seven Things Poker Taught Me
-tags: [personal, poker]
-image: housecards_dud17a.jpg
----
-
-I don't tell people these days that I used to be a professional poker player. It seems like a weighty and cumbersome admission, one that always leads to the same tired conversation. The last time I played a hand of poker was well over a year ago. That life feels like an episode long behind me&mdash;an identity I've left behind.
-
-And yet sometimes, in my dreams, I find myself playing poker again, multitabling 25/50 and 50/100 heads up matches, battling the regulars. Sometimes I am sitting in the Aria cardroom, staring down a backwards-capped grinder, tracking the movements of his eyes. And whenever I wake up from these dreams, it always takes me a moment to remember that poker is no longer part of me&mdash;that my life is entirely different now. How long will it be until my mind lets go of poker? Will it ever?
-
-I had a conversation with a good friend of mine the other day, and he asked me: *so now that you're done playing poker, what do you think you took away from it?*
-
-Consider that.
-
-What a fucking question, right?
-
-I was a professional poker player for 5 years&mdash;from 16 till I was 21. How can I separate what I learned from poker from what I simply learned in the process of growing up?
-
-Poker taught me a great deal. Poker was a maddening mistress, and yet it was also one of the wisest teachers a human could ask for. So I came up with the seven most valuable lessons that five years in the fray of poker taught me.
-
-<div class="ui embed" data-url="https://www.youtube.com/embed/zqZm3Mmn-Co">[video]</div>
-
-### 1. Poker taught me not to trust my own perception.
-
-> Every man takes the limits of his own field of vision for the limits of the world.
-> <div class="source">Arthur Schopenhauer</div>
-
-Why do games run at all? In every game of poker, there are winners and losers. And for the most part, people only play in games that they think are profitable. So in almost every poker game, there must be a loser who doesn't know it. This used to puzzle me. How can so many people be deluded all at once? What's stopping them from realizing their own incompetence? And what makes me different from those people?
-
-Many will blame this on ego, but that falls short of capturing the more startling realization&mdash;*your own perceptions of whether you're winning or losing can never be fully trusted.*
-
-Perception is riddled with biases and illusions. Cognitive science, psychology, and neuroscience have demonstrated this again and again. The more we study it, the more we realize how fallible our perceptual apparatus truly is. I came to realize that I often saw what I wanted to see, that I involuntarily drew the same patterns over and over again&mdash;I realized that the fish isn't always a fish, that the obvious play isn't always so obvious, and how I can think I'm beating somebody who is, in fact, destroying me.
-
-Poker is an industry that runs on delusion, and even though I was a pro, I knew that I was subject to the same forces as everyone else. So I learned to distance myself from my intuition, to carry my instincts with suspicion, and to always remind myself that what I thought was a sure thing… often wasn't.
-
-### 2. Poker taught me how to control my emotions.
-
-> I am, indeed, a king, because I know how to rule myself.
-> <div class="source">Pietro Aretino</div>
-
-Poker taught me to control my emotions&mdash;or perhaps it's better to say that poker &ldquo;trained&rdquo; me to control my emotions. In that sense, it's not so much a lesson as it is a process one undergoes.
-
-![](snow_buzulq.jpg)
-
-This lesson, I think, needn't be a pessimistic one, because hidden within it is a simple, almost obvious truth&mdash;that life is not about the destination, but about the journey. There is no conclusion, no great prize at the end of anything. There is only the movement, the climbing, the rack and tumble of living. So why do we choose goals? Why do we have dreams? It is not for the goals themselves, or the endpoints we imagine&mdash;but it is, instead, to orient the *process* of our lives.
-
-This is a lesson that I am only coming to understand now. We are, by our nature, forward-looking creatures. But the most meaningful life is one lived in the present, without regard for its finality. Buddhists say that &ldquo;from the moment we are born, we are all racing toward death.&rdquo; And yet, they also say, &ldquo;he who abandons all hope rests content.&rdquo; Just as life is not about death, a path is about not about where it ends. Its value lies in the infinitely many points in between.
-
-
----2013-03-07-learning-how-to-learn-the-three-types-of-learning-and-the-three-fold-path-2.md
-title: Learning How to Learn: The Three Types of Learning and the Three-fold Path
-tags: [poker]
-image: Plato-and-socrates-590x433_pqi6lp.jpg
----
-
-What is learning? How does it work? How can we learn better?
-
-These questions might seem naïve on first glance. Learning is fundamental to how humans negotiate the world, and yet it feels strange and reductive to take it aside and interrogate it. But if you are a poker player, learning is an essential part of your vocation. To really improve at poker, it is imperative to optimize the process of learning.
-
-It is possible to learn how to learn. This article will consider the different types of learning involved in poker, the science of that learning, the three most important techniques to optimize the way you learn, and, finally, the common mistakes and pitfalls that face every learner.
-
-As a poker player, you have all sorts of resources readily available to learn from&mdash;videos, forums, books, and so on. Yet no amount of watching videos or reading forums will, on their own, make you good at playing poker. Why is this? Isn't poker, after all, a purely mental game? It's not like football or tennis; in poker, all you have to do is *know* what the right play is, and then do it. Yet why doesn't it feel that way?
-
-<div class="ui embed" data-url="https://www.youtube.com/embed/laasoy84YLY">[video]</div>
-
-## The Three Types of Learning
-
-No amount of study will make you good at poker. This is because there are fundamentally different modes of learning involved in playing and in watching a video or reading a forum, some of which we established in Chapter 5. To return to some of those concepts, the three types of learning are as follows. First, there's *poker theory* or *knowledge*&mdash;what we might call *propositional *learning. This is the kind of thing you generally absorb from watching a video&mdash;it is your ability to talk about poker, all of your ideas about exploitation, combinatorics, game theory and so on. Then there's another type of learning, your *know-how* or *performative* learning&mdash;in other words, the ability to play *un*consciously. This is your ability to click buttons for two hours, instantly to think of the right play in the moment&mdash;your raw poker intuition. Third, there's *emotional *learning&mdash;often called &ldquo;*the mental game*.&rdquo; This is your ability to take losses, to play consistently, to follow your own rules and monitor your mental states. Although all three of these kinds of learning are essential and mutually reinforcing, they are profoundly distinct. If you want to develop your poker know-how, it is unlikely that engaging in an activity that develops your theory or emotional skills will be much help (although they may still bolster your overall game).
-
-It is helpful to imagine each of these as essentially being composed of separate networks in our brains. While each of these networks contributes to the overall effect of playing good poker, these networks are *distinct; *each is strengthened and grown in a different way, by different stimuli, and are practiced differently. To draw an analogy, if you're a boxer, being good at your sport involves developing your stamina, your punching strength and your footwork, and so on. Although all of these skills together might be called &ldquo;boxing,&rdquo; all of these are distinct abilities, developed differently, and none of them individually could be called &ldquo;boxing.&rdquo; Yet they are each essential to the final boxer.
-
-So, as poker players, we have three distinct skillsets that we have to develop: our poker theory, our poker intuition, and our emotional skills. How do we develop each of these individual skills? What's the best way to learn them?
-
-In order to answer these questions, we will have to delve into a deeper understanding of the process of learning itself. This leads us to what I call the three-fold path&mdash;the three most important techniques that are essential to optimizing learning.
-
-## The Three-Fold Path of Learning
-
-### Risktaking
-
-In Chapter 4 we discussed how the brain is composed of neuronal networks&mdash;networks of neurons. The interconnections that form among these neurons are strengthened by repeated firing, and are inhibited by inactivity. Through this continual firing and non-firing, networks are gradually borne out. These networks are our mental building blocks&mdash;it is in the shaping of these networks that all of our knowledge and capabilities are ultimately stored.
-
-We can define learning as simply **any change to the connections in our neuronal networks**. Whenever a connection is strengthened or weakened&mdash;in any way at all&mdash;we will call that learning (barring changes caused by injury or malnutrition). You might protest that this seems overly inclusive. After all, sometimes your neuronal networks will be conditioned to make you play *worse*. If your brain convinces you that J4o is a lucky hand and you always win when you 4-bet it&mdash;that's a change to how your neurons interpret J4o, but do we really want to call that learning?
-
-Absolutely. It is imperative that we don't prejudge learning, or take learning only to mean productive learning. Learning involves a lot of trial and error (emphasis on *error*), so learning incorrect plays is an inevitable and important part of the learning process, especially early on in the development of your mental network. For every bad habit you learn, however, the goal is to simultaneously learn two good ones.
-
-Now, let's posit that there is some *ideal* neuronal structure, with a very specific shape. We can call this shape the &ldquo;optimal network.&rdquo; That network is essentially the brain of a perfect poker player&mdash;it is the structure of the perfect poker game. Your own network has its own shape, probably simpler than the optimal shape. If you superimposed your structure onto the optimal structure, like putting one transparency over another, you would be able to see all of the inconsistencies&mdash;all of the differences between your game and the perfect game would be apparent. You want to train your neuronal networks toward hammering out those inconsistencies.
-
-This training happens naturally. Because the optimal network is the shape that makes the most money in the long run, you will automatically evolve toward this network. That is, simply by a process akin to natural selection, your game will gravitate toward the shape of the optimal poker game, just by getting conditioned by the never-ending feedback of making winning and losing plays. However, it is unlikely ever to get there on its own (if it did, just everybody who has played millions of hands would be a great player, and of course that's not the case). Why does it get blocked in its movement toward that optimal shape? There are many reasons&mdash;lack of selection pressures (not playing in tough enough games), persistent cognitive biases and misperceptions, lack of critical awareness, being motivated and reinforced by factors other than money (such as excitement, etc.), and, sometimes, hurdles of complexity (like having to evolve an organ that's ineffective until it's fully evolved). There are many obstacles in the way of the undirected learner.
-
-Entertain a metaphor for a moment&mdash;imagine that learning poker is like a game of Minesweeper. When you start playing, your map of the terrain of poker is very naïve&mdash;you have no idea what's good or bad, everything just looks like an open field. The underlying reality (that is, the optimal, real map of poker) is very complex, but you're oblivious to all of that. You just see the blank Minesweeper game. The only way to get more information and fill in your map of poker is by starting to take risks. You must uncover new blocks in the map, and with every click you begin to locate mines (bad play) and open space (good play). However, unlike in Minesweeper, you do not lose the game when you make a mistake. Instead, you might lose a pot, but you are allowed to continue. At worst, you take a slap on the wrist. In this way, poker encourages us: take risks! Make mistakes! Spread out as far and wide as you can, to figure out what works and what doesn't. The more data points you have, the better and faster you will learn the terrain. The ideal approach to learning is one that uncovers the underlying field as quickly and diligently as possible.
-
-Learning poker is hard. If it weren't, it wouldn't be lucrative. But this understanding of what learning poker *is* (that is, tempering the shape of our networks toward the optimal network), gives us valuable insight. The process is one of trial and error, continual feedback and calibration. Our goal in learning, then, is to speed up and optimize that process as much as possible. We want to maximize the data points, increase the rates at which our neuronal networks are altered, and we want to increase the retention of those alterations (i.e. make the learning *stick)*. This is true in almost any skill&mdash;if you are not continually testing your limits and challenging your boundaries, you are not growing as a learner. In fact, one study of Olympic ice skaters showed that the ice skaters who achieved the highest skill level were the ones who took the *most falls* during practice. Rather than taking a mistake to be a bad sign, take it as a sign that you're pushing the threshold of your skill level&mdash;which is exactly where you should be!
-
-So the first key is that **we want to have a strategy that takes a lot of risks**. You're playing a game of Minesweeper, except you effectively have innumerable lives. Click around. Make mistakes. In the end, every mistake is an opportunity to gain new knowledge about the terrain, and to use it to your advantage in the future.
-
-### Blueprinting
-
-Of course, there are many differences between poker and a game of Minesweeper. One of these differences is that as poker players, we are not forced to start with a blank slate. We are given access to other people's maps of the minefield called poker.
-
-How so?
-
-Articles, videos, books, through interacting with poker friends or even just watching hands play out&mdash;they all give us valuable insight into *the way that other poker minds are structured*. Although looking at such things from the outside does not make us capable of emulating their poker mind (no number of hours watching Phil Galfond videos will make you play like Phil Galfond), it does allow you to see the overall *structure* and *organization* of their game. It gives you an idea of what a good map looks like, what it's composed of, and how different elements relate to one another. Instead of simply throwing darts on a blank board like a game of Minesweeper, it allows you to have some idea of approximately where and how things should be allocated, the way mines are usually spread out, what a final map probably looks like.
-
-This is the second key: **to use blueprints to accelerate the shaping of our games.** With blueprints, we are able to learn leaps and bounds faster, and things like videos, articles, hand histories, and our relationships with other poker players allow us easy access to very powerful blueprints.
-
-So how do we best take advantage of blueprints?
-
-Consider the education of apes. In certain species of apes, when a young ape is trying to learn how to properly crack a nut, the mother will put her hands around the hands of the infant and *manipulate the infant's hands* to make it crack the nut correctly. This is called **shaping**. By shaping, rather than simply demonstrating visually by cracking her own nut, the mother is able to directly imprint on the infant's mind the proper technique, muscle memory, and timing of cracking a nut. It *primes* the infant to learn the correct technique on its own. Shaping in this way is much more powerful than mere demonstration; it gets the technique &ldquo;into the learner's body,&rdquo; so to speak.
-
-So how can we take advantage of shaping in poker? The most prominent example is getting sweated. Being sweated by a stronger player is one of the most powerful methods of learning in poker, for the simple reason that it *instills the learning into your body.* If you are sweat and your sweat-er makes you do a check-raise you'd never ordinarily do, you will be much more able to perform the action in the future compared to if he merely pointed out the check-raise on paper. The simple act of clicking the button (and getting all of the table feedback of your opponent thinking, calling time, eventually folding his hand, you winning the pot) primes your poker-playing-mind to be able to make such a move again in the future. Of course, a sweat is more than one check-raise&mdash;in an extended sweat, you will assume a completely different player's style, logic, and attitude toward poker. Inhabiting the space of another person's mind will allow you viscerally to explore their blueprint of poker, and let its possibilities imprint upon your own mind.
-
-Unfortunately, while sweating may be ideal for learning, real-time sweats may not always be possible. So when we can't do a real-time sweat, what can we do? Well, we can instead *simulate* sweating. We will talk about this in more detail when we discuss elaborative rehearsal, as the ideas go hand-in-hand.
-
-Language is another invaluable aspect to incorporating a poker blueprint. The *way* that someone talks about poker reveals a great deal about the way that his blueprint is organized. As an experiment, try observing the differences between the ways Phil Galfond, Sauce and Jungleman talk about poker hands in their videos&mdash;what are the first things they talk about? What concepts do they continually invoke? The things they all tend to talk about, and in what order do they mention them? What do they *not* talk about? By analyzing these things, you will reveal a lot about the way they think about poker, and to what concepts they give the most priority. Although these three players would reach many of the same conclusions about certain hands, they have very different blueprints of how poker should be played and thought about.
-
-The point is this&mdash;start speaking with the right kind of language, and the structuring of your poker thinking will follow. If you start speaking about poker the way Phil Galfond does, chances are, your play will start to gravitate toward his. So language is important. But how exactly does one learn to speak &ldquo;poker'?
-
-Of course, apes are not the only creatures that shape their young&mdash;we humans do it too. When young children try to tell their parents stories, parents will instinctively guide their child toward the right way to tell a story. This is because children tend to rattle off facts&mdash;they have not yet learned how to create coherent stories. So a parent will lead them: &ldquo;why did Billy do that?&rdquo; &ldquo;And then what happened to Billy?&rdquo; &ldquo;What did you learn from all that?&rdquo; And so on. This is called **scaffolding**&mdash;the teacher provides a skeletal framework which leads the student towards the right kind of linguistic structure. Ideally, a competent poker coach will engage in the same sort of scaffolding. &ldquo;Why are you making this bet?&rdquo; &ldquo;What do you think he perceives your range to be?&rdquo; &ldquo;What inference should we make from the hand he just showed down?&rdquo; and so on. These kinds of questions lead the student toward having the right *structure* of thoughts, and prime him to follow a pattern (and perhaps ask those questions to himself). The scaffolding doesn't &ldquo;create the story,&rdquo; so to speak. It merely guides provides skeletal frameworks to which stories can be grafted.
-
-Ultimately, blueprints must be utilized in conjunction with risk-taking and, as always, acquiring lots and lots of data. No matter how well you're following a blueprint, your poker game must be filled in with experience, and its blank spots must be filled in with raw data. The path to perfection is, as always, paved by playing hands, hands, and more hands.
-
-### Elaborative Rehearsal and Isolation Drills
-
-This brings us to the third key of learning: **rehearsal**; specifically, **elaborative rehearsal**. Elaborative rehearsal is the concept that when you are trying to learn something new, you should try to engage that learning in as many ways and modalities as possible, and relate it to other things you know. This maximizes the retention of new learning.
-
-Say, for example, that you're trying to memorize this list of words: &ldquo;cat / farm / blue / chip / pave / tree.&rdquo; If you try to memorize this list using a shallow rehearsal then you'll simply repeat the list of words to yourself until you can recite them from memory. It will probably take you a while, and isn't very efficient. If instead you learn this list of words by creating a story and relating the pieces of information to one another&mdash;by *elaboratively engaging *all of the information and activating structures of meaning&mdash;you will learn the information faster, and retain it for longer. So instead of just a list of disconnected words, perhaps you try to create an image: &ldquo;There was a cat farm littered with blue chips and paved with trees.&rdquo; Or perhaps instead of simply reciting the words out loud, you practice writing them down, or creating a melody to accompany the list.
-
-By engaging with the information presented to you in different modalities, you create stronger interconnections within or between the networks that already exist in your brain. Instead of having to forge a completely new network of knowledge (an auditory list of disconnected words), you take advantage of all of the other pre-existing networks that you can rely on to reinforce this knowledge and make its retention easier. You want your rehearsals (that is, your practice) to be *as elaborative**and engaging* as possible, and the same principle is fundamental to learning good poker.
-
-Say that you are reviewing some of your hands in PokerTracker or HoldemManager. Your review method is to find your biggest losing hands, read them over, decide mentally if you made a mistake or not, and then move on. This is a very shallow rehearsal&mdash;there is a limited modality of engagement here, which is *reading a hand history*. The rehearsal becomes more elaborative if you do things like write down what you think your mistake was, or replay the hand in the hand replayer and imagine yourself playing it again. Simply visualizing the hand again will engage many more mental networks&mdash;the parts that are activated while actually playing&mdash;and make the learning more likely to stick. Anything you can do to engage the stimuli in more modalities makes you more likely to learn and retain the new information.
-
-I should also mention, at the risk of stating the obvious, that when it comes to rehearsal, reviewing past learning is essential to retention. Once in a while, go back to your marked hands from last month or two months ago, and read some of them over again to remind yourself of what you've learned. Once in a while, read over all of your notes on your table nemesis, even if you feel like you know him like the back of your hand. Review is essential&mdash;so don't short-change yourself, even if you feel confident in your reads.
-
-There is a second principle of elaborative rehearsal, which is **practice like performance**. According to this rule, to optimize learning we should make rehearsals as similar as possible to performance. If, for example, you are going to be tested on your ability to write down the aforementioned list of words on a test, what do you suppose is the best way to practice for that? By the principle of practice like performance, you shouldn't review the list again and again until you remember it, or try to memorize reciting the list verbally. The best way to improve your test performance is by *testing*&mdash;that is, by simulating the conditions under which you'll have to perform your knowledge. Studies have repeatedly shown that if you practice by repeatedly testing yourself using a quiz similar to the way you will be quizzed, this vastly improves testing scores over any other method of vocabulary retention. This insight has many implications for us as poker players.
-
-After all, in poker, what are you studying for? What's the final performance? The performance is *actually playing**poker*. This means two things: one, we should deliberately practice our skills *while* we are playing poker, and, second, we should make our external practice *as close to the reality of playing poker as possible*.
-
-Consider how most people watch videos. They sit idly, listen to the video-maker speak and almost zone out until they see/hear something really cool, or something they disagree with. Then they are engaged&mdash;but their engagement is primarily with the theory part of their mind. This is why watching a video is primarily good at developing your theoretical muscles, but not as good at engaging the *play* or *performative* skillset.
-
-Remember when we talked about the value of sweating? Well, videos provide an excellent platform to mentally *simulate *sweating. If you watch a video while imagining that you're really playing the hands, this will activate a totally different network in your brain from the video-watching network (that is, if you visualize it correctly). You might then imagine that the video-maker is directly speaking to you and telling you what to do. There is a wealth of difference between sitting and thinking about the theoretical implications of checking your set to him on the river and actually *visualizing that you're doing it*. I would even recommend clicking the actual button on the screen, as though you were actually playing the table! This sounds silly because we are married to the idea that poker is a &ldquo;mental game&rdquo;; that it is one undifferentiated skillset. But in theory, every video is an opportunity wholly to inhabit the mind another poker player, and allows you to test your own physical and mental boundaries in a safe environment. All it takes is visualization and commitment.
-
-Remember, again, the importance of fear and mental boundaries. Respect the difficulty it takes to click a button. You might think it's something trivial, but the difference between making a bluff that popped into your head and not making it is often simply *having experienced having clicked that button before*. If you've seen a certain bluff made in many videos, yet have never made it yourself, it is simply the fear of hitting that button that holds you back. Respect the physicality of poker! Something as simple as rehearsing going all-in or making a ballsy bluff by clicking a button on a frozen video can make a big difference.
-
-Practice like performance. Anything you can do to make your practicing, studying, and preparation as close as possible to actual poker will maximize your learning gains. Your brain is not as smart as you&mdash;it can be tricked easily. Take advantage of visualization, multiple modalities, and elaborative rehearsal.
-
-Finally, let's look at **isolation drills**. Earlier we said that if we want to make practice as close as possible to performance, then we should deliberately practice our skills *while* we are playing poker. Isolation drills provide us a way to do this.
-
-The first and most obvious isolation drill is to simply **isolating attention**. If you want to practice 3-barreling, make working on this the focus of your session, and pay extra attention every time you barrel someone and there's a chance for a third barrel. In short, make your session unofficially &ldquo;about&rdquo; doing third barrels, and put everything else on the backburner. This might seem simple, but it's an invaluable tool in any player's skillset.
-
-Remember the three types of learning? By isolating your attention, you can foreground your theory network or emotional network while playing. Let's say you tend to expect to lose every coinflip (emotional defeatism). You might play an isolation session, in which you practice mentally imagining that you'll *win* every coinflip. If you know you are weak in a certain situation and you know how to isolate and counteract your natural reaction, an isolation session can powerfully enhance your learning and development.
-
-The second type of isolation drill is an **artificial experiment**. An artificial experiment is one in which you create artificial rules for yourself during the experiment, designed to test or practice a very specific skill. For example, say you have a lot of trouble fighting 3-bettors out of position. You might design an artificial experiment by moving down maybe one or two stakes below your normal stakes, and playing a session where you call every single 3-bet out of position and try to play well postflop. By isolating and continually exposing yourself to the situation, you will quickly increase your sensitivity and experience, as well as force yourself to challenge your preconceptions about what it's like to deal with such spots. Artificial experiments are not just valuable for gaining experience and improving your understanding of the underlying map of possibilities, but also for challenging and breaking down recurrent negative cognitions, such as &ldquo;it's impossible to play well when you call a 3-bet out of position.&rdquo;
-
-To conclude&mdash;if you have a good strategy coach or mental coach who is guiding you in your learning process, ideally you should have a learning regimen that incorporates all of these aspects in tackling your poker weaknesses. But even without a coach, as long as you have the knowledge (and a little creativity), you can engineer a plan to attack your weaknesses yourself. By incorporating ample risk-taking, proper blueprinting, and effective rehearsal, anyone can optimize and speed up their growth as a learner of poker.
-
-----
-
-<div class="note">Note: this is adapted from the rough draft of my first book, <em>How to Be a Poker Player: The Philosophy of Poker</em>. If you like what you read, consider buying the <a href="http://www.amazon.com/dp/B00HFDJU6A">completed book</a>&mdash;it's tightly edited and contains new material! Hope you enjoyed. :)</div>
-
-
----2013-06-24-the-poker-community.md
+2013-06-24-the-poker-community.md
 title: The Poker Community
 tags: [poker]
 image: network.jpg
@@ -1452,7 +126,8 @@ For the next and final article, we are going to discuss the last, but most impor
 <div class="note">Note: this is adapted from the rough draft of my first book, <em>How to Be a Poker Player: The Philosophy of Poker</em>. If you like what you read, consider buying the <a href="http://www.amazon.com/dp/B00HFDJU6A">completed book</a>&mdash;it's tightly edited and contains new material! Hope you enjoyed. :)</div>
 
 
----2013-07-15-how-to-live-as-a-poker-player-part-1.md
+---
+2013-07-15-how-to-live-as-a-poker-player-part-1.md
 title: How to Live as a Poker Player, Part 1
 tags: [poker]
 image: storm-trooper.jpg
@@ -1585,7 +260,8 @@ This concludes the first part of this three-part series on the life of a poker p
 <div class="note">Note: this is adapted from the rough draft of my first book, <em>How to Be a Poker Player: The Philosophy of Poker</em>. If you like what you read, consider buying the <a href="http://www.amazon.com/dp/B00HFDJU6A">completed book</a>&mdash;it's tightly edited and contains new material! Hope you enjoyed. :)</div>
 
 
----2013-07-26-how-to-live-as-a-poker-player-part-2.md
+---
+2013-07-26-how-to-live-as-a-poker-player-part-2.md
 title: How to Live as a Poker Player, Part 2
 tags: [poker]
 image: storm-trooper.jpg
@@ -1684,7 +360,8 @@ In the next article, we will conclude our examination of the life of a poker pla
 <div class="note">Note: this is adapted from the rough draft of my first book, <em>How to Be a Poker Player: The Philosophy of Poker</em>. If you like what you read, consider buying the <a href="http://www.amazon.com/dp/B00HFDJU6A">completed book</a>&mdash;it's tightly edited and contains new material! Hope you enjoyed. :)</div>
 
 
----2013-08-02-how-to-live-as-a-poker-player-part-3.md
+---
+2013-08-02-how-to-live-as-a-poker-player-part-3.md
 title: How to Live as a Poker Player, Part 3
 tags: [poker]
 image: storm-trooper.jpg
@@ -1803,7 +480,8 @@ I wish you the best of luck. I mean it. I really do.
 <div class="note">Note: this is adapted from the rough draft of my first book, <em>How to Be a Poker Player: The Philosophy of Poker</em>. If you like what you read, consider buying the <a href="http://www.amazon.com/dp/B00HFDJU6A">completed book</a>&mdash;it's tightly edited and contains new material! Hope you enjoyed. :)</div>]
 
 
----2013-10-11-what-comes-next.md
+---
+2013-10-11-what-comes-next.md
 title: What Comes Next
 tags: [personal]
 image: path-2_edtvrl.jpg
@@ -1844,7 +522,8 @@ Right now, I have to focus on right now. I need to edit this book, focus on my w
 **[How To Like It&mdash;by Stephen Dobyns](http://www.smith.edu/poetrycenter/poets/howtolikeit.html)**
 
 
----2013-11-12-beauty-in-poker.md
+---
+2013-11-12-beauty-in-poker.md
 title: Beauty in Poker
 tags: [poker]
 image: minerva_qqww39.jpg
@@ -1933,7 +612,8 @@ Ultimately, the higher and higher you go on the ladder of poker prowess, the mor
 Poker is all about possibilities, and the moment of discovering a new possibility is the sweetest feeling for a poker player. For a beginner, you might imagine that they'd find the most mundane of poker dogma, such as folding ace-ten offsuit from under the gun, as a beautiful solution to a difficult problem. And as we move up the ladder, players start to appreciate more subtle and surprising solutions to various problems, slowly uncovering more and more of the field of gameplay. Even experienced players often speak of &ldquo;aha&rdquo; moments, at which point their understanding of poker suddenly jumped up to another level, or some concept which they once didn't really grasp was suddenly elucidated. I think these are the moments in poker we all hunger for. There is, truly, no greater delight than that moment of discovery. When we emerge out of the cave of ignorance, and the light of realization blinds us with its brilliance… it is then that the universe of possibilities unfurls itself before us. And indeed, it is a thing of beauty.
 
 
----2013-12-15-glossary.md
+---
+2013-12-15-glossary.md
 title: Glossary of Poker Terms
 tags: [poker]
 image: placeholder.jpg
@@ -2143,7 +823,8 @@ This is a glossary of common poker terms. Suggest additions or changes in the co
 
 
 
----2013-12-18-connect.md
+---
+2013-12-18-connect.md
 title: Connect
 tags: [597d7cd4fc52c1000f524b43]
 image: steps_mnn2rs.jpg
@@ -2156,7 +837,8 @@ Have a question about my life? Just want to tell me a funny story from your day?
 You can find me at *haseeb(at)haseebq.com*.
 
 
----2013-12-18-book.md
+---
+2013-12-18-book.md
 title: Book
 tags: [poker]
 image: book-cover_nigrpq.jpg
@@ -2165,7 +847,8 @@ image: book-cover_nigrpq.jpg
 [![cover of How to Be a Poker Player](389670)
 
 
----2013-04-29-the-art-of-talking-to-yourself.md
+---
+2013-04-29-the-art-of-talking-to-yourself.md
 title: The Art of Talking to Yourself
 tags: [poker]
 image: stuart-smalley.jpg
@@ -2286,7 +969,8 @@ The limitations of poker theory are very real, and must be taken seriously. In m
 <div class="note">Note: this is adapted from the rough draft of my first book, <em>How to Be a Poker Player: The Philosophy of Poker</em>. If you like what you read, consider buying the <a href="http://www.amazon.com/dp/B00HFDJU6A">completed book</a>&mdash;it's tightly edited and contains new material! Hope you enjoyed. :)</div>
 
 
----2013-12-20-starting-over.md
+---
+2013-12-20-starting-over.md
 title: Starting Over
 tags: [effective altruism, personal, poker]
 image: placeholder.jpg
@@ -2368,7 +1052,8 @@ Don't be like that.
 Oh, you want to say something? [You can tell me here, or ask me a question!](httpss://haseebq.com/connect/) I'm probably going to get swamped by those pretty soon, but I'll do my best to get back to you.
 
 
----2013-12-27-turning-the-wheel.md
+---
+2013-12-27-turning-the-wheel.md
 title: Turning the Wheel
 tags: [effective altruism, personal, poker]
 image: snow-001_ysudhs.jpg
@@ -2419,7 +1104,8 @@ I'll end with a quote, which has been on my mind since all this.
 > <div class="source">Rainer Maria Rilke</div>
 
 
----2013-12-30-press.md
+---
+2013-12-30-press.md
 title: Press
 tags: [poker]
 image: placeholder.jpg
@@ -2447,7 +1133,8 @@ image: placeholder.jpg
 - [PokerPlayer Magazine](http://www.pokerplayer.co.uk/poker-players/player-interviews-poker-players/haseeb-internet-pokers-quereshi/) Haseeb &ldquo;Internet Pokers&rdquo; Qureshi Interview (2009)
 
 
----2013-12-31-what-ithacas-mean.md
+---
+2013-12-31-what-ithacas-mean.md
 title: What Ithacas Mean
 tags: [effective altruism, personal]
 image: ithacas_d7rpxv.jpg
@@ -2544,7 +1231,8 @@ I've got nothing but love for you guys. Here's to a new year and a new beginning
 Happy New Year,
 
 
----2014-01-02-a-portrait-of-the-artist-as-a-mid-stakes-grinder.md
+---
+2014-01-02-a-portrait-of-the-artist-as-a-mid-stakes-grinder.md
 title: A Portrait of the Artist as a Mid-Stakes Grinder
 tags: [personal, poker]
 image: james-joyce_ot20oa.jpg
@@ -2599,7 +1287,8 @@ Thanks for reading,
 And ditto from big me,
 
 
----2014-01-08-money-money-everywhere.md
+---
+2014-01-08-money-money-everywhere.md
 title: Money, Money Everywhere
 tags: [poker]
 image: The-Rime-of-The-Ancient-M-001_usmpap.jpg
@@ -2639,7 +1328,8 @@ Money can be a great mental burden, and to many people, it is. But the goal, in 
 > <div class="source">Samuel Taylor Coleridge</div>
 
 
----2014-01-15-how-to-play-pocket-jacks.md
+---
+2014-01-15-how-to-play-pocket-jacks.md
 title: How to Play Pocket Jacks
 tags: [poker]
 image: playing-pocket-jacks-e1389847151903_xvbgnj.png
@@ -2654,7 +1344,8 @@ This is probably one of the most common questions in poker, and yet no one seems
 If you guys enjoy this format, please leave a comment and let me know! Or if you have another question that you potentially want answered, leave a comment here, or send me an e-mail.
 
 
----2014-01-22-the-two-things-about-poker.md
+---
+2014-01-22-the-two-things-about-poker.md
 title: The Two Things About Poker
 tags: [poker]
 image: things_pjj2rm.jpg
@@ -2701,7 +1392,8 @@ Until next time,
 <div class="aside">[Note: this is adapted from an article I originally wrote in 2010, but I liked it enough that I wanted to clean it up and post it on here. Hope you dig it.]</div>
 
 
----2014-01-29-tilt-the-customer-is-always-right.md
+---
+2014-01-29-tilt-the-customer-is-always-right.md
 title: Tilt: The Customer is Always Right
 tags: [poker]
 image: Chocolate-Ganache_y6uzrn.jpg
@@ -2717,7 +1409,8 @@ Of course, you also get to enjoy my chocolatey voice in its full aural delicious
 Hope you enjoyed! The audiobook should be released soon; I'll be working through the recording this weekend. Look forward to it, and be sure to pick it up once it comes out–you know, so I'm not wearing out my voice for nothing.
 
 
----2014-02-05-the-million-dollar-bet.md
+---
+2014-02-05-the-million-dollar-bet.md
 title: The Million Dollar Bet
 tags: [poker]
 image: house-of-cards-falling_vshmfx.jpg
@@ -3133,7 +1826,8 @@ He had to go. He asked me if I'd be here when he got back later tonight. I told 
 I finished packing my car, took with me a couple of the power bars that Ashton had left uneaten, and started the drive home. They tasted awful.
 
 
----2014-02-22-pokers-tragedy-of-the-commons.md
+---
+2014-02-22-pokers-tragedy-of-the-commons.md
 title: Poker's Tragedy of the Commons
 tags: [poker]
 image: bison_skull_pile-restored-e1393062592131_un4nub.jpg
@@ -3227,7 +1921,8 @@ And for the sake of those who are now trying to come up in this game, I hope tha
 *Update on the audiobook: How to Be a Poker Player: The Philosophy of Poker* went up for sale last night, available on [Amazon and Audible.com for FREE](http://www.amazon.com/How-Be-Poker-Player-Philosophy/dp/B00IJHYGOM/ref=tmm_aud_title_0) if you sign up, and also available on iTunes!
 
 
----2014-03-07-innumeracy-bias-and-statistical-thinking.md
+---
+2014-03-07-innumeracy-bias-and-statistical-thinking.md
 title: Innumeracy Bias and Statistical Thinking
 tags: [poker]
 image: numbers_lxn0j2.jpg
@@ -3244,7 +1939,8 @@ If you have any questions, thoughts, or reflections, please leave a comment! And
 Hope you guys enjoyed the video. If you have any idea or suggestion for a future video, don't hesitate to [contact me](https://haseebq.com/connect/) with a suggestion. :)
 
 
----2014-03-16-quoracast-interview.md
+---
+2014-03-16-quoracast-interview.md
 title: Quoracast Interview
 tags: [personal, poker]
 image: quora_zbdomo.png
@@ -3263,7 +1959,8 @@ Give it a listen, and subscribe to [Quoracast](http://quoracast.quora.com/) if y
 <div class="ui embed" data-url="https://www.youtube.com/embed/Pa0dgcuUk-8">[video]</div>
 
 
----2014-03-31-questions-answers.md
+---
+2014-03-31-questions-answers.md
 title: Questions, Answers
 tags: [poker]
 image: pokervip_y6xgul.jpg
@@ -3280,7 +1977,8 @@ I'm currently doing a forum Q&A on [PokerVIP.com](http://www.pokervip.com), as w
 <div class="ui embed" data-url="https://www.youtube.com/embed/YiL3HxWYI4A">[video]</div>
 
 
----2014-04-11-words-from-the-future.md
+---
+2014-04-11-words-from-the-future.md
 title: Words from the Future
 tags: [personal]
 image: 6038413394_537bd19d75_z_py1gbb.jpg
@@ -3331,7 +2029,8 @@ Those are mine. What are yours? Take five minutes. You don't have to share them 
 Give it a try,
 
 
----2014-04-26-the-dog-of-athens.md
+---
+2014-04-26-the-dog-of-athens.md
 title: The Dog of Athens
 tags: [personal]
 image: diogenes_ukigua.jpg
@@ -3364,7 +2063,8 @@ Now, writing a memoir and mind coaching, eating healthy and working out a lot, v
 That I might be a canine half as fine&mdash;cheers, you old dog.
 
 
----2014-05-13-free-coachinggiveaway.md
+---
+2014-05-13-free-coachinggiveaway.md
 title: Free Coaching/Giveaway!
 tags: [poker]
 image: Plato-and-socrates-590x433_pqi6lp.jpg
@@ -3395,7 +2095,8 @@ I'll update this once the window for applications is closed. Hopefully the resul
 <div class="ui embed" data-url="https://www.youtube.com/embed/kQuyC3eLgVA">[video]</div>
 
 
----2014-05-18-public-coaching-session-scott-c.md
+---
+2014-05-18-public-coaching-session-scott-c.md
 title: Public Coaching Session: Scott C
 tags: [poker]
 image: 1_vfsnuz.png
@@ -3416,7 +2117,8 @@ This session focuses a lot on **tilt**, **motivation to play**, and **confidence
 <script async="" src="http://yourlisten.com/embed.js?17131703" type="text/javascript"></script>
 
 
----2014-05-19-public-coaching-session-yaroslav.md
+---
+2014-05-19-public-coaching-session-yaroslav.md
 title: Public Coaching Session: Yaroslav
 tags: [poker]
 image: 2_ripjjz.png
@@ -3437,7 +2139,8 @@ This session focuses on **anger**, **hot tilt**, **relaxation exercises**, **mak
 [Note: there is a bit of noise in the beginning sometimes when Yaro speaks, but it goes away pretty soon.]
 
 
----2014-05-22-public-coaching-session-joao.md
+---
+2014-05-22-public-coaching-session-joao.md
 title: Public Coaching Session: João
 tags: [poker]
 image: 3_xfhjgf.png
@@ -3454,7 +2157,8 @@ This session deals primarily with **boredom**, **transitioning to live games**, 
 <script async="" src="http://yourlisten.com/embed.js?17133895" type="text/javascript"></script>
 
 
----2014-06-09-public-coaching-followups.md
+---
+2014-06-09-public-coaching-followups.md
 title: Public Coaching: Followups
 tags: [poker]
 image: 4_jywdaz.png
@@ -3494,7 +2198,8 @@ Well, I recently finished the last followups, and to say the least, I was comple
 All in all, I'm really happy with how all of these guys ended up, and I wish them nothing but the best in the future. I was lucky to have chosen three people who were as dedicated and steadfast as these three–they all have strong potential as poker players. Who knows, you might be hearing a lot more of their names in the near future. :)
 
 
----2014-08-28-your-brain-on-multitabling.md
+---
+2014-08-28-your-brain-on-multitabling.md
 title: Your Brain on Multitabling
 tags: [poker]
 image: 8404917693_4291f33d2d_z_ty5i76.jpg
@@ -3557,7 +2262,8 @@ Dusty &ldquo;Leatherass9&rdquo; Schmidt concluded in his [infamous blog post](ht
 Until then,
 
 
----2015-04-13-why-ive-decided-to-devote-my-career-to-earning-to-give.md
+---
+2015-04-13-why-ive-decided-to-devote-my-career-to-earning-to-give.md
 title: Why I've Decided to Devote my Career to Earning-to-Give
 tags: [effective altruism, personal]
 image: EA-Logo-redbg_jgue88.png
@@ -3626,7 +2332,8 @@ I'll be writing again soon.
 
 
 
----2015-04-20-why-im-becoming-a-web-developer.md
+---
+2015-04-20-why-im-becoming-a-web-developer.md
 title: Why I'm Becoming a Web Developer
 tags: [effective altruism, personal, tech careers]
 image: sf_qv0zbr.png
@@ -3687,7 +2394,8 @@ To that end, this blog will be changing. I'll still write sometimes about poker,
 My first class of App Academy starts tomorrow morning. It's 70+ hours of non-stop work for the next few months, so I have a torrent of work ahead of me. Time to start swimming.
 
 
----2015-05-04-coding-adventures-at-app-academy-haseeb-writes-code.md
+---
+2015-05-04-coding-adventures-at-app-academy-haseeb-writes-code.md
 title: Coding Adventures at App Academy (Haseeb Writes Code)
 tags: [personal, programming, tech careers]
 image: aa_op0i5p.png
@@ -3717,7 +2425,8 @@ Sincerely trying to get enough sleep,
 
 
 
----2015-06-11-my-first-job-job-instructor-at-app-academy.md
+---
+2015-06-11-my-first-job-job-instructor-at-app-academy.md
 title: My first job-job: Instructor at App Academy
 tags: [effective altruism, personal, tech careers]
 image: aa_op0i5p.png
@@ -3740,7 +2449,8 @@ This also means that I'll begin earning-to-give and getting more involved in Eff
 (And to everyone who's been supporting me or offering advice, or just watching me as I wind along my journey, I just wanted to give a big thank-you. And I hope you continue to expect big things from me!)
 
 
----2015-08-23-why-i-became-an-effective-altruist.md
+---
+2015-08-23-why-i-became-an-effective-altruist.md
 title: Why I Became an Effective Altruist
 tags: [effective altruism, personal]
 image: EAG_e02mp9.png
@@ -3835,7 +2545,8 @@ So that's what I've decided to do. That's why I became an effective altruist.
 Perhaps you'll become one too.
 
 
----2015-10-10-cracking-the-coding-bootcamp-the-definitive-guide.md
+---
+2015-10-10-cracking-the-coding-bootcamp-the-definitive-guide.md
 title: Cracking the Coding Bootcamp - The Definitive Guide
 tags: [programming, tech careers]
 image: laptop_pficu8.jpg
@@ -3990,7 +2701,8 @@ Now finish your prep work and get ready for life in a new city!
 Next time, we'll pick up once the program begins, in Step 3, and see how to excel in your course. Watch this space!
 
 
----2015-12-31-my-first-year-earning-to-give-a-retrospective.md
+---
+2015-12-31-my-first-year-earning-to-give-a-retrospective.md
 title: My First Year Earning-to-Give: a Retrospective
 tags: [effective altruism, personal, tech careers]
 image: cea_cwqcge.png
@@ -4044,7 +2756,8 @@ But I think 2016 is going to be even more amazing.
 Here's to a new year. Here's to changing the world. Here's to staying hungry and learning like crazy.
 
 
----2016-04-13-farewell-app-academy-hello-airbnb-part-i.md
+---
+2016-04-13-farewell-app-academy-hello-airbnb-part-i.md
 title: Farewell, App Academy. Hello, Airbnb. (Part I)
 tags: [effective altruism, personal, tech careers]
 image: aa_op0i5p.png
@@ -4158,7 +2871,8 @@ A week and a half later I open my inbox, and there fresh and white, a reply from
 
 
 
----2016-04-14-farewell-app-academy-hello-airbnb-part-ii.md
+---
+2016-04-14-farewell-app-academy-hello-airbnb-part-ii.md
 title: Farewell, App Academy. Hello, Airbnb. (Part II)
 tags: [effective altruism, personal, tech careers]
 image: airbnb_cls6dd_yggjbh.png
@@ -4497,7 +3211,8 @@ So if there's one takeaway I want people to have, it's not &ldquo;here's why it 
 The real takeaway should be: *get so good that they can't ignore you.* Because once you are, they won't.
 
 
----2016-05-07-how-to-break-into-tech-job-hunting-and-interviews.md
+---
+2016-05-07-how-to-break-into-tech-job-hunting-and-interviews.md
 title: How to Break Into the Tech Industry—a Guide to Job Hunting and Tech Interviews
 tags: [tech careers]
 image: coding-924920_960_720_wtwest.jpg
@@ -5188,7 +3903,8 @@ Godspeed, you code warrior.
 Edit: If you are trying to break into tech and intend to [earn-to-give](https://en.wikipedia.org/wiki/Earning_to_give) (that is, you plan to donate at least 20% of your income to high-impact charities), [reach out to me](https://haseebq.com/connect), and I'd be happy to give you advice on your resume, free of charge. :)
 
 
----2013-04-15-the-myth-of-the-feel-player.md
+---
+2013-04-15-the-myth-of-the-feel-player.md
 title: The Myth of the Feel Player
 tags: [poker]
 image: moustache_hbndgf.jpg
@@ -5280,7 +3996,8 @@ In reality, there are probably no true Feel Players at high stakes anymore. The 
 <div class="note">Note: this is adapted from the rough draft of my first book, <em>How to Be a Poker Player: The Philosophy of Poker</em>. If you like what you read, consider buying the <a href="http://www.amazon.com/dp/B00HFDJU6A">completed book</a>&mdash;it's tightly edited and contains new material! Hope you enjoyed. :)</div>
 
 
----2016-09-02-how-not-to-bomb-your-offer-negotiation.md
+---
+2016-09-02-how-not-to-bomb-your-offer-negotiation.md
 title: How Not to Bomb Your Offer Negotiation
 tags: [effective altruism, tech careers]
 image: bertman_uql79e.jpg
@@ -5770,7 +4487,8 @@ There's a lot more in the works.
 Until next time,]
 
 
----2016-12-25-10-principles-i-want-to-live-by.md
+---
+2016-12-25-10-principles-i-want-to-live-by.md
 title: 10 Principles I Want to Live By
 tags: [effective altruism, personal]
 image: stairs.jpg
@@ -5899,7 +4617,8 @@ So don't give it up. Keep asking for too much. Hunger for the world and everythi
 I'll be writing more soon about my donations and some reflections on 2016. But for now, thanks for reading.
 
 
----2017-01-29-2016-donations-and-some-thoughts.md
+---
+2017-01-29-2016-donations-and-some-thoughts.md
 title: 2016 donations and some thoughts on the \"Muslim Ban\"
 tags: [effective altruism, personal]
 image: picasso.jpg
@@ -5976,7 +4695,8 @@ I, for one, am going to keep fighting in my own way. 
 I hope you do the same.
 
 
----2017-04-06-the-time-i-had-to-crack-my-own-reddit-password.md
+---
+2017-04-06-the-time-i-had-to-crack-my-own-reddit-password.md
 title: The Time I Had to Crack My Own Reddit Password
 tags: [personal, programming]
 image: hackers.jpg
@@ -6334,7 +5054,8 @@ Embarrassing support e-mail averted. Reddit rabbit-holing restored. It's now con
 And with that, I'm gonna get back to my internet rabbit-holes. Thanks for reading, and share this if you enjoyed it!
 
 
----2017-07-10-talks.md
+---
+2017-07-10-talks.md
 title: Talks
 tags: [personal, programming, tech careers]
 image: rails-conf.jpg
@@ -6376,7 +5097,8 @@ image: rails-conf.jpg
 * [Topic Roundtable with Haseeb Qureshi and Practical Dev’s Ben Halpern](https://softwareengineeringdaily.com/2016/10/21/topic-roundtable-with-haseeb-qureshi-and-practical-devs-ben-halpern/)
 
 
----2017-07-10-blockchain-the-revolution-were-not-ready-for.md
+---
+2017-07-10-blockchain-the-revolution-were-not-ready-for.md
 title: Blockchain: the revolution we're not ready for
 tags: [blockchain, programming]
 image: blockchain.jpg
@@ -6485,7 +5207,8 @@ For now, thanks for reading.
 And if you're a developer wondering how you can get involved and help build this future, check out this [link](https://github.com/Scanate/EthList) and start getting your hands dirty.
 
 
----2017-07-21-a-hacker-stole-31m-of-ether.md
+---
+2017-07-21-a-hacker-stole-31m-of-ether.md
 title: A hacker stole $31M of Ether—how it happened and what it means for Ethereum
 tags: [blockchain, programming]
 image: /content/images/2017/07/blockchain.png
@@ -6773,7 +5496,8 @@ P.S. If you’re a dev and you want to learn more about smart contract security,
 *Errata: This article originally said that Gavin Wood was the developer of the contract, which is incorrect. Gavin is the founder of Parity and pushed the fix to the contract, but was not the original developer. It also originally claimed that $77M additional funds were vulnerable, but this doesn’t count all of the ERC20 (ICO) tokens that were vulnerable. The total amount is actually $150,000,000+ if you include all ERC20 tokens. As of the time of writing this (July 21st 4PM EST), the total value of the assets saved by the white-hats was $179,704,659.*
 
 
----2013-06-12-not-all-theory-is-created-equal.md
+---
+2013-06-12-not-all-theory-is-created-equal.md
 title: The Limits of Poker Theory
 tags: [poker]
 image: L-system.jpg
@@ -6896,7 +5620,8 @@ In the end, poker theory tells us about a lot more than just poker. It tells us 
 <div class="note">Note: this is adapted from the rough draft of my first book, <em>How to Be a Poker Player: The Philosophy of Poker</em>. If you like what you read, consider buying the <a href="http://www.amazon.com/dp/B00HFDJU6A">completed book</a>&mdash;it's tightly edited and contains new material! Hope you enjoyed. :)</div>
 
 
----2016-07-11-my-ten-rules-for-negotiating-a-job-offer.md
+---
+2016-07-11-my-ten-rules-for-negotiating-a-job-offer.md
 title: Ten Rules for Negotiating a Job Offer
 tags: [tech careers]
 image: negotiate.jpg
