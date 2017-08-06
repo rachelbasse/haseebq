@@ -14,7 +14,7 @@ I waste a lot of time on Reddit. If I want to procrastinate on something, I'll o
 
 I needed an abstinence plan.
 
-```python linenos
+```python
 def f(x, y):
   return map(x, y)
 ```

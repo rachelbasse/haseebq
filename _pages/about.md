@@ -15,8 +15,3 @@ def mmmap(func, lst):
 def mmmap(func, lst):
   return map(func, lst)
 ```
-
-{% highlight python linenos %}
-def mmmap(func, lst):
-  return map(func, lst)
-{% endhighlight %}
