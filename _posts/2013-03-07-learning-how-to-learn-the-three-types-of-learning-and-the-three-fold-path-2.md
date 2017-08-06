@@ -1,5 +1,5 @@
 ---
-title: Learning How to Learn: The Three Types of Learning and the Three-fold Path
+title: "Learning How to Learn: The Three Types of Learning and the Three-fold Path"
 tags: [poker]
 image: Plato-and-socrates-590x433_pqi6lp.jpg
 ---
