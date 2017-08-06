@@ -31,7 +31,7 @@ hr
 @media all and (min-width: 801px)
 {.divider.item { border-left: solid 1px rgb(210,210,210); }}
 .site-menu.trigger
-{ border-radius: 4px; }
+{ border-radius: 0 0 6px 0; }
 /* =============================================================================
   box-shadow
 ============================================================================= */
@@ -60,7 +60,7 @@ hr
  -webkit-column-gap: 16px; /* Chrome, Safari, Opera */
     -moz-column-gap: 16px; /* Firefox */
          column-gap: 16px; }
-.menulist
+.menulist.years
 {   -webkit-columns: auto 4; /* Chrome, Safari, Opera */
  -moz-column-count: 4; /* Firefox */
  -moz-column-width: auto; /* Firefox */
