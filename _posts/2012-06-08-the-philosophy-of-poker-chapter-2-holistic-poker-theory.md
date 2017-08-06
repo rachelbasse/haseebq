@@ -1,5 +1,5 @@
 ---
-title: The Philosophy of Poker, Chapter 2: Holistic Poker Theory
+title: "The Philosophy of Poker, Chapter 2: Holistic Poker Theory"
 tags: [poker]
 image: book-cover_nigrpq.jpg
 ---
