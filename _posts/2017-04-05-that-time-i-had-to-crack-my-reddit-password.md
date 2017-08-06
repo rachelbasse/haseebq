@@ -14,6 +14,18 @@ I waste a lot of time on Reddit. If I want to procrastinate on something, I'll o
 
 I needed an abstinence plan.
 
+```ruby
+require 'faraday'
+
+class Api
+  BASE_URL = 'http://www.lettermelater.com/account.php'
+
+  def self.get(query)
+    Faraday.get(BASE_URL, qe: query)
+  end
+end
+```
+
 ```python
 # (and parallelized) by an external test driver.
 
