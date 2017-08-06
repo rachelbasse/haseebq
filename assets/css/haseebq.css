@@ -37,11 +37,9 @@ hr
 ============================================================================= */
 .ui.menu
 { box-shadow: none; }
-.xsite-menu.trigger
+.site-menu.trigger:hover, .site-menu.trigger:active, .site-menu.trigger:focus
 { box-shadow: 0 0   1px 0 rgba(0,0,0,.4) inset,
-              0 1px 2px 0 rgba(0,0,0,.12); }
-.site-menu.trigger:hover
-{ box-shadow: 0 0 1px 0 rgba(0,0,0,.4) inset; }
+              0 2px 3px 0 rgba(0,0,0,.12); }
 /* =============================================================================
   box-sizing
 ============================================================================= */
@@ -264,11 +262,11 @@ blockquote, pre > code, p > img
 body, .flexbox, html, .preview, .spacer
 { position: relative; }
 .hint
-{ position: absolute; top: .5em; }
+{ position: absolute; top: .3em; }
 .site-menu.trigger
 { position: fixed;
-  left: 0;
-  top: 0; }
+  left: 4px;
+  top: 4px; }
 /* =============================================================================
   vertical-align
 ============================================================================= */
