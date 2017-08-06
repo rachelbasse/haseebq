@@ -8,7 +8,7 @@
       <img src="{{ site.url }}/images/{% if include.page.image %}{{ include.page.image }}{% else %}placeholder.jpg{% endif %}"></a>
   </div>
   <div class="wide item">
-    <p>{{ include.page.content | markdownify | truncatewords: 70 }}<br>
+    <p>{{ include.page.content | markdownify | strip_html | truncatewords: 70 }}<br>
       <a class="no-break" href="{{ include.page.url }}">read more <i class="ui caret right icon"></i></a>
     </p>
   </div>
