@@ -30,12 +30,12 @@
     <meta name="description" content="{{ page.content | markdownify | strip_html | truncate: 200 | default: site.description }}">
     <meta property="og:description" content="{{ page.content | markdownify | strip_html | truncate: 200 | default: site.description }}">
     <meta name="twitter:description" content="{{ page.content | markdownify | strip_html | truncate: 200 | default: site.description }}">
-    <meta property="og:image" content="{{ page.image | prepend: '/images/' | absolute_url }}">
-    <meta name="twitter:image" content="{{ page.image | prepend: '/images/' | absolute_url }}">
+    <meta property="og:image" content="{{ page.image | absolute_url  }}">
+    <meta name="twitter:image" content="{{ page.image | absolute_url }}">
     <meta property="og:locale" content="{{ site.locale }}">
     <meta property="og:site_name" content="{{ site.title }}">
     <meta name="twitter:site" content="@{{ site.integrations.twitter }}">
-    <meta property="article:tag" content="{{ page.tags | array_to_sentence_string: '' }}">
+    <meta property="article:tag" content="{{ page.tags | array_to_sentence_string }}">
     <meta property="og:title" content="{{ page.title | default: site.title }}">
     <meta name="twitter:title" content="{{ page.title | default: site.title }}">
     <meta property="og:type" content="website">
@@ -58,7 +58,7 @@
   "url": "{{ page.url | absolute_url }}",
   "image": {
     "@type": "ImageObject",
-    "url": "{{ page.image | prepend: '/images/' | absolute_url }}"
+    "url": "{{ page.image | prepend: 'http://haseebq.com/images/' }}"
   },
   "mainEntityOfPage": {
     "@type": "WebPage",
