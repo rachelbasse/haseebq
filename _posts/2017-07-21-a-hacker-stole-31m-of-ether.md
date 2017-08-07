@@ -1,7 +1,7 @@
 ---
 title: "A hacker stole $31M of Ether—how it happened and what it means for Ethereum"
 tags: [blockchain, programming]
-image: /content/images/2017/07/blockchain.png
+image: hacker.png
 ---
 
 Yesterday, a hacker pulled off the second biggest heist in the history of digital currencies.

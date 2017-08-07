@@ -1,12 +1,10 @@
 # rachelbasse.github.io
 
-# Welcome
-
-This is the source for haseebq.
+This is the source for haseebq.com.
 
 ## See a typo?
 
-Here's how to suggest a change.
+Here's how to contribute changes.
 
 ## Credits, Contributions, Copyrights
 Various authors/copyright holders, licenses.
