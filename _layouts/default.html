@@ -23,18 +23,19 @@
 
     <!-- page settings -->
     <title>{{ page.title | default: "home" }} - {{ site.title }}</title>
-    <meta name="author" content="{{ site.author }}{{ page.content | markdownify | truncate: 400 | default: site.description }}">
-    <meta property="article:publisher" content="{{ site.integrations.facebook }}">
+    <meta name="author" content="{{ site.author }}">
+    <meta property="article:author" content="https://www.facebook.com/{{ site.integrations.facebook }}">
     <link rel="canonical" href="{{ page.url | absolute_url | default: site.url }}">
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="description" content="{{ page.content | markdownify | truncate: 400 | default: site.description }}">
-    <meta property="og:description" content="{{ page.content | markdownify | truncate: 400 | default: site.description }}">
-    <meta name="twitter:description" content="{{ page.content | markdownify | truncate: 400 | default: site.description }}">
-    <meta property="og:image" content="{{ page.image | default: site.cover }}">
-    <meta name="twitter:image" content="{{ page.image | default: site.cover }}">
+    <meta name="description" content="{{ page.content | markdownify | strip_html | truncate: 400 | default: site.description }}">
+    <meta property="og:description" content="{{ page.content | markdownify | strip_html | truncate: 200 | default: site.description }}">
+    <meta name="twitter:description" content="{{ page.content | markdownify | strip_html | truncate: 200 | default: site.description }}">
+    <meta property="og:image" content="{{ page.image | prepend: '/images/' | absolute_url | default: site.cover | absolute_url }}">
+    <meta name="twitter:image" content="{{ page.image | prepend: '/images/' | absolute_url | default: site.cover | absolute_url }}">
     <meta property="og:locale" content="{{ site.locale }}">
     <meta property="og:site_name" content="{{ site.title }}">
     <meta name="twitter:site" content="@{{ site.integrations.twitter }}">
+    <meta property="article:tag" content="{{ page.tags }}">
     <meta property="og:title" content="{{ page.title | default: site.title }}">
     <meta name="twitter:title" content="{{ page.title | default: site.title }}">
     <meta property="og:type" content="website">
@@ -49,7 +50,7 @@
     "name": "{{ site.author }}",
     "logo": {
       "@type": "ImageObject",
-      "url": "{{ site.profile }}",
+      "url": "{{ site.profile | absolute_url }}",
       "width": 160,
       "height": 160
     }
@@ -57,13 +58,13 @@
   "url": "{{ page.url | absolute_url }}",
   "image": {
     "@type": "ImageObject",
-    "url": "{{ page.image | absolute_url }}"
+    "url": "{{ page.image | prepend: '/images/' | absolute_url | default: site.placeholder | absolute_url }}"
   },
   "mainEntityOfPage": {
     "@type": "WebPage",
     "@id": "{{ page.url | absolute_url }}"
   },
-  "description": "{{ page.content | markdownify | truncate: 400 | default: site.description }}"
+  "description": "{{ page.content | markdownify | strip_html | truncate: 200 | default: site.description }}"
 }
     </script>
   </head>
