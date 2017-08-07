@@ -36,6 +36,12 @@ cover: images/timers.jpg
 defaults:
   -
     scope:
+      path: ""
+    values:
+      image: haseeb-profile-pink.jpg
+      layout: post
+  -
+    scope:
       path: _pages
       type: pages
     values:

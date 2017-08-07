@@ -58,7 +58,7 @@
   "url": "{{ page.url | absolute_url }}",
   "image": {
     "@type": "ImageObject",
-    "url": "{{ '/images/'page.image | absolute_url }}"
+    "url": "{{ page.image | prepend: '/images/' | absolute_url }}"
   },
   "mainEntityOfPage": {
     "@type": "WebPage",
