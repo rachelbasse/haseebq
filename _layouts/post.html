@@ -13,7 +13,7 @@ layout: default
   <div class="secondary left flexbox">
     <div class="frozen item">
       <div class="flexbox">
-        <a class="icon item" href="https://twitter.com/intent/tweet?text={{ site.title | uri_escape }}&amp;url={{ page.url | absolute_url }}"
+        <a class="icon item" href="https://twitter.com/intent/tweet?text={{ page.title | uri_escape }}&amp;via={{ site.integrations.twitter }}&amp;url={{ page.url | absolute_url }}"
             onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;"><i class="ui twitter icon"></i></a>
         <a class="icon item" href="//www.reddit.com/submit?url={{ page.url | absolute_url }}"
             onclick="window.open(this.href, 'reddit-share','width=550,height=530');return false;"><i class="ui reddit alien icon"></i></a>

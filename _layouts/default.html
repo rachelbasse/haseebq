@@ -27,9 +27,9 @@
     <meta property="article:author" content="https://www.facebook.com/{{ site.integrations.facebook }}">
     <link rel="canonical" href="{{ page.url | absolute_url | default: site.url }}">
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="description" content="{{ page.content | markdownify | strip_html | truncate: 200 | default: site.description }}">
-    <meta property="og:description" content="{{ page.content | markdownify | strip_html | truncate: 200 | default: site.description }}">
-    <meta name="twitter:description" content="{{ page.content | markdownify | strip_html | truncate: 200 | default: site.description }}">
+    <meta name="description" content="{{ page.content | default: site.description | markdownify | strip_html | truncate: 200 }}">
+    <meta property="og:description" content="{{ page.content | default: site.description | markdownify | strip_html | truncate: 200 }}">
+    <meta name="twitter:description" content="{{ page.content | default: site.description | markdownify | strip_html | truncate: 200 }}">
     <meta property="og:image" content="{{ page.image | prepend: 'http://haseebq.com/images/' }}">
     <meta name="twitter:image" content="{{ page.image | prepend: 'http://haseebq.com/images/' }}">
     <meta property="og:locale" content="{{ site.locale }}">
@@ -64,7 +64,7 @@
     "@type": "WebPage",
     "@id": "{{ page.url | absolute_url }}"
   },
-  "description": "{{ page.content | markdownify | strip_html | truncate: 200 | default: site.description }}"
+  "description": "{{ page.content | default: site.description | markdownify | strip_html | truncate: 200 }}"
 }
     </script>
   </head>
