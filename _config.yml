@@ -13,7 +13,7 @@ integrations: # Values here will be instered as USERNAME
   facebook: someguynamedhaseeb #
   github: haseeb-qureshi
   medium: hosseeb # https://medium.com/@USERNAME
-  rss: rss #
+  rss: feed #
   twitter: hosseeb
   youtube: INTERNETPOKERS # https://www.youtube.com/user/USERNAME/videos
 location: San Francisco
@@ -69,6 +69,7 @@ highlighter: rouge
 kramdown:
   input: GFM
 lang: en
+locale: en
 markdown: kramdown
 markdown_ext: md
 permalink: /:title/
@@ -84,7 +85,6 @@ url: https://rachelbasse.github.io
 exclude:
   - .editorconfig
   - .gitignore
-  - CNAME
   - Gemfile
   - Gemfile.lock
   - README.md
@@ -95,6 +95,5 @@ gems:
   - jekyll-mentions
   - jekyll-redirect-from
   - jekyll-relative-links
-  - jekyll-seo-tag
   - jekyll-sitemap
   - jemoji

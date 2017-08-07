@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
   <head>
-    <title>{{ page.title | default: "home" }} - {{ site.title }}</title>
+    <!-- site settings -->
     <meta charset="{{ site.encoding | default: "utf-8" }}">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="HandheldFriendly" content="True">
@@ -20,7 +20,52 @@
     <link rel="icon" type="image/png" sizes="32x32" href="{{ site.url }}/assets/favicons/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="{{ site.url }}/assets/favicons/favicon-16x16.png">
     {% feed_meta %}
-    {% seo title=false %} <!-- set title element? -->
+
+    <!-- page settings -->
+    <title>{{ page.title | default: "home" }} - {{ site.title }}</title>
+    <meta name="author" content="{{ site.author }}{{ page.content | markdownify | truncate: 400 | default: site.description }}">
+    <meta property="article:publisher" content="{{ site.integrations.facebook }}">
+    <link rel="canonical" href="{{ page.url | absolute_url | default: site.url }}">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="description" content="{{ page.content | markdownify | truncate: 400 | default: site.description }}">
+    <meta property="og:description" content="{{ page.content | markdownify | truncate: 400 | default: site.description }}">
+    <meta name="twitter:description" content="{{ page.content | markdownify | truncate: 400 | default: site.description }}">
+    <meta property="og:image" content="{{ page.image | default: site.cover }}">
+    <meta name="twitter:image" content="{{ page.image | default: site.cover }}">
+    <meta property="og:locale" content="{{ site.locale }}">
+    <meta property="og:site_name" content="{{ site.title }}">
+    <meta name="twitter:site" content="@{{ site.integrations.twitter }}">
+    <meta property="og:title" content="{{ page.title | default: site.title }}">
+    <meta name="twitter:title" content="{{ page.title | default: site.title }}">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="{{ page.url | absolute_url | default: site.url }}">
+    <meta name="twitter:url" content="{{ page.url | absolute_url | default: site.url }}">
+    <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "publisher": {
+    "@type": "Person",
+    "name": "{{ site.author }}",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "{{ site.profile }}",
+      "width": 160,
+      "height": 160
+    }
+  },
+  "url": "{{ page.url | absolute_url }}",
+  "image": {
+    "@type": "ImageObject",
+    "url": "{{ page.image | absolute_url }}"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "{{ page.url | absolute_url }}"
+  },
+  "description": "{{ page.content | markdownify | truncate: 400 | default: site.description }}"
+}
+    </script>
   </head>
   <body>
     <div id="site-menu" class="ui top sidebar">
