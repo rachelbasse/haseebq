@@ -1,6 +1,5 @@
 ---
 title: Press
-tags: [poker]
 image: placeholder.jpg
 ---
 

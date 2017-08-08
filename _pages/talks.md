@@ -1,6 +1,5 @@
 ---
 title: Talks
-tags: [personal, programming, tech careers]
 image: rails-conf.jpg
 ---
 
